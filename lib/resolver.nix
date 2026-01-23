@@ -177,7 +177,7 @@ with builtins; rec {
         [{
           path = [ "Enabled" ];
           update = old:
-            if value.passthru.parent == null || value.Enabled != null then
+            if !(builtins.hasAttr passthru value) || value.passthru.parent == null || value.Enabled != null then
               old
             else
               attrs."${value.passthru.parent}".Enabled;
