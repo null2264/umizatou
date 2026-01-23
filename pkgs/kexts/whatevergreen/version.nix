@@ -1,6 +1,12 @@
 # Upstream: https://github.com/acidanthera/WhateverGreen/releases/
 { lib }: rec {
-  latest = v1_6_1;
+  latest = v1_6_6;
+
+  v1_6_6 = {
+    canonicalVersion = "1.6.6";
+    debug = "sha256-pwiYpseKCYUc0cWqljT3h38uMEhAqurpEjZaFzpih4g=";
+    release = "sha256-fD2xwSmVtdd2B8fwtWOGQiklgD/6BaiNoYF2Rh0HIak=";
+  };
 
   v1_6_1 = {
     canonicalVersion = "1.6.1";

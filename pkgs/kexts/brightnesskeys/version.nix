@@ -1,6 +1,12 @@
 # Upstream: https://github.com/acidanthera/BrightnessKeys/releases/
 { lib }: rec {
-  latest = v1_0_2;
+  latest = v1_0_3;
+
+  v1_0_3 = {
+    canonicalVersion = "1.0.3";
+    debug = "sha256-JOrKZVRnBTQ18PQ/hykPPcftzzhixyIjBnbhcrYQflA=";
+    release = "sha256-2w4PzzEpmYakemiOyPdVqqXSBqgpkAzUtUVF81Qp0HI=";
+  };
 
   v1_0_2 = {
     canonicalVersion = "1.0.2";

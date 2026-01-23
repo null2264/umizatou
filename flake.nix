@@ -62,6 +62,7 @@
               kexts.intel-bluetooth-firmware = {
                 enable = true;
                 includeBlueToolFixup = false;
+                package = pkgs.oc.intel-bluetooth-firmware.nightly;
               };
 
               oceanix.opencore = {

@@ -1,6 +1,12 @@
 # Upstream: https://github.com/acidanthera/VoodooPS2/releases
 { lib }: rec {
-  latest = v2_3_1;
+  latest = v2_3_5;
+
+  v2_3_5 = {
+    canonicalVersion = "2.3.5";
+    debug = "sha256-eH5p8VPcsne4VKQm8+mEMv7WQ+dGxrb+lBE9Jiv7hrg=";
+    release = "sha256-FXrz+sqNjwOuQINgPSbBOWh4r4HiBVlCQOkHGrNelOI=";
+  };
 
   v2_3_1 = {
     canonicalVersion = "2.3.1";

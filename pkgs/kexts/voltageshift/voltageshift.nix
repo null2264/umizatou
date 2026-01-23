@@ -7,7 +7,10 @@ in mkKext rec {
   version = versionList."${ver}".canonicalVersion;
 
   src = fetchzip {
-    url = "https://github.com/sicreative/VoltageShift/raw/refs/heads/master/voltageshift_${version}.zip";
+    url = if versionList."${ver}".secure then
+      "https://github.com/xCuri0/VoltageShiftSecure/releases/download/${version}/VoltageShift${version}.zip"
+      else
+      "https://github.com/sicreative/VoltageShift/raw/refs/heads/master/voltageshift_${version}.zip";
     sha256 = versionList."${ver}".hash;
     stripRoot = false;
   };

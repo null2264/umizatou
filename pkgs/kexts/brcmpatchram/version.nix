@@ -1,6 +1,12 @@
 # Upstream: https://github.com/acidanthera/BrcmPatchRAM/releases/
 { lib }: rec {
-  latest = v2_6_4;
+  latest = v2_6_8;
+
+  v2_6_8 = {
+    canonicalVersion = "2.6.8";
+    debug = "sha256-c9Tq2wuptSw7dsZ6QwM+kiyDEhy+jXVitLmbOKHOAEk=";
+    release = "sha256-madrqK4ovgxieSwaTBubgNrzAM962qfynPHSKA/vgUo=";
+  };
 
   v2_6_4 = {
     canonicalVersion = "2.6.4";
