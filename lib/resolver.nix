@@ -206,7 +206,7 @@ with builtins; rec {
         (mapAttrs (name: value: oc.dag.entryBetween value.before (value.after ++ value.passthru.dependencies) value)
           (mapAttrs'
             (name: value: nameValuePair (
-              if value.passthru.parent == null then
+              if (builtins.hasAttr "passthru" value) && value.passthru.parent == null then
                 value.passthru.identifier
               else
                 "${value.passthru.parent}/${value.passthru.identifier}"
