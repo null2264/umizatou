@@ -113,6 +113,13 @@ in
           description =
             "Tools folders to be copied into the final package, used along with resources.packages";
         };
+
+        ResourcesFolders = mkOption {
+          type = with types; listOf path;
+          default = [ ];
+          description =
+            "Resources folders to be copied into the final package";
+        };
       };
 
       validate = mkOption {
@@ -199,6 +206,12 @@ in
             "cp -r --no-preserve=ownership,mode ${dir}/* $out/EFI/OC/Kexts/"
           else
             "") resources.KextsFolders)}
+
+        ${concatStringsSep "\n" (lib.lists.map (dir:
+          if (builtins.readDir dir) != {} then
+            "cp -r --no-preserve=ownership,mode ${dir}/* $out/EFI/OC/Resources/"
+          else
+            "") resources.ResourcesFolders)}
       '';
 
     oceanix.efiPackage = pkgs.runCommand "buildEfi" { allowSubstitutes = false; } (''
