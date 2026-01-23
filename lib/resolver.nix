@@ -205,10 +205,7 @@ with builtins; rec {
       (oc.dag.topoSort
         (mapAttrs (name: value: oc.dag.entryBetween value.before (value.after ++ value.passthru.dependencies) value)
           (mapAttrs'
-            (name: value:
-              (builtins.trace name)
-              (builtins.trace value)
-              nameValuePair (
+            (name: value: nameValuePair (
               if value.passthru.parent == null then
                 value.passthru.identifier
               else

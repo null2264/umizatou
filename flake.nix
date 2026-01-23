@@ -69,7 +69,7 @@
                 validate = false;  # Ignore validation for sample
                 resources.packages = [
                   pkgs.oc.applemcereporterdisabler
-                  #pkgs.oc.airportitlwm.latest-ventura
+                  pkgs.oc.airportitlwm.latest-ventura
                   pkgs.oc.itlwm.latest
                   pkgs.oc.brcmpatchram.latest
                   pkgs.oc.brightnesskeys.latest
@@ -78,6 +78,7 @@
                   pkgs.oc.debugenhancer.latest
                   pkgs.oc.ecenabler.latest
                   pkgs.oc.hibernationfixup.latest
+                  pkgs.oc.intel-bluetooth-firmware.latest
                   pkgs.oc.intel-mausi.latest
                   pkgs.oc.lilu.latest
                   pkgs.oc.nvmefix.latest
