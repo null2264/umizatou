@@ -1,0 +1,312 @@
+{
+    "applealc_1_9_6": {
+        "version": "1.9.6",
+        "sha256": "1x8gx2wmzc9ss4blchh8kfx7ycg455m4j2fkq4s65wixcrpd329l",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-RELEASE.zip"
+    },
+    "applealc": {
+        "version": "1.9.6",
+        "sha256": "1x8gx2wmzc9ss4blchh8kfx7ycg455m4j2fkq4s65wixcrpd329l",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_6": {
+        "version": "1.9.6",
+        "sha256": "0cmhxy0g6jk6smwbinf7av3dg6w29nxxvxyrgnmqcygal6ddc1zq",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-DEBUG.zip"
+    },
+    "applealc-debug": {
+        "version": "1.9.6",
+        "sha256": "0cmhxy0g6jk6smwbinf7av3dg6w29nxxvxyrgnmqcygal6ddc1zq",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-DEBUG.zip"
+    },
+    "applealc_1_9_5": {
+        "version": "1.9.5",
+        "sha256": "1b9x42nmw30irlljdrvaa97w8vzqdrd51wnwmm2csjcvqh520yv4",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.5/AppleALC-1.9.5-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_5": {
+        "version": "1.9.5",
+        "sha256": "088fcd69lfg07yjzr22slhqa0w0q63mma3pjmwflp0ah9nflkj9d",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.5/AppleALC-1.9.5-DEBUG.zip"
+    },
+    "applealc_1_9_4": {
+        "version": "1.9.4",
+        "sha256": "1klvbwrg363hnx7kdi6pslyzgj8mdld7yrfvil4n47jc80i2f0pg",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.4/AppleALC-1.9.4-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_4": {
+        "version": "1.9.4",
+        "sha256": "1kp8qq0x3crf2q397s9md3kpl9ya415b53gxgldpy639x7bcw3rd",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.4/AppleALC-1.9.4-DEBUG.zip"
+    },
+    "applealc_1_9_3": {
+        "version": "1.9.3",
+        "sha256": "1mhgq8w4s51s0wmz0kgxlxx2ps2dkmvan7cc8zc3cwfxb0h00gfm",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.3/AppleALC-1.9.3-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_3": {
+        "version": "1.9.3",
+        "sha256": "16424ygbsrjap6hc3vrix64q870g9bmmliknrsdv7w6z3j4pp7hj",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.3/AppleALC-1.9.3-DEBUG.zip"
+    },
+    "applealc_1_9_2": {
+        "version": "1.9.2",
+        "sha256": "0rkqy92db4511b6lji093fk0ml7mp7013sx3cmw1wx843cp6500z",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.2/AppleALC-1.9.2-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_2": {
+        "version": "1.9.2",
+        "sha256": "07rglqx7nk8zb3p8pyapqgr0by59c2ahkd1vcnqqc9kc2wj859b7",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.2/AppleALC-1.9.2-DEBUG.zip"
+    },
+    "applealc_1_9_1": {
+        "version": "1.9.1",
+        "sha256": "05009ab0gxlbnsj2nbj5xw5w8kxdi18i38xp58y8aq7ib60dlvvm",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.1/AppleALC-1.9.1-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_1": {
+        "version": "1.9.1",
+        "sha256": "1l9f0ds5fik1q20q7xylzdiqcq1is0pdcyd2r5zkam8a6b2mrk7r",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.1/AppleALC-1.9.1-DEBUG.zip"
+    },
+    "applealc_1_9_0": {
+        "version": "1.9.0",
+        "sha256": "189q1992qa3gbj2601ms641jq7vls54g6vgr8gydlf7gkfydnw5v",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.0/AppleALC-1.9.0-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_9_0": {
+        "version": "1.9.0",
+        "sha256": "1bzzkwijqsxx4fwcdc0nbk97r4c2bldbv5x7blarcc53lhzv90ws",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.0/AppleALC-1.9.0-DEBUG.zip"
+    },
+    "applealc_1_8_9": {
+        "version": "1.8.9",
+        "sha256": "0a3k0q7s6ppljzw8vkcmcaw71y3sn2gzmbp04b69q0dxjnr5ypbj",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.9/AppleALC-1.8.9-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_9": {
+        "version": "1.8.9",
+        "sha256": "1q3mb40ijlw7xw78cpq7ivfzcar429sqzkpvj7i4g6cvbis4szp1",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.9/AppleALC-1.8.9-DEBUG.zip"
+    },
+    "applealc_1_8_8": {
+        "version": "1.8.8",
+        "sha256": "14jpszj24bvi4j367qwkg9xn1bmsayszz32vzngg4di2yj1krb7c",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.8/AppleALC-1.8.8-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_8": {
+        "version": "1.8.8",
+        "sha256": "0dkbvni7qvbsdmy8smrz15ic6hq1ni0xhq7i1n6ppafm8kf3627c",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.8/AppleALC-1.8.8-DEBUG.zip"
+    },
+    "applealc_1_8_7": {
+        "version": "1.8.7",
+        "sha256": "0nbwl6gdc6vljcwaiwj543mc2fca0img1sqjcna6pb01qk9bv8n3",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.7/AppleALC-1.8.7-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_7": {
+        "version": "1.8.7",
+        "sha256": "10jp9c7pgy2ls7cr3binwzzj7x9xgrh3whfhjmrk09igf1i0z74m",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.7/AppleALC-1.8.7-DEBUG.zip"
+    },
+    "applealc_1_8_6": {
+        "version": "1.8.6",
+        "sha256": "05msr4xshygyb7hf5qc2mmigzhz9dh6ai8xxp4w58wifljdvzfl5",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.6/AppleALC-1.8.6-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_6": {
+        "version": "1.8.6",
+        "sha256": "18ybvk7nkwmr82ixnwcjvahw83f2i7h5yigi912qlawvzxf0fbmz",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.6/AppleALC-1.8.6-DEBUG.zip"
+    },
+    "applealc_1_8_5": {
+        "version": "1.8.5",
+        "sha256": "14glrx9dnnyi64xfj05zfs9c8kwlg5ghijzk57jlmnwsnjqks4i4",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.5/AppleALC-1.8.5-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_5": {
+        "version": "1.8.5",
+        "sha256": "0xmyvjjzv9a4j0lv6g1dj5x33sflgy54kpak989v85xsaa70h421",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.5/AppleALC-1.8.5-DEBUG.zip"
+    },
+    "applealc_1_8_4": {
+        "version": "1.8.4",
+        "sha256": "0yxh27hjq0w5fhwnhqj681yr789qkvfgb9z9hh4c3ayngxxxgrc1",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.4/AppleALC-1.8.4-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_4": {
+        "version": "1.8.4",
+        "sha256": "1cj2r3mkml5kpyyqvly3kxn1ad0yrax45z9dziaw8zhmhs5f83l5",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.4/AppleALC-1.8.4-DEBUG.zip"
+    },
+    "applealc_1_8_3": {
+        "version": "1.8.3",
+        "sha256": "1blcbi9k14f1mz37w4z7d58y3sgi70yacjiikfybjm06wvlp05rb",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.3/AppleALC-1.8.3-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_3": {
+        "version": "1.8.3",
+        "sha256": "16khxwqdsxgn21hcaxplqpfmk0czlgrdwdynliizs7fwiq30wxry",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.3/AppleALC-1.8.3-DEBUG.zip"
+    },
+    "applealc_1_8_2": {
+        "version": "1.8.2",
+        "sha256": "17qn3ggq2mzj996nw371h5rmvh4znjx429ihhccfzc3773mh3x2n",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.2/AppleALC-1.8.2-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_2": {
+        "version": "1.8.2",
+        "sha256": "0ah245b7gwvlkyzyhwmvr56gpcsw4gbfj7xid4fd91ysnf0sh2a4",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.2/AppleALC-1.8.2-DEBUG.zip"
+    },
+    "applealc_1_8_1": {
+        "version": "1.8.1",
+        "sha256": "1q3v09jdm93g1pr77s2pr9j2iz6j11apcgifrw52zqjzdlvn56qq",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.1/AppleALC-1.8.1-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_1": {
+        "version": "1.8.1",
+        "sha256": "0h8fnvp3559rn3y14hhr00br5dgygvlagv65gf1dfn6njsymgmp5",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.1/AppleALC-1.8.1-DEBUG.zip"
+    },
+    "applealc_1_8_0": {
+        "version": "1.8.0",
+        "sha256": "18m866xc6h8brcpfnhqq83mrr04iq0rgrxp9q4dwqpllxm5ar9d1",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.0/AppleALC-1.8.0-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_8_0": {
+        "version": "1.8.0",
+        "sha256": "1rn960nhmnqkpc2jnxhiwm7nd7a0fk1j2xbf5lr4aqp54blh83s8",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.8.0/AppleALC-1.8.0-DEBUG.zip"
+    },
+    "applealc_1_7_9": {
+        "version": "1.7.9",
+        "sha256": "0grqmg3fa9s41a6lf2zgp4g5dvjidywq1bcz7yq5l3in08027kf2",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.9/AppleALC-1.7.9-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_9": {
+        "version": "1.7.9",
+        "sha256": "11c66bxpbcb4b3k4h9ax2k5yx4blglx4lkplzhslhznp7bcvy56x",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.9/AppleALC-1.7.9-DEBUG.zip"
+    },
+    "applealc_1_7_8": {
+        "version": "1.7.8",
+        "sha256": "1ncdawn8ccs35gyczba4f9pmc52qn47s9lp2lbnirwnhmryncbsw",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.8/AppleALC-1.7.8-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_8": {
+        "version": "1.7.8",
+        "sha256": "0d2i7zv9rlzy3q4izybbygl5gzax2xvh9n7wqasyg0wlm47nid51",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.8/AppleALC-1.7.8-DEBUG.zip"
+    },
+    "applealc_1_7_7": {
+        "version": "1.7.7",
+        "sha256": "1kgxv7vqn24fllx9v985iw31c15r2bydbkzwbb8ixqji45swaw1p",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.7/AppleALC-1.7.7-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_7": {
+        "version": "1.7.7",
+        "sha256": "0na6y6s2n6gqayswwvsm7vjg8b0llxs1w2cjd0mqp6hvf53irxq8",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.7/AppleALC-1.7.7-DEBUG.zip"
+    },
+    "applealc_1_7_6": {
+        "version": "1.7.6",
+        "sha256": "0wnc0law926kj03xfvlg22ki9a782h5sb5ix70whhn78ymqp76wf",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.6/AppleALC-1.7.6-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_6": {
+        "version": "1.7.6",
+        "sha256": "17wc7qa0qikqc07dz0s1sbk9c7rlmlc07sf6byvs5s9y5dfxrck3",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.6/AppleALC-1.7.6-DEBUG.zip"
+    },
+    "applealc_1_7_5": {
+        "version": "1.7.5",
+        "sha256": "0vcl93mav8vwfgdl8vyjnzg4v8g1ydc5ck717kxs7sa4cl7yd3nw",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.5/AppleALC-1.7.5-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_5": {
+        "version": "1.7.5",
+        "sha256": "0pynm0a813dw4gn7bq1ywb3d3m07x2annvxagr8wpbl3nrz6hm8l",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.5/AppleALC-1.7.5-DEBUG.zip"
+    },
+    "applealc_1_7_4": {
+        "version": "1.7.4",
+        "sha256": "1ccqllfccwzkwah1ls01g4kl5qwfaffw8az4fs3x8p2ivc9mgxgv",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.4/AppleALC-1.7.4-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_4": {
+        "version": "1.7.4",
+        "sha256": "1nbg9vlci16gw6y6cbj2zzpg4yrj9l74ydv9pph08zmw411j1rsh",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.4/AppleALC-1.7.4-DEBUG.zip"
+    },
+    "applealc_1_7_3": {
+        "version": "1.7.3",
+        "sha256": "10hrq4fsw70drnasw11vi9064y0db6rfaix36brl0kxjydg1hfnm",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.3/AppleALC-1.7.3-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_3": {
+        "version": "1.7.3",
+        "sha256": "1rmpz8rhh4dgxfxkpkc4ng9rll1saanqnj574xi87k7ci182h85c",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.3/AppleALC-1.7.3-DEBUG.zip"
+    },
+    "applealc_1_7_2": {
+        "version": "1.7.2",
+        "sha256": "06z34cbzk7kirf1mw51x5wpi2pgg3mci2zl5zy75y4k1ji1qh0xy",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.2/AppleALC-1.7.2-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_2": {
+        "version": "1.7.2",
+        "sha256": "0nm79f86xdl62b9lwyaaw6ml51cmxvvp66icz66fzj1qknmg7a1c",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.2/AppleALC-1.7.2-DEBUG.zip"
+    },
+    "applealc_1_7_1": {
+        "version": "1.7.1",
+        "sha256": "0vk7nrghgb8jy9sx4fi01qsqcrfrn0igb7zrbx1pvp9cqzy233a8",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.1/AppleALC-1.7.1-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_1": {
+        "version": "1.7.1",
+        "sha256": "0v0fq46xsrkb92skqklzd2ma0vvpmfljdx8mdiqh5dh58gwmmq7r",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.1/AppleALC-1.7.1-DEBUG.zip"
+    },
+    "applealc_1_7_0": {
+        "version": "1.7.0",
+        "sha256": "062w6n8mvm5sxaiidksynmd44a3bslxw8d28mab5ygqdq8alqbv7",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.0/AppleALC-1.7.0-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_7_0": {
+        "version": "1.7.0",
+        "sha256": "0y9393ail0xvi7nc0pmfxcdvcng8hpm4h8jcvm561i5jqj5cz2hz",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.7.0/AppleALC-1.7.0-DEBUG.zip"
+    },
+    "applealc_1_6_9": {
+        "version": "1.6.9",
+        "sha256": "1f9fdla78x6ikxfgldcm4my91fvcwwcbra0nghxhanc1z2drxlsk",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.9/AppleALC-1.6.9-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_6_9": {
+        "version": "1.6.9",
+        "sha256": "1s0w09m6q3xcz1adgvrig7jy91pw4y7cjd28yl3258p0smh9b2vh",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.9/AppleALC-1.6.9-DEBUG.zip"
+    },
+    "applealc_1_6_8": {
+        "version": "1.6.8",
+        "sha256": "1djhzribrwjza2xldd24np56658fdpygbrx0ln4rcckwbwy24qnw",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.8/AppleALC-1.6.8-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_6_8": {
+        "version": "1.6.8",
+        "sha256": "074dq02mkx60ayci8ygk7qp8xh85wija94nlrgfgpljy4597mzhy",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.8/AppleALC-1.6.8-DEBUG.zip"
+    },
+    "applealc_1_6_7": {
+        "version": "1.6.7",
+        "sha256": "1cawz55r1mnyg44794yschj0677ilpy0b68wsbr8mycam3khd5cn",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.7/AppleALC-1.6.7-RELEASE.zip"
+    },
+    "applealc-debug-debug_1_6_7": {
+        "version": "1.6.7",
+        "sha256": "0d5panqc36s2cv13vzvshc4b3ahcvr0gydp7lss8iwmzk20hbcwb",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.7/AppleALC-1.6.7-DEBUG.zip"
+    }
+}

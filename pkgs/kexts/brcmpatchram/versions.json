@@ -1,0 +1,232 @@
+{
+    "brcmpatchram_2_7_1": {
+        "version": "2.7.1",
+        "sha256": "1r4g71gb9y9v2wcjsfkggjrlxssakk5cg38xmsgvqf26zak6ginw",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-RELEASE.zip"
+    },
+    "brcmpatchram": {
+        "version": "2.7.1",
+        "sha256": "1r4g71gb9y9v2wcjsfkggjrlxssakk5cg38xmsgvqf26zak6ginw",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_7_1": {
+        "version": "2.7.1",
+        "sha256": "15mcc9bml1gxnzsbnk1k1p4l5sn38ha6yi449wdsbyf0lck8fh6c",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-DEBUG.zip"
+    },
+    "brcmpatchram-debug": {
+        "version": "2.7.1",
+        "sha256": "15mcc9bml1gxnzsbnk1k1p4l5sn38ha6yi449wdsbyf0lck8fh6c",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-DEBUG.zip"
+    },
+    "brcmpatchram_2_7_0": {
+        "version": "2.7.0",
+        "sha256": "1z8dc81wb5agy5501ih0lgck14nrxxdppbn3l41c7ia75hsc01lx",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.0/BrcmPatchRAM-2.7.0-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_7_0": {
+        "version": "2.7.0",
+        "sha256": "0q4vjr7ybi91ri5ln7gdr0zybncs9sd6hn51ynph2z9jz7mr9929",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.0/BrcmPatchRAM-2.7.0-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_9": {
+        "version": "2.6.9",
+        "sha256": "1gx2vijnq01b3lxr08fqzwbkpjdwjk8bssm4l6jas6px9v00mh77",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.9/BrcmPatchRAM-2.6.9-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_9": {
+        "version": "2.6.9",
+        "sha256": "1cns02zv5ipgw0g70pfw8p7ilp701p801pwfh41fmzrd2yhh9lfq",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.9/BrcmPatchRAM-2.6.9-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_8": {
+        "version": "2.6.8",
+        "sha256": "0jl1xw7jilpikkragnksrw0g7nl0kcdlq6icg5i0rgi8msl6p9wr",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.8/BrcmPatchRAM-2.6.8-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_8": {
+        "version": "2.6.8",
+        "sha256": "0j80rshki6xrnii7b3dy3h986b4j7q1l6yn6fqxjrdd91gdymm3k",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.8/BrcmPatchRAM-2.6.8-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_7": {
+        "version": "2.6.7",
+        "sha256": "0bmbj940ysvdmxfv4mxq849y5i04m8n118zwzscvkcw9i6kn4ilk",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.7/BrcmPatchRAM-2.6.7-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_7": {
+        "version": "2.6.7",
+        "sha256": "06i7zsxc4002q6klpw3kr18b9n1i69khrxr0zajlbz1gcz1kkl5z",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.7/BrcmPatchRAM-2.6.7-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_6": {
+        "version": "2.6.6",
+        "sha256": "1fyk235mvc4qv1dg15cbg2ma0fb8v2rd1qdbzpp2qrf969xfi5m0",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.6/BrcmPatchRAM-2.6.6-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_6": {
+        "version": "2.6.6",
+        "sha256": "1d2mvxkry1aw21ykpf8b4mmrz9kiz2yf2vx6lh7k04bm1sz42q3j",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.6/BrcmPatchRAM-2.6.6-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_5": {
+        "version": "2.6.5",
+        "sha256": "0lsc0zpq70ynkzy5mrk2jyg93byx9nd3j9qvmba2lrxic59n50cm",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.5/BrcmPatchRAM-2.6.5-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_5": {
+        "version": "2.6.5",
+        "sha256": "0rab7f7g5ws921631fvr23fvradyx14ms7xpk7ajsmvkmx9bqwrl",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.5/BrcmPatchRAM-2.6.5-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_4": {
+        "version": "2.6.4",
+        "sha256": "1cycdv3dinzk4gc5ikn2swzv5wabd551hslzgm4bnd3m23lzvqjq",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.4/BrcmPatchRAM-2.6.4-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_4": {
+        "version": "2.6.4",
+        "sha256": "1i92b9ki3sazx6bh6xhdzxd3pb7f629c5zf80y7jsm62d893q4ad",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.4/BrcmPatchRAM-2.6.4-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_3": {
+        "version": "2.6.3",
+        "sha256": "0gkv6vn9hpx70k9z9qpg6kz8kiq1kc0sxxw1nddk5vxvdgcr9dw9",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.3/BrcmPatchRAM-2.6.3-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_3": {
+        "version": "2.6.3",
+        "sha256": "0f801z0fap81wmkgllmll9slz2g6y701y6ch4kl6czwrsbflxmzy",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.3/BrcmPatchRAM-2.6.3-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_2": {
+        "version": "2.6.2",
+        "sha256": "1mszv931kq44n6q706nr5nva17a2mra40fpypg0hsibacpyi9p42",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.2/BrcmPatchRAM-2.6.2-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_2": {
+        "version": "2.6.2",
+        "sha256": "0dm8f38ah4gkbm9wfv7fr0kj9jsiqcljqfqwvi2knidkd35jmrdm",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.2/BrcmPatchRAM-2.6.2-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_1": {
+        "version": "2.6.1",
+        "sha256": "1dfpcih8vvd92w7504304xa82flq1fi3jkp3abpm63wh4xyhrwyl",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.1/BrcmPatchRAM-2.6.1-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_1": {
+        "version": "2.6.1",
+        "sha256": "0rnq8yn73xagm0cnr7il8si7rdf7ka7vzrx115kwp6yv8xnka6qr",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.1/BrcmPatchRAM-2.6.1-DEBUG.zip"
+    },
+    "brcmpatchram_2_6_0": {
+        "version": "2.6.0",
+        "sha256": "02pgm4gl95qk3sfvnax6d8z9h5frhpbdfqv5wm9ihzx3r3bmilma",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.0/BrcmPatchRAM-2.6.0-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_6_0": {
+        "version": "2.6.0",
+        "sha256": "0ya1h7iczvsm6y475aqrvm86zzmab3y1ay3vyzcss24af4iakhci",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.6.0/BrcmPatchRAM-2.6.0-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_9": {
+        "version": "2.5.9",
+        "sha256": "04vl7gqqg3vfdjkm80fsy5pav454dp7b0kg4p0slny6896k2xjgp",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.9/BrcmPatchRAM-2.5.9-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_9": {
+        "version": "2.5.9",
+        "sha256": "0c1i8s9j85dd55kbvvivrvnmlh71cpylsd7ch0d3zxaxaz3arnj0",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.9/BrcmPatchRAM-2.5.9-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_8": {
+        "version": "2.5.8",
+        "sha256": "08npfkr2952fsw49w4i6pj198h1ckpdqlmy5c90q5mbp7yxadn2d",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.8/BrcmPatchRAM-2.5.8-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_8": {
+        "version": "2.5.8",
+        "sha256": "00zslnd7f23kw39sj2kvfplg1z4ib4x007ad9390kaskzgj6kfzh",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.8/BrcmPatchRAM-2.5.8-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_7": {
+        "version": "2.5.7",
+        "sha256": "1xrhkvi9f9vwahdk0j4fiwrkzkz5n22mzn767ng3dz41izg0760j",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.7/BrcmPatchRAM-2.5.7-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_7": {
+        "version": "2.5.7",
+        "sha256": "14s5if6cy8fz6difv7f4kk7dlpvphrihw29m3qq6brl2b2giim04",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.7/BrcmPatchRAM-2.5.7-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_6": {
+        "version": "2.5.6",
+        "sha256": "0qzgz49abkscrra02rp234xm57lq8xbxbfik2ix65b95f24vdsbi",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.6/BrcmPatchRAM-2.5.6-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_6": {
+        "version": "2.5.6",
+        "sha256": "0a9d98x1xy9vhhjqy95afhhprd3sniyk67sksvld82s6wynrndr2",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.6/BrcmPatchRAM-2.5.6-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_5": {
+        "version": "2.5.5",
+        "sha256": "0b90cz7sxkz0mx108lyns1wh3y24l55qlc7c36bilk2chx5i1hdd",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.5/BrcmPatchRAM-2.5.5-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_5": {
+        "version": "2.5.5",
+        "sha256": "0g5ahjzs8r0xpzjmb5cdlzzn5cmj6app8n6ajfyf4a5kkwr34nkv",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.5/BrcmPatchRAM-2.5.5-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_4": {
+        "version": "2.5.4",
+        "sha256": "114d1acdvk0a0ls5qij28p3m4gqpbg5133jdjsjcrmhrr02rad7y",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.4/BrcmPatchRAM-2.5.4-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_4": {
+        "version": "2.5.4",
+        "sha256": "0rlw14ny5wq3d2s2rlw34p7k74jcia06cg8h8sgmik942y9wkz2n",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.4/BrcmPatchRAM-2.5.4-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_3": {
+        "version": "2.5.3",
+        "sha256": "0lvgrxvbacavq9g7glbizj8fvcqidrcwa4c0w9pjrm8cafxpl1yc",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.3/BrcmPatchRAM-2.5.3-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_3": {
+        "version": "2.5.3",
+        "sha256": "153swmjl19f5v43lrjgmabyhc1nv0bqn2vv8d93c00w5i7ki63x5",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.3/BrcmPatchRAM-2.5.3-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_2": {
+        "version": "2.5.2",
+        "sha256": "1bladmq3vsjsvlil3ypicxgmxjxi5zkdk37a3ciza481la4pmyy8",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.2/BrcmPatchRAM-2.5.2-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_2": {
+        "version": "2.5.2",
+        "sha256": "0wl058qp26pgw2mz9fqd97iyg74m9qfmsc8nbbg0mqrlvcjshs2j",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.2/BrcmPatchRAM-2.5.2-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_1": {
+        "version": "2.5.1",
+        "sha256": "1gvg833ibcrrlsr0vax5ghl8lq6y1ps76s2i99i4p9ncbs3cmyk6",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.1/BrcmPatchRAM-2.5.1-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_1": {
+        "version": "2.5.1",
+        "sha256": "0p8167fz0mcyysg45x20204pq6lps1g5qi9lbm7ficlchih30jwl",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.1/BrcmPatchRAM-2.5.1-DEBUG.zip"
+    },
+    "brcmpatchram_2_5_0": {
+        "version": "2.5.0",
+        "sha256": "0bxiimz3lmzx5nsk9q0szjybisc7nlk99gd8cn5v90cp3mx7smdx",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.0/BrcmPatchRAM-2.5.0-RELEASE.zip"
+    },
+    "brcmpatchram-debug-debug_2_5_0": {
+        "version": "2.5.0",
+        "sha256": "1wqr9hwa1bsmaaz8kpvcnpxv2r79wks9bafj84ykkl7zqq8hlj18",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.5.0/BrcmPatchRAM-2.5.0-DEBUG.zip"
+    }
+}

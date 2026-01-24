@@ -81,7 +81,7 @@
                   pkgs.oc.applemcereporterdisabler
                   pkgs.oc.airportitlwm.latest-ventura
                   # pkgs.oc.itlwm.latest
-                  pkgs.oc.brcmpatchram.latest
+                  pkgs.oc.brcmpatchram
                   pkgs.oc.brightnesskeys.latest
                   pkgs.oc.cputscsync.latest
                   pkgs.oc.ctlnaahciport
@@ -98,7 +98,7 @@
                   pkgs.oc.voodoormi.latest
                   pkgs.oc.voodoops2
                   pkgs.oc.yogasmc
-                  pkgs.oc.whatevergreen.latest
+                  pkgs.oc.whatevergreen
                 ];
               };
             })

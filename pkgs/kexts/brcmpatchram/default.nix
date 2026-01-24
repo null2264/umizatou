@@ -1,9 +1,3 @@
 { lib, pkgs }:
 
-{
-  brcmpatchram = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "brcmpatchram";
-    path = ./.;
-  });
-}
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

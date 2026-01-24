@@ -1,9 +1,3 @@
 { lib, pkgs }:
 
-{
-  whatevergreen = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "whatevergreen";
-    path = ./.;
-  });
-}
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

@@ -1,0 +1,312 @@
+{
+    "whatevergreen_1_7_0": {
+        "version": "1.7.0",
+        "sha256": "0axxgqwdh894nzsdngf1403qm30iqf8nd5f6zk2lsikpdx3xgw38",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.7.0/WhateverGreen-1.7.0-RELEASE.zip"
+    },
+    "whatevergreen": {
+        "version": "1.7.0",
+        "sha256": "0axxgqwdh894nzsdngf1403qm30iqf8nd5f6zk2lsikpdx3xgw38",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.7.0/WhateverGreen-1.7.0-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_7_0": {
+        "version": "1.7.0",
+        "sha256": "07q1cd7n3pirncfi54yf80whqs231fvqzwyx2ipd4f9lp6kd8ai5",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.7.0/WhateverGreen-1.7.0-DEBUG.zip"
+    },
+    "whatevergreen-debug": {
+        "version": "1.7.0",
+        "sha256": "07q1cd7n3pirncfi54yf80whqs231fvqzwyx2ipd4f9lp6kd8ai5",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.7.0/WhateverGreen-1.7.0-DEBUG.zip"
+    },
+    "whatevergreen_1_6_9": {
+        "version": "1.6.9",
+        "sha256": "1i6kln0m99xk8jv9a685q625gxn2xl65s0vf55ab8hnl04lcbgp1",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.9/WhateverGreen-1.6.9-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_9": {
+        "version": "1.6.9",
+        "sha256": "16zs3h95ngy9jscp6l5czq7lv04a86bynprsvb5hl56ym56zm37x",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.9/WhateverGreen-1.6.9-DEBUG.zip"
+    },
+    "whatevergreen_1_6_8": {
+        "version": "1.6.8",
+        "sha256": "0f5p7g48ry7mgg6gf09mpvs0xs7a7rdqj1py48nd6qizl7frgdw3",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.8/WhateverGreen-1.6.8-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_8": {
+        "version": "1.6.8",
+        "sha256": "1329wxdivqhcpj0kri7f05qxa0jzgnrdr7xp5vspmnsiqyb6j156",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.8/WhateverGreen-1.6.8-DEBUG.zip"
+    },
+    "whatevergreen_1_6_7": {
+        "version": "1.6.7",
+        "sha256": "1hss00pcb32fmfw7nwrihwfv3gmgdb6pg554ab4d8mggzlyxa25b",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.7/WhateverGreen-1.6.7-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_7": {
+        "version": "1.6.7",
+        "sha256": "0w4v9n8x2pck0bzil8zym32bjsxpagahrr7ck8is3z0j80klxii5",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.7/WhateverGreen-1.6.7-DEBUG.zip"
+    },
+    "whatevergreen_1_6_6": {
+        "version": "1.6.6",
+        "sha256": "1a910wflcxl1l66sh1gs7y02aaa2hrivbw670xvdgdcm570v2gbw",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.6/WhateverGreen-1.6.6-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_6": {
+        "version": "1.6.6",
+        "sha256": "1247c8x1fnin2blymaj090q2wzw7yws9dan5s4f8a2caqyk9h257",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.6/WhateverGreen-1.6.6-DEBUG.zip"
+    },
+    "whatevergreen_1_6_5": {
+        "version": "1.6.5",
+        "sha256": "0ph38ibh22z0y21c1ps4nzimmn74ns1hnk6jn8vgmb7w58cmc3l7",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.5/WhateverGreen-1.6.5-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_5": {
+        "version": "1.6.5",
+        "sha256": "1pvrkhjffak6ps1aqkd3azajyn48qmq3k1ccm9988flqv6qkhx2h",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.5/WhateverGreen-1.6.5-DEBUG.zip"
+    },
+    "whatevergreen_1_6_4": {
+        "version": "1.6.4",
+        "sha256": "1072ajsrqfkbib810a244ivph1r9cs64x6l187mbmigqkm55whqi",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.4/WhateverGreen-1.6.4-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_4": {
+        "version": "1.6.4",
+        "sha256": "09sn54h61gcjq6xqaz4nh1x27vp4vm45v9cijq7k3hbv1l8clpj3",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.4/WhateverGreen-1.6.4-DEBUG.zip"
+    },
+    "whatevergreen_1_6_3": {
+        "version": "1.6.3",
+        "sha256": "1i0jhmidgxw307vklcj07fd6dkfc080prvwnmppn94fl4nr5a4g5",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.3/WhateverGreen-1.6.3-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_3": {
+        "version": "1.6.3",
+        "sha256": "05nr938s7xl9wxkcvrwhf8spzmin59ka2aw233l9ci0ps0b1282m",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.3/WhateverGreen-1.6.3-DEBUG.zip"
+    },
+    "whatevergreen_1_6_2": {
+        "version": "1.6.2",
+        "sha256": "1v28mxz8634iyjyhnf2kmn2lxyyqcsxx7v391h6cpz6av27g1q9n",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.2/WhateverGreen-1.6.2-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_2": {
+        "version": "1.6.2",
+        "sha256": "15b6857jnd0g8x81ws09hx4041dd4ld2pr0x0paacrv6qpn4h11f",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.2/WhateverGreen-1.6.2-DEBUG.zip"
+    },
+    "whatevergreen_1_6_1": {
+        "version": "1.6.1",
+        "sha256": "1l2azkn2xhf3jzi9aybg0m36yk91nkpl4dj6i5r0knwzvqx3ac9s",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.1/WhateverGreen-1.6.1-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_1": {
+        "version": "1.6.1",
+        "sha256": "0gp21y7n8cki6kqqfvy1dy7y6fp61705ia721kix6z1km0ircims",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.1/WhateverGreen-1.6.1-DEBUG.zip"
+    },
+    "whatevergreen_1_6_0": {
+        "version": "1.6.0",
+        "sha256": "11kh3mm57lr49y0ld9w4krj4zw6jvmylfm4arf7fxbvz33alv9x1",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.0/WhateverGreen-1.6.0-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_6_0": {
+        "version": "1.6.0",
+        "sha256": "04yl9ihgygcbc0l4flrkrzjzl0czmnl8lkbvk7w85id70v5dy70a",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.6.0/WhateverGreen-1.6.0-DEBUG.zip"
+    },
+    "whatevergreen_1_5_9": {
+        "version": "1.5.9",
+        "sha256": "07jaipxsfihz4bdmakvqzap42d14a9j3m8ckrmgmx8qwm2dbcq14",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.9/WhateverGreen-1.5.9-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_9": {
+        "version": "1.5.9",
+        "sha256": "0qnr7m3pangllk0kmb6spgd12pzzjr5qm8id11pmiba30zszrp9i",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.9/WhateverGreen-1.5.9-DEBUG.zip"
+    },
+    "whatevergreen_1_5_8": {
+        "version": "1.5.8",
+        "sha256": "0w048avy0x1fsiavmjcs24z4smn302f9rl6m1i5qhid2k8sxmmc6",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.8/WhateverGreen-1.5.8-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_8": {
+        "version": "1.5.8",
+        "sha256": "1mwrfq5yrn51z4fa9g5rxmac0pb5cr6zd4ff8gf3wp93z456947s",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.8/WhateverGreen-1.5.8-DEBUG.zip"
+    },
+    "whatevergreen_1_5_7": {
+        "version": "1.5.7",
+        "sha256": "18y731mhp12h8sicnfcavwqk45p4nwa422v643p4g4813jy7jhww",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.7/WhateverGreen-1.5.7-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_7": {
+        "version": "1.5.7",
+        "sha256": "1vbrgyv8m8448kyz6r1xmrds1gb1harx0mw29a6bfcr0wzhqvmxg",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.7/WhateverGreen-1.5.7-DEBUG.zip"
+    },
+    "whatevergreen_1_5_6": {
+        "version": "1.5.6",
+        "sha256": "10n47has0zhqpvirjjnp20lb3j7mq2kprbi8rl43szwj7frjggg2",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.6/WhateverGreen-1.5.6-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_6": {
+        "version": "1.5.6",
+        "sha256": "1q8kdvqqqkr49w4905vs25gj5852zpxb8s19fbb6kg13zpam956p",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.6/WhateverGreen-1.5.6-DEBUG.zip"
+    },
+    "whatevergreen_1_5_5": {
+        "version": "1.5.5",
+        "sha256": "05rv3c1wi4x9027d3mr44klz4qzwhql4bn1mn7h21133d8h3fl6z",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.5/WhateverGreen-1.5.5-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_5": {
+        "version": "1.5.5",
+        "sha256": "1slrlhvz39xwx9d8dz5zzyka7zxc12xjs5lqldsyzqb6c0m0z644",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.5/WhateverGreen-1.5.5-DEBUG.zip"
+    },
+    "whatevergreen_1_5_4": {
+        "version": "1.5.4",
+        "sha256": "1ar4y8k9rf0padbwyrh0zfa0yy8klvgyrjm5gf2m9bj475vj4xrf",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.4/WhateverGreen-1.5.4-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_4": {
+        "version": "1.5.4",
+        "sha256": "0zdsrapml312fh4i8if780a8isg7xp4s9ijgkaj0jwlf7k42yz7h",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.4/WhateverGreen-1.5.4-DEBUG.zip"
+    },
+    "whatevergreen_1_5_3": {
+        "version": "1.5.3",
+        "sha256": "1wqdqlgg0d6mqv7rb5xl7x1gz2n6jx79a5x6li8jzvskwm2ngdz5",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.3/WhateverGreen-1.5.3-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_3": {
+        "version": "1.5.3",
+        "sha256": "13r3p8h8d340ik1cfwrvkyqqk5pkzwn249mj56xmifqjsk44bkhc",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.3/WhateverGreen-1.5.3-DEBUG.zip"
+    },
+    "whatevergreen_1_5_2": {
+        "version": "1.5.2",
+        "sha256": "0br96dprbllmd1yqvg0wjxx1rysgbs21ahwc02q3z2ha6q170iyi",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.2/WhateverGreen-1.5.2-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_2": {
+        "version": "1.5.2",
+        "sha256": "1ypiwa9s0qvyc7kxap85ad77cp64c4bg87jzfiy30spafy9mm1zv",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.2/WhateverGreen-1.5.2-DEBUG.zip"
+    },
+    "whatevergreen_1_5_1": {
+        "version": "1.5.1",
+        "sha256": "10vw2v4lz1g9r9zxf2vcwcd4lkz9hday8giqa1ssipb5jp1nj65w",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.1/WhateverGreen-1.5.1-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_1": {
+        "version": "1.5.1",
+        "sha256": "0f45hgkjvdzqgn1cj556z42ppyd2mbg74ilff7ydji5nya04kjm3",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.1/WhateverGreen-1.5.1-DEBUG.zip"
+    },
+    "whatevergreen_1_5_0": {
+        "version": "1.5.0",
+        "sha256": "04wik2v1mx0jcvkygdh1w4n3xllqcjfmv77xii908g2ijh491awg",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.0/WhateverGreen-1.5.0-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_5_0": {
+        "version": "1.5.0",
+        "sha256": "07w46zsf6cy13zcx68vparmcy6npqfflqsbw2b80fhyiv1w7lhhx",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.5.0/WhateverGreen-1.5.0-DEBUG.zip"
+    },
+    "whatevergreen_1_4_9": {
+        "version": "1.4.9",
+        "sha256": "0ch0fld0p6md8ndzylhag9v44wy3ipw7vrl1jn7maizkvw1xgp3m",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.9/WhateverGreen-1.4.9-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_9": {
+        "version": "1.4.9",
+        "sha256": "185rd2law13fccv180dfi6yxh01kv3r74wx8v9v53p48lamr5yd3",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.9/WhateverGreen-1.4.9-DEBUG.zip"
+    },
+    "whatevergreen_1_4_8": {
+        "version": "1.4.8",
+        "sha256": "0hf1v8i4ni90n4afxkz8a6w92mv5d1q46bdb6z678r0j1lmmgnyd",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.8/WhateverGreen-1.4.8-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_8": {
+        "version": "1.4.8",
+        "sha256": "14pbarj2srrha4129l9b004xcraa4ak4n70xk80mp98ik1rdl005",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.8/WhateverGreen-1.4.8-DEBUG.zip"
+    },
+    "whatevergreen_1_4_7": {
+        "version": "1.4.7",
+        "sha256": "1zsy4c6w4qfni3w7y3z6db6ac1zlfkb3x6w66g49mwvy3ns3mzs5",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.7/WhateverGreen-1.4.7-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_7": {
+        "version": "1.4.7",
+        "sha256": "1bcyyv1vj3yxqb6pzbn5drp6ppx1x5azr69dsbji93v4cpi8y8qi",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.7/WhateverGreen-1.4.7-DEBUG.zip"
+    },
+    "whatevergreen_1_4_6": {
+        "version": "1.4.6",
+        "sha256": "07q6ablpscq8lvra1x8dqc4gi8zcf13p2j7f1ggak2nm4gw4gd8f",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.6/WhateverGreen-1.4.6-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_6": {
+        "version": "1.4.6",
+        "sha256": "080lla3jilj7wlqqd3v3nbd9hicfrc9h0402pfmwd2c782zkrw3v",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.6/WhateverGreen-1.4.6-DEBUG.zip"
+    },
+    "whatevergreen_1_4_5": {
+        "version": "1.4.5",
+        "sha256": "184g5jz6m2z8kclpbh464shlcyfwbs75l793ydxnxrzamzxjpvfh",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.5/WhateverGreen-1.4.5-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_5": {
+        "version": "1.4.5",
+        "sha256": "16xkfgsi5k7fwhcqgx3g4j24vjk6almk47sslnyg2gr4h7d42f2z",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.5/WhateverGreen-1.4.5-DEBUG.zip"
+    },
+    "whatevergreen_1_4_4": {
+        "version": "1.4.4",
+        "sha256": "0wbz225jf22bsbx6z4c9k7vz9z9g65ydhfr0bv0cqyf6z35wjxpg",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.4/WhateverGreen-1.4.4-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_4": {
+        "version": "1.4.4",
+        "sha256": "1lqmgn4ly8mavqr4glcwa6g7r3sy4pkz80lwcj5hds2d28s6qiyd",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.4/WhateverGreen-1.4.4-DEBUG.zip"
+    },
+    "whatevergreen_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "01dfbb6s7kq0qk09y695yvfrkf4mlgwghz42vd3500g6pnjdscnd",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.3/WhateverGreen-1.4.3-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "19g2vdyjbzmlwhjc4cq63xka7d331xhgcsy5pgjk0ddkaghdydi0",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.3/WhateverGreen-1.4.3-DEBUG.zip"
+    },
+    "whatevergreen_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "0v4vvcn2vxvy3m4whi13l5wzdgy6z7lby4sbia7y68n3bwmhbdz9",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.2/WhateverGreen-1.4.2-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "0mx5cmcfw5fbkw9zn4549clndsb72n7i2issq0s7jhg15lb9nwqq",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.2/WhateverGreen-1.4.2-DEBUG.zip"
+    },
+    "whatevergreen_1_4_1": {
+        "version": "1.4.1",
+        "sha256": "0d3zgc401ysfzlnp9aqwnxr646qqwsb3jzcfj79xa0aaz68byyrx",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.1/WhateverGreen-1.4.1-RELEASE.zip"
+    },
+    "whatevergreen-debug-debug_1_4_1": {
+        "version": "1.4.1",
+        "sha256": "1dxppsi2ja4xy7lj9y07lbzqrscw2ypqq5lg5w7js2r3dld1dv4s",
+        "url": "https://github.com/acidanthera/WhateverGreen/releases/download/1.4.1/WhateverGreen-1.4.1-DEBUG.zip"
+    }
+}

@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.applealc.latest;
-        defaultText = literalExpression "pkgs.oc.applealc.latest";
+        default = pkgs.oc.applealc;
+        defaultText = literalExpression "pkgs.oc.applealc";
         description = ''
           Package containing the AppleALC Kext.
         '';
