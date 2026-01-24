@@ -58,12 +58,13 @@ in
           value = v;
         }) cfg.wifiProfiles);
         base = oc.resolver.parsePlist pkgs infoPlist;
-        info = updateManyAttrsByPath [
-          {
-            path = [ "IOKitPersonalities" "itlwm" "WiFiConfig" ];
-            update = old: profiles;
-          }
-        ] base;
+        info = base // {
+          IOKitPersonalities = base.IOKitPersonalities // {
+            itlwm = base.IOKitPersonalities.itlwm // {
+              WiFiConfig = profiles;
+            };
+          };
+        };
       in oc.plist.toPlist { } info;
 
     itlwmPackage = cfg.package.overrideAttrs (old: {
