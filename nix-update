@@ -1,4 +1,5 @@
 #!/bin/sh
 # Usage example: ./nix-update --argstr package oc.voodoops2
 
-nix-shell maintainers/scripts/update.nix $@
+nixpkgs="$(nix-instantiate --eval --expr '<nixpkgs>')"
+nix-shell $nixpkgs/maintainers/scripts/update.nix --arg include-overlays "(import ./. { }).overlays" $@
