@@ -15,8 +15,9 @@ let
     ./base.nix
     ./kexts/applealc.nix
     ./kexts/cpufriend.nix
-    ./kexts/intel-mausi.nix
     ./kexts/intel-bluetooth-firmware.nix
+    ./kexts/intel-mausi.nix
+    ./kexts/itlwm.nix
     ./kexts/usbtoolbox.nix
     ./kexts/virtualsmc.nix
     ./kexts/yogasmc.nix

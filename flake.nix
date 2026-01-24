@@ -65,12 +65,22 @@
                 package = pkgs.oc.intel-bluetooth-firmware.nightly;
               };
 
+              kexts.itlwm = {
+                enable = true;
+                wifiProfiles = [
+                  {
+                    ssid = "ssdt_5G";
+                    password = "zxyssdt112233";
+                  }
+                ];
+              };
+
               oceanix.opencore = {
                 validate = false;  # Ignore validation for sample
                 resources.packages = [
                   pkgs.oc.applemcereporterdisabler
                   pkgs.oc.airportitlwm.latest-ventura
-                  pkgs.oc.itlwm.latest
+                  # pkgs.oc.itlwm.latest
                   pkgs.oc.brcmpatchram.latest
                   pkgs.oc.brightnesskeys.latest
                   pkgs.oc.cputscsync.latest
