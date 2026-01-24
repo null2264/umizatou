@@ -1,0 +1,312 @@
+{
+    "voodoops2_2_3_7": {
+        "version": "2.3.7",
+        "sha256": "03cgh6l2v8jklm37r61dy8hczmy3lvdzwbf1agkx1fgzwc6wakn6",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.7/VoodooPS2Controller-2.3.7-RELEASE.zip"
+    },
+    "voodoops2": {
+        "version": "2.3.7",
+        "sha256": "03cgh6l2v8jklm37r61dy8hczmy3lvdzwbf1agkx1fgzwc6wakn6",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.7/VoodooPS2Controller-2.3.7-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_7": {
+        "version": "2.3.7",
+        "sha256": "0xp3diy90sfry0x9lnz857v71pma7wdk1ysbcsz9k0b0103vb7my",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.7/VoodooPS2Controller-2.3.7-DEBUG.zip"
+    },
+    "voodoops2-debug": {
+        "version": "2.3.7",
+        "sha256": "0xp3diy90sfry0x9lnz857v71pma7wdk1ysbcsz9k0b0103vb7my",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.7/VoodooPS2Controller-2.3.7-DEBUG.zip"
+    },
+    "voodoops2_2_3_6": {
+        "version": "2.3.6",
+        "sha256": "17zmzdyaki7v41j6r8f4l1m8fyrp5dvfw71bz79hssnhsrhqxbki",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.6/VoodooPS2Controller-2.3.6-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_6": {
+        "version": "2.3.6",
+        "sha256": "1iwxn787vmys0aaawbv32fbxmwjf8gvkb2dqhhzf15lh7f84z219",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.6/VoodooPS2Controller-2.3.6-DEBUG.zip"
+    },
+    "voodoops2_2_3_5": {
+        "version": "2.3.5",
+        "sha256": "1qllbsril1z98115j1g2h6pphs1rq4k3sq4382p073wdrbxg6yhm",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.5/VoodooPS2Controller-2.3.5-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_5": {
+        "version": "2.3.5",
+        "sha256": "1f46zcmjcg8ijkzbdij6wx1xdzijhklz69m4ajw7gcnwagqnjzkq",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.3.5/VoodooPS2Controller-2.3.5-DEBUG.zip"
+    },
+    "voodoops2_2_3_4": {
+        "version": "2.3.4",
+        "sha256": "0wwjzpi0qqsd8z32g6b90ly0yzqri96376612v5mijb4rd1si20k",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.4/VoodooPS2Controller-2.3.4-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_4": {
+        "version": "2.3.4",
+        "sha256": "0aljr9za3dajc8pxiv09ddrn6n7q68xx2dy8vx7pbd9qm1kfakp5",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.4/VoodooPS2Controller-2.3.4-DEBUG.zip"
+    },
+    "voodoops2_2_3_3": {
+        "version": "2.3.3",
+        "sha256": "00bdiqqxvzgh847f8ihyslk5xwcsipq6lmp9kqw6f7zv4am2y70p",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.3/VoodooPS2Controller-2.3.3-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_3": {
+        "version": "2.3.3",
+        "sha256": "1r396baxpwsdmc6a320f1h2qr73nzawmbg9mdwl46wahvnxs8r6i",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.3/VoodooPS2Controller-2.3.3-DEBUG.zip"
+    },
+    "voodoops2_2_3_2": {
+        "version": "2.3.2",
+        "sha256": "13cbr07g9g7y14v5gn16j7xfnv2n1zhr7rajx08862c177j6magw",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.2/VoodooPS2Controller-2.3.2-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_2": {
+        "version": "2.3.2",
+        "sha256": "0m000byirb6yjnlcy3sz4hnazrazh0bbvs79ak9hglpzz5ny4bdh",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.2/VoodooPS2Controller-2.3.2-DEBUG.zip"
+    },
+    "voodoops2_2_3_1": {
+        "version": "2.3.1",
+        "sha256": "0j32vxgyapaj3ga5vrlf507gb7rrx34xlbgzxzncymfflxzz7xva",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.1/VoodooPS2Controller-2.3.1-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_1": {
+        "version": "2.3.1",
+        "sha256": "0bj1kppdw3cr1f8yzpfn2w1zrjgwf6cwvgaipfdxrhgzy7gpbhgq",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.1/VoodooPS2Controller-2.3.1-DEBUG.zip"
+    },
+    "voodoops2_2_3_0": {
+        "version": "2.3.0",
+        "sha256": "006ylblk9skpx0yb3kzl6l7zvgcypm3p5n5cx4dsk7d405adm35n",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.0/VoodooPS2Controller-2.3.0-RELEASE.zip"
+    },
+    "voodoops2-debug_2_3_0": {
+        "version": "2.3.0",
+        "sha256": "1ldbzgpi05bxqa43x09n59d27x1650r8wri1ka3rw60rd150mn0m",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/v2.3.0/VoodooPS2Controller-2.3.0-DEBUG.zip"
+    },
+    "voodoops2_2_2_9": {
+        "version": "2.2.9",
+        "sha256": "0p72k9mpj5g1vhbb0kv69g8zy1w0kz3l4b1fv0w9yds9a5w8rlc4",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.9/VoodooPS2Controller-2.2.9-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_9": {
+        "version": "2.2.9",
+        "sha256": "0z55rgfdngjk82nnizlm3m0myvp8sfmz1n25lgf533xizqv9ml4i",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.9/VoodooPS2Controller-2.2.9-DEBUG.zip"
+    },
+    "voodoops2_2_2_8": {
+        "version": "2.2.8",
+        "sha256": "0z03ypg05c7yc7xvh7nsm90zva6nj6w8qpa34gfswfzyy296xp2f",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.8/VoodooPS2Controller-2.2.8-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_8": {
+        "version": "2.2.8",
+        "sha256": "0mims3gvr0s25l01zsccg6mli6q29wn69gdbhpnjzlpva6dv007l",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.8/VoodooPS2Controller-2.2.8-DEBUG.zip"
+    },
+    "voodoops2_2_2_7": {
+        "version": "2.2.7",
+        "sha256": "1fwn22fxaqwhaxz29aam7wm288xdm4480jr5hvaadb370f145vzs",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.7/VoodooPS2Controller-2.2.7-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_7": {
+        "version": "2.2.7",
+        "sha256": "1dzfwp5g8p10rbrdh6az7zscs7rkdry9isg1q563d9sz56wkbfn3",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.7/VoodooPS2Controller-2.2.7-DEBUG.zip"
+    },
+    "voodoops2_2_2_6": {
+        "version": "2.2.6",
+        "sha256": "1ir6z4bfgi5m1c9l0858952xgf07baiq0zklz0vqw4kgl9n3wscg",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.6/VoodooPS2Controller-2.2.6-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_6": {
+        "version": "2.2.6",
+        "sha256": "080gsyzdmasbgdhrvg413ndzw4jd5x38jw3nrw5wkbg6vc0fybhf",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.6/VoodooPS2Controller-2.2.6-DEBUG.zip"
+    },
+    "voodoops2_2_2_5": {
+        "version": "2.2.5",
+        "sha256": "0s8bpwvw936mdglfwa5zznrjxb9vvhdyqpmrsz838cnp7faqv13l",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.5/VoodooPS2Controller-2.2.5-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_5": {
+        "version": "2.2.5",
+        "sha256": "0vwrz2kvfdy0zryzj3q9bl3x3jbgcnwa64gflhi60wvsz1im92y3",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.5/VoodooPS2Controller-2.2.5-DEBUG.zip"
+    },
+    "voodoops2_2_2_4": {
+        "version": "2.2.4",
+        "sha256": "1dfc5idjcsh0kvn5im15mqm4kpbfkd4jp3ciprmpq7rp8vz38zq1",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.4/VoodooPS2Controller-2.2.4-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_4": {
+        "version": "2.2.4",
+        "sha256": "1r4p45y521wv66anpxmrhskma2p0fhimb62sd35ahpp6nv9qpymw",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.4/VoodooPS2Controller-2.2.4-DEBUG.zip"
+    },
+    "voodoops2_2_2_3": {
+        "version": "2.2.3",
+        "sha256": "0vfxzys9cmhad4v06203m8a9p638l82vsq1gq0lmc71h7a9h2dpx",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.3/VoodooPS2Controller-2.2.3-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_3": {
+        "version": "2.2.3",
+        "sha256": "03j97rws7d0pzxgpai9ysir41x9gk0rv8vmxldzq4yqlah166mx2",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.3/VoodooPS2Controller-2.2.3-DEBUG.zip"
+    },
+    "voodoops2_2_2_2": {
+        "version": "2.2.2",
+        "sha256": "1cghjs7q45dix5n4cxlzs18rcd36wsfkay0sq6xxiy17l2p3c0rc",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.2/VoodooPS2Controller-2.2.2-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_2": {
+        "version": "2.2.2",
+        "sha256": "1kwqkab0cadwc2izyviqlxnsl39aswbqay8zdx1g8m5s5hd16jzq",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.2/VoodooPS2Controller-2.2.2-DEBUG.zip"
+    },
+    "voodoops2_2_2_1": {
+        "version": "2.2.1",
+        "sha256": "1mn4mhz7f58alfwwgyl1g1c96g2ac4q75nd058p999cln7z56mqx",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.1/VoodooPS2Controller-2.2.1-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_1": {
+        "version": "2.2.1",
+        "sha256": "1ab0gzkaydnm8qiwww2i6nf6085pl96hd9vw4pmqk0bk6mzmdanp",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.1/VoodooPS2Controller-2.2.1-DEBUG.zip"
+    },
+    "voodoops2_2_2_0": {
+        "version": "2.2.0",
+        "sha256": "02sz8bihyv9gcdbfcww5grkj4vkn2qvav112931cqb7kw4936l1s",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.0/VoodooPS2Controller-2.2.0-RELEASE.zip"
+    },
+    "voodoops2-debug_2_2_0": {
+        "version": "2.2.0",
+        "sha256": "0wsxkbva74iplv8f4r9px126vymapb4rb2xw2mw4bwdpma9g653g",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.2.0/VoodooPS2Controller-2.2.0-DEBUG.zip"
+    },
+    "voodoops2_2_1_9": {
+        "version": "2.1.9",
+        "sha256": "0flsp8234snzbkw32qi00qhr3kfmbl2lk6nxlfz52qjv6d22mf2m",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.9/VoodooPS2Controller-2.1.9-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_9": {
+        "version": "2.1.9",
+        "sha256": "142ky0zfynjrqg3flc37xxnrivin3rx7p77gyqz51a2fa0i93vw1",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.9/VoodooPS2Controller-2.1.9-DEBUG.zip"
+    },
+    "voodoops2_2_1_8": {
+        "version": "2.1.8",
+        "sha256": "0py441922l75jppcgdd7hahnyx6r35qz5hxznc72va2k8jrxlc95",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.8/VoodooPS2Controller-2.1.8-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_8": {
+        "version": "2.1.8",
+        "sha256": "1cigjwfrdy3fagyl829z7p2s6xa3dv93dkl90j9my56dz72h5vkl",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.8/VoodooPS2Controller-2.1.8-DEBUG.zip"
+    },
+    "voodoops2_2_1_7": {
+        "version": "2.1.7",
+        "sha256": "0ndxphf0m4mps0mdjjm350pvciarvxnjl2q3ahdx55vz51fk00hl",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.7/VoodooPS2Controller-2.1.7-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_7": {
+        "version": "2.1.7",
+        "sha256": "17gvbmdn738m5aydy77mnsnw8sllrbhsfqw4z8g9la00rrakjf97",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.7/VoodooPS2Controller-2.1.7-DEBUG.zip"
+    },
+    "voodoops2_2_1_6": {
+        "version": "2.1.6",
+        "sha256": "18hmlvwjh3qq36zw4chc9j960z0v4s386vh8dja12yiq9dy19fmn",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.6/VoodooPS2Controller-2.1.6-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_6": {
+        "version": "2.1.6",
+        "sha256": "021k8w7idiaw5rl5kwijfwj62az6xrjjkj7n4c4cl9113g6csr09",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.6/VoodooPS2Controller-2.1.6-DEBUG.zip"
+    },
+    "voodoops2_2_1_5": {
+        "version": "2.1.5",
+        "sha256": "13k5cl8m14lwd319d9nr34cilr5rv0kgx548vpvdq2rf2mscjikj",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.5/VoodooPS2Controller-2.1.5-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_5": {
+        "version": "2.1.5",
+        "sha256": "1mmrj4r4xrj4kbjzi2ayvh9krlakxcji2ml7k4pfibpxhk4g1np6",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.5/VoodooPS2Controller-2.1.5-DEBUG.zip"
+    },
+    "voodoops2_2_1_4": {
+        "version": "2.1.4",
+        "sha256": "1fd5ff96g5fv9ry6l0w963cnvlpd6vz93s6qciz8a4jig484kr1p",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.4/VoodooPS2Controller-2.1.4-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_4": {
+        "version": "2.1.4",
+        "sha256": "0nq0i1vv73sxsnzcravpmshl0j89hf06ab657mv4wzqkp3hvykf8",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.4/VoodooPS2Controller-2.1.4-DEBUG.zip"
+    },
+    "voodoops2_2_1_3": {
+        "version": "2.1.3",
+        "sha256": "1ny5b8j4wp825vb0y3gb7d0zmyjabql7kkadmgc7wadqla65q5jp",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.3/VoodooPS2Controller-2.1.3-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_3": {
+        "version": "2.1.3",
+        "sha256": "064g58acxvfsgwnxr9ba32ccmfck8n23g069mgbr59f8pg6xnd6a",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.3/VoodooPS2Controller-2.1.3-DEBUG.zip"
+    },
+    "voodoops2_2_1_2": {
+        "version": "2.1.2",
+        "sha256": "131sd5l41fx8dlh1qmn1gwizqwbadsz3iwagrlp1rcm36mfmn8r5",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.2/VoodooPS2Controller-2.1.2-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_2": {
+        "version": "2.1.2",
+        "sha256": "0djlkhp1l8pmphgdhxm24jpsq9wlinszgn82vqp90p9w7ksairzf",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.2/VoodooPS2Controller-2.1.2-DEBUG.zip"
+    },
+    "voodoops2_2_1_1": {
+        "version": "2.1.1",
+        "sha256": "194j46qc78za1z3prknkx3p922lznaz6dn8fiylmlnbb0sp1bbll",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.1/VoodooPS2Controller-2.1.1-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_1": {
+        "version": "2.1.1",
+        "sha256": "189rjik2gk6d8drq1byzbshnxzcnd5c1hr501g360pmnxgjwj84j",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.1/VoodooPS2Controller-2.1.1-DEBUG.zip"
+    },
+    "voodoops2_2_1_0": {
+        "version": "2.1.0",
+        "sha256": "0i9qs28lngv0dj41hzdjjiz09icjcrmyi6js7mgibvij9c9dw6sz",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.0/VoodooPS2Controller-2.1.0-RELEASE.zip"
+    },
+    "voodoops2-debug_2_1_0": {
+        "version": "2.1.0",
+        "sha256": "165mr3z4b1daanfy7pdz1q5sab34fky0ldi5vg59fj9z944y6az7",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.1.0/VoodooPS2Controller-2.1.0-DEBUG.zip"
+    },
+    "voodoops2_2_0_4": {
+        "version": "2.0.4",
+        "sha256": "1hzdhg2ajf4v8ccjfnvl3zar7jv7fnnajdqsvj5skr7yh1648cn4",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.0.4/VoodooPS2Controller-2.0.4-RELEASE.zip"
+    },
+    "voodoops2-debug_2_0_4": {
+        "version": "2.0.4",
+        "sha256": "0b51nh7asgkxkj3bi6s43xdr7cmz3xiyks3s1bg4458fsndm9m4c",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.0.4/VoodooPS2Controller-2.0.4-DEBUG.zip"
+    },
+    "voodoops2_2_0_3": {
+        "version": "2.0.3",
+        "sha256": "0g2ff473hyw3pvzwdrjys6wasxqxjpkacxd6jf3zb2i76a4ykna9",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.0.3/VoodooPS2Controller-2.0.3-RELEASE.zip"
+    },
+    "voodoops2-debug_2_0_3": {
+        "version": "2.0.3",
+        "sha256": "0h4x0db2snik2g13w53shwlhqn1bgs5mf9ml4mhca4g8wp9klj51",
+        "url": "https://github.com/acidanthera/VoodooPS2/releases/download/2.0.3/VoodooPS2Controller-2.0.3-DEBUG.zip"
+    }
+}

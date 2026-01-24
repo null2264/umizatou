@@ -3,6 +3,7 @@
     mkdir -p $out/Kexts
     cp -r ./*.kext $out/Kexts
   ''
+, passthru ? {}
 }:
 
 let
@@ -14,7 +15,7 @@ let
 in
 stdenv.mkDerivation rec
 {
-  inherit pname version src;
+  inherit pname version src passthru;
 
   installPhase = finalInstallPhase;
 }

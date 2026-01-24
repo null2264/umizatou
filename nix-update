@@ -1,0 +1,4 @@
+#!/bin/sh
+# Usage example: ./nix-update --argstr package oc.voodoops2
+
+nix-shell maintainers/scripts/update.nix $@
