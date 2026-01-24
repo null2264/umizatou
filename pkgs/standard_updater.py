@@ -15,6 +15,7 @@ parser.add_argument("org", type=str, help="the repository's owner")
 parser.add_argument("repo", type=str, help="the repository's name")
 parser.add_argument("--filename", type=str, help="the releases' filename")
 parser.add_argument("--omit-version", action="store_true", help="omit version from release filename (e.g. YogaSMC-Release.zip instead of YogaSMC-1.0.0-Release.zip)")
+parser.add_argument("--force-reindex", action="store_true", help="force existing version to refresh its data")
 args = parser.parse_args()
 
 def nix_prefetch_sha256(url):
@@ -48,6 +49,11 @@ def construct_url(version, omit_version, release_type):
     file_format = f"{filename}-{version.lstrip("v")}-{release_type}.zip" if not omit_version else f"{filename}-{release_type}.zip"
     return f"https://github.com/{org}/{repo}/releases/download/{version}/{file_format}"
 
+d = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(d, f"kexts/{os.environ.get('UPDATE_NIX_PNAME') or repo.lower()}/versions.json"), "r") as f:
+    prev = json.load(f)
+
+changed = 0
 catalogue = {}
 for index, i in enumerate(data):
     for r in ["RELEASE", "DEBUG"]:
@@ -62,22 +68,35 @@ for index, i in enumerate(data):
             if quirk["type"] == "yogasmc":
                 url = quirk["url"]
 
+        key = f"{name}_{normalise_version(version)}"
+
+        prev_data = prev.get(key)
+        if prev_data is not None and prev_data.get("sha256") is not None and not args.force_reindex:
+            continue
+        changed += 1
+
         current_data = {
             "version": version.lstrip("v"),
             "sha256": nix_prefetch_sha256(url),
             "url": url,
         }
-        catalogue[f"{name}_{normalise_version(version)}"] = current_data
+        catalogue[key] = current_data
 
         if (index) == 0:
             # Alias for latest
             catalogue[name] = current_data
 
-changes = [ { "commitMessage": f"{repo.lower()}Packages: update versions\n\n" } ]
+if changed > 0:
+    changes = [ { "commitMessage": f"{repo.lower()}Packages: update versions\n\n" } ]
 
-print(json.dumps(changes))
+    for key, value in sorted({**prev, **catalogue}.items(), key=lambda item: [int(s) if s.isdigit() else s for s in re.split(r'(\d+)', item[0])]):
+        if key not in prev:
+            changes[0]['commitMessage'] += 'optifinePackages.{}: init at {}\n'.format(key, value['version'])
+        elif value['version'] != prev[key]['version']:
+            changes[0]['commitMessage'] += 'optifinePackages.{}: {} -> {}\n'.format(key, prev[key]['version'], value['version'])
 
-d = os.path.dirname(os.path.abspath(__file__))
-with open(os.path.join(d, f"kexts/{os.environ.get('UPDATE_NIX_PNAME') or repo.lower()}/versions.json"), "w") as f:
-    json.dump(catalogue, f, indent=4)
-    f.write('\n')
+    print(json.dumps(changes))
+
+    with open(os.path.join(d, f"kexts/{os.environ.get('UPDATE_NIX_PNAME') or repo.lower()}/versions.json"), "w") as f:
+        json.dump(catalogue, f, indent=4)
+        f.write('\n')
