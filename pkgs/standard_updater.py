@@ -91,7 +91,13 @@ for index, i in enumerate(data):
 
         prev_data = prev.get(key)
         if prev_data is not None and prev_data.get("sha256") is not None and not args.force_reindex:
+            catalogue[key] = prev_data
+
+            if (index) == 0:
+                # Alias for latest
+                catalogue[_name] = prev_data
             continue
+
         changed += 1
 
         current_data = {
