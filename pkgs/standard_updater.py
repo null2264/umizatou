@@ -44,9 +44,12 @@ def normalise_version(ver):
 
 def get_quirk(version, release_type):
     if pname == "yogasmc":
+        url = construct_url(version, version != "1.1.0", release_type)
+        if release_type == "RELEASE" and version == "1.5.0":
+            url = None
         return {
             "type": "yogasmc",
-            "url": construct_url(version, version != "1.1.0", release_type),
+            "url": url,
         }
     return None
 
@@ -80,6 +83,9 @@ for index, i in enumerate(data):
         if quirk:
             if quirk["type"] == "yogasmc":
                 url = quirk["url"]
+
+        if not url:
+            continue
 
         key = f"{_name}{'-debug' if r == 'DEBUG' else ''}_{normalise_version(version)}"
 

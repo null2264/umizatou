@@ -39,11 +39,6 @@
         "sha256": "1s30gxi13n03g9kvlzb5raijlb046078wr16916fqafdqxv63vv4",
         "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.1/YogaSMC-DEBUG.zip"
     },
-    "yogasmc_1_5_0": {
-        "version": "1.5.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0/YogaSMC-RELEASE.zip"
-    },
     "yogasmc-debug_1_5_0": {
         "version": "1.5.0",
         "sha256": "1lawxh9jkzss35vrfl1pcjr81zlfp1fisrhbwxiggaragvcs7x39",
