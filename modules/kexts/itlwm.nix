@@ -57,9 +57,12 @@ in
           name = "WiFi_${toString (i + 1)}";
           value = v;
         }) cfg.wifiProfiles);
-        info = oc.resolver.parsePlist pkgs infoPlist // {
-          IOKitPersonalities.itlwm.WiFiConfig = profiles;
-        };
+        info = mkMerge [
+          oc.resolver.parsePlist pkgs infoPlist
+          {
+            IOKitPersonalities.itlwm.WiFiConfig = profiles;
+          }
+        ];
       in oc.plist.toPlist { } info;
 
     itlwmPackage = cfg.package.overrideAttrs (old: {
