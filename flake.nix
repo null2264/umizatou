@@ -97,7 +97,7 @@
                   pkgs.oc.voodooi2c.latest
                   pkgs.oc.voodoormi.latest
                   pkgs.oc.voodoops2
-                  pkgs.oc.yogasmc.latest
+                  pkgs.oc.yogasmc
                   pkgs.oc.whatevergreen.latest
                 ];
               };

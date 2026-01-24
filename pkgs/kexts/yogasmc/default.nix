@@ -1,8 +1,3 @@
 { lib, pkgs }:
-{
-  yogasmc = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "yogasmc";
-    path = ./.;
-  });
-}
+
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

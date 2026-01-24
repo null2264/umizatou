@@ -11,7 +11,7 @@ let
   mkKext = import ../../lib/mkKext.nix;
 in mkKext rec {
   inherit version;
-  pname = "voodoops2";
+  pname = "yogasmc";
 
   src = fetchzip {
     inherit url version sha256;
@@ -20,9 +20,8 @@ in mkKext rec {
 
   passthru.updateScript = [
     ../../standard_updater.py
-    "acidanthera"
-    "VoodooPS2"
-    "--filename VoodooPS2Controller"
+    "zhen-zen"
+    "YogaSMC"
   ];
 
   inherit stdenv;
