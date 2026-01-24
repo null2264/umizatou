@@ -6,6 +6,7 @@ This project provides a basic to manage [OpenCore bootloader](https://github.com
 
 > [!NOTE]
 > This project is not designed to simplify or make setting up OpenCore easier, the main goal is to make **maintaining** the OpenCore's configuration less painful.
+>
 > To get started with Hackintosh and OpenCore, I highly recommend reading [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/).
 
 - Automatically validate `Config.plist` with `ocvalidate`
