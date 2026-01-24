@@ -50,7 +50,7 @@ changes = [ { "commitMessage": f"{repo.lower()}Packages: update versions\n\n" } 
 
 print(json.dumps(changes))
 
-d = os.getcwd()
-with open(os.path.join(d, 'versions.json'), 'w') as f:
+d = os.path.dirname(os.path.abspath(__file__))
+with open(os.path.join(d, f"kexts/{os.environ.get('UPDATE_NIX_PNAME')}/versions.json"), "w") as f:
     json.dump(catalogue, f, indent=4)
     f.write('\n')
