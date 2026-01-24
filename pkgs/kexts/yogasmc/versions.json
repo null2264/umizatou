@@ -1,123 +1,123 @@
 {
     "yogasmc_1_5_3": {
         "version": "1.5.3",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-1.5.3-RELEASE.zip"
+        "sha256": "1dkn19l61nglvpr8dl0xhjsxwk31ljvmw7bsw4lhfdszki0knj12",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-RELEASE.zip"
     },
     "yogasmc": {
         "version": "1.5.3",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-1.5.3-RELEASE.zip"
+        "sha256": "1dkn19l61nglvpr8dl0xhjsxwk31ljvmw7bsw4lhfdszki0knj12",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_5_3": {
         "version": "1.5.3",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-1.5.3-DEBUG.zip"
+        "sha256": "01frcf4h5vqiwgjb26c60gwcv022aci8xhvlqzrzhcijclg2kz8c",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-DEBUG.zip"
     },
     "yogasmc-debug": {
         "version": "1.5.3",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-1.5.3-DEBUG.zip"
+        "sha256": "01frcf4h5vqiwgjb26c60gwcv022aci8xhvlqzrzhcijclg2kz8c",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.3/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_5_2": {
         "version": "1.5.2",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.2/YogaSMC-1.5.2-RELEASE.zip"
+        "sha256": "15gynaa1lfv7wvjyczn89hp7pp3zr8i8arjzjzx9fm8qy4lfm3vm",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.2/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_5_2": {
         "version": "1.5.2",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.2/YogaSMC-1.5.2-DEBUG.zip"
+        "sha256": "0aq5if9v2jz14p0qlfcn189wfnwzpff7k3jk9gvnydw79fqkb1g2",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.2/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_5_1": {
         "version": "1.5.1",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.1/YogaSMC-1.5.1-RELEASE.zip"
+        "sha256": "0115v1kb16q6m8dyxxlfjkddwsvp652x6wmkm81yqmpv226m0s35",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.1/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_5_1": {
         "version": "1.5.1",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.1/YogaSMC-1.5.1-DEBUG.zip"
+        "sha256": "1s30gxi13n03g9kvlzb5raijlb046078wr16916fqafdqxv63vv4",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.1/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_5_0": {
         "version": "1.5.0",
         "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0/YogaSMC-1.5.0-RELEASE.zip"
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_5_0": {
         "version": "1.5.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0/YogaSMC-1.5.0-DEBUG.zip"
+        "sha256": "1lawxh9jkzss35vrfl1pcjr81zlfp1fisrhbwxiggaragvcs7x39",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_5_0-pre": {
         "version": "1.5.0-pre",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0-pre/YogaSMC-1.5.0-pre-RELEASE.zip"
+        "sha256": "1ww76qb5m21rzg5j6w3lnphv61qh7m9pyxll5qmxf2pybk2ccf3r",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0-pre/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_5_0-pre": {
         "version": "1.5.0-pre",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0-pre/YogaSMC-1.5.0-pre-DEBUG.zip"
+        "sha256": "1jmwn5rx615rh9bm479y4yqij6vwpv7z3nbi08zkg9ggp2hysg8n",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.5.0-pre/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_4_3": {
         "version": "1.4.3",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.3/YogaSMC-1.4.3-RELEASE.zip"
+        "sha256": "0gbjcfayapxip6w4092n99h1a3igq2icm5dik1rclinppxli8gnq",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.3/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_4_3": {
         "version": "1.4.3",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.3/YogaSMC-1.4.3-DEBUG.zip"
+        "sha256": "02n8pz1249kccnrk677y4jvicb7kwginpaq52nx5gggqiggxf083",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.3/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_4_2": {
         "version": "1.4.2",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.2/YogaSMC-1.4.2-RELEASE.zip"
+        "sha256": "0slbbm3d75zbp08rvqq7qspm4l3jkrpwzd5gdnwxsbs75l6a4nbz",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.2/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_4_2": {
         "version": "1.4.2",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.2/YogaSMC-1.4.2-DEBUG.zip"
+        "sha256": "1wrmfkzzy5d2k3wqjh8jyxa3404qcz7vkxrnaymx9dbrf2mybw37",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.2/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_4_1": {
         "version": "1.4.1",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.1/YogaSMC-1.4.1-RELEASE.zip"
+        "sha256": "1p8m714j6vr44z6snh7ms19al14pb20vx6am209fwfd5z1rl8w8l",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.1/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_4_1": {
         "version": "1.4.1",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.1/YogaSMC-1.4.1-DEBUG.zip"
+        "sha256": "1f4wvflnrfvlgadhmp38wvhpqplgzjgqmbm0w703rlgaxbnzzqfi",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.1/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_4_0": {
         "version": "1.4.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.0/YogaSMC-1.4.0-RELEASE.zip"
+        "sha256": "1936mv7v2yb286ayar5hgw6hsilk1pxs9ylri74f2lr9g9pr1snp",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.0/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_4_0": {
         "version": "1.4.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.0/YogaSMC-1.4.0-DEBUG.zip"
+        "sha256": "16yn1mnlhd72szx55gj6l95qk1lqvilys23mr4jajcra3xdxxaap",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.4.0/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_3_0": {
         "version": "1.3.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.3.0/YogaSMC-1.3.0-RELEASE.zip"
+        "sha256": "19nip9l1b9n1wfb71g9hivavpzb43gx8lb0hsl71pi1c6r726kna",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.3.0/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_3_0": {
         "version": "1.3.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.3.0/YogaSMC-1.3.0-DEBUG.zip"
+        "sha256": "18xk7rwfdnaya7ilqlqkd6p2491qv2vwpfhvqxbms57bqzcba4af",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.3.0/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_2_0": {
         "version": "1.2.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.2.0/YogaSMC-1.2.0-RELEASE.zip"
+        "sha256": "0ib087x4w4zhnfa91mpf9ksdq9p9p3cdwiswy37nwk2wrb6p98ya",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.2.0/YogaSMC-RELEASE.zip"
     },
     "yogasmc-debug_1_2_0": {
         "version": "1.2.0",
-        "sha256": "",
-        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.2.0/YogaSMC-1.2.0-DEBUG.zip"
+        "sha256": "0lq1gz1wk9fdirnqgla1xkj09wpca17rm58xdlnkhb72hnbbx91p",
+        "url": "https://github.com/zhen-zen/YogaSMC/releases/download/1.2.0/YogaSMC-DEBUG.zip"
     },
     "yogasmc_1_1_0": {
         "version": "1.1.0",

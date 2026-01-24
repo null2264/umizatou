@@ -45,7 +45,7 @@ def get_quirk(version, release_type):
     return None
 
 def construct_url(version, omit_version, release_type):
-    file_format = f"{filename}-{version.lstrip("v")}-{release_type}.zip" if omit_version else f"{filename}-{release_type}.zip"
+    file_format = f"{filename}-{version.lstrip("v")}-{release_type}.zip" if not omit_version else f"{filename}-{release_type}.zip"
     return f"https://github.com/{org}/{repo}/releases/download/{version}/{file_format}"
 
 catalogue = {}
@@ -55,9 +55,9 @@ for index, i in enumerate(data):
         if r == "DEBUG":
             name += "-debug"
         version = i.get("tag_name")
-        url = construct_url(version, args, omit_version, release_type)
+        url = construct_url(version, args.omit_version, r)
 
-        quirk = get_quirk(version, release_type)
+        quirk = get_quirk(version, r)
         if quirk:
             if quirk["type"] == "yogasmc":
                 url = quirk["url"]
