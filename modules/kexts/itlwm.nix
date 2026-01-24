@@ -53,11 +53,13 @@ in
     registerWifi = {}:
       let
         infoPlist = cfg.package + "/Kexts/itlwm.kext/Contents/Info.plist";
+        base = oc.resolver.parsePlist pkgs infoPlist;
+
         profiles = lib.listToAttrs (lib.imap0 (i: v: {
           name = "WiFi_${toString (i + 1)}";
           value = v;
         }) cfg.wifiProfiles);
-        base = oc.resolver.parsePlist pkgs infoPlist;
+
         info = base // {
           IOKitPersonalities = base.IOKitPersonalities // {
             itlwm = base.IOKitPersonalities.itlwm // {

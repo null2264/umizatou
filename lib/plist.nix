@@ -50,8 +50,8 @@ rec {
 
         bool = ind: x: literal ind (if x then "<true/>" else "<false/>");
         int = ind: x: literal ind "<integer>${toString x}</integer>";
-        str = ind: x: literal ind "<string>${x}</string>";
-        key = ind: x: literal ind "<key>${x}</key>";
+        str = ind: x: literal ind "<string>${lib.escapeXML x}</string>";
+        key = ind: x: literal ind "<key>${lib.escapeXML x}</key>";
         float = ind: x: literal ind "<real>${toString x}</real>";
         custom = ind: x:
           let tag = x.${plistCustomTypeKey};
