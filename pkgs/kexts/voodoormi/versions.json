@@ -1,0 +1,192 @@
+{
+    "voodoormi_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "1p3xdjmc26gp4pcfjdhk719b0izypi9nh2bz3jda9m5ma7djl351",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.3/VoodooRMI-1.4.3-RELEASE.zip"
+    },
+    "voodoormi": {
+        "version": "1.4.3",
+        "sha256": "1p3xdjmc26gp4pcfjdhk719b0izypi9nh2bz3jda9m5ma7djl351",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.3/VoodooRMI-1.4.3-RELEASE.zip"
+    },
+    "voodoormi-debug_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "01zp1rnysbygx7xq1ymkadd7nsm0wy92f7vjyw9mqy67gmxf2fzh",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.3/VoodooRMI-1.4.3-DEBUG.zip"
+    },
+    "voodoormi-debug": {
+        "version": "1.4.3",
+        "sha256": "01zp1rnysbygx7xq1ymkadd7nsm0wy92f7vjyw9mqy67gmxf2fzh",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.3/VoodooRMI-1.4.3-DEBUG.zip"
+    },
+    "voodoormi_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "0sdcsx8kqcv1msi8kwp1yqhfsmhm1ib99lq33754s1awy8gxq9n7",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.2/VoodooRMI-1.4.2-RELEASE.zip"
+    },
+    "voodoormi-debug_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "00k7rfzfjfsck19llaas80bymbhi8bh8kdc31xnfsigarj19ragx",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.2/VoodooRMI-1.4.2-DEBUG.zip"
+    },
+    "voodoormi_1_4_1": {
+        "version": "1.4.1",
+        "sha256": "0zlp9hhz5al68k1gv5l43h90q797j9yd22fpxysw4xsb101kaawl",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.1/VoodooRMI-1.4.1-RELEASE.zip"
+    },
+    "voodoormi-debug_1_4_1": {
+        "version": "1.4.1",
+        "sha256": "13nmamidxfswbi44id757hjz0gjf4w4ydim0kzmd0swji8m390k9",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.1/VoodooRMI-1.4.1-DEBUG.zip"
+    },
+    "voodoormi_1_4_0": {
+        "version": "1.4.0",
+        "sha256": "1hbsjwgprvkn8jxxs8wzf5bkspk4fg2jmpaxf0ki67i8f9jk2ia1",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.0/VoodooRMI-1.4.0-RELEASE.zip"
+    },
+    "voodoormi-debug_1_4_0": {
+        "version": "1.4.0",
+        "sha256": "1yily3jvk8dvx73hb1y2n4kbqwchry5g24ldf9xl1ng79g5zipyg",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.4.0/VoodooRMI-1.4.0-DEBUG.zip"
+    },
+    "voodoormi_1_3_5": {
+        "version": "1.3.5",
+        "sha256": "0x1a1vljmd2w193clryn2h5saxyk6jz4zdbki9s22q4b0a06abqf",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.5/VoodooRMI-1.3.5-RELEASE.zip"
+    },
+    "voodoormi-debug_1_3_5": {
+        "version": "1.3.5",
+        "sha256": "1fqa4l6wpapb2i7bf5ii0501brpd7w512rv5hbyn8h28caa5pi40",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.5/VoodooRMI-1.3.5-DEBUG.zip"
+    },
+    "voodoormi_1_3_4": {
+        "version": "1.3.4",
+        "sha256": "0v954x7pxcwpfrxinmwkd3v5vas265g6i6rks008qyp9gri5ybzs",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.4/VoodooRMI-1.3.4-RELEASE.zip"
+    },
+    "voodoormi-debug_1_3_4": {
+        "version": "1.3.4",
+        "sha256": "060ff1zn91zi6n00fvjbwn3zlpj9qpnb99a23162dfzpi6bdrbm9",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.4/VoodooRMI-1.3.4-DEBUG.zip"
+    },
+    "voodoormi_1_3_3": {
+        "version": "1.3.3",
+        "sha256": "03a0hn88iky6vdbzmmywr8acw0q5vl5d1hx5ijnq5l8qvlx4i3px",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.3/VoodooRMI-1.3.3-RELEASE.zip"
+    },
+    "voodoormi-debug_1_3_3": {
+        "version": "1.3.3",
+        "sha256": "0dl6bivk2aqqd9nxxxddx1hv2ffgwvlwaqa91c1z4wc3617pgfp1",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.3/VoodooRMI-1.3.3-DEBUG.zip"
+    },
+    "voodoormi_1_3_2": {
+        "version": "1.3.2",
+        "sha256": "01n7sykfkh6dchxjil9ljllln7i503qzffab8m8sh46igg6s23hc",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.2/VoodooRMI-1.3.2-RELEASE.zip"
+    },
+    "voodoormi-debug_1_3_2": {
+        "version": "1.3.2",
+        "sha256": "0jzfd50kss0rjjyb8nbv9l1pgfvilhxarhj9z7gk1a0d486arr3q",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.2/VoodooRMI-1.3.2-DEBUG.zip"
+    },
+    "voodoormi_1_3_1": {
+        "version": "1.3.1",
+        "sha256": "0yjbq8l3wb35amax89xcn1mfgdajipxi6jqn2hc5hknsmfia05xf",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.1/VoodooRMI-1.3.1-RELEASE.zip"
+    },
+    "voodoormi-debug_1_3_1": {
+        "version": "1.3.1",
+        "sha256": "07a44s6x39sqy7s2n9hrxi2fhsx72786v70jf4g66ckk5h6q9qh2",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3.1/VoodooRMI-1.3.1-DEBUG.zip"
+    },
+    "voodoormi_1_3": {
+        "version": "1.3",
+        "sha256": "0ig1lbjbv1nass92l6w2dr5x37l84kk331b37p9g5wc3p60k0av6",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3/VoodooRMI-1.3-RELEASE.zip"
+    },
+    "voodoormi-debug_1_3": {
+        "version": "1.3",
+        "sha256": "0y5w7kypc14wd5li4h61lb3sigp6sgpbk8y554vp1bincrphhlah",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.3/VoodooRMI-1.3-DEBUG.zip"
+    },
+    "voodoormi_1_2": {
+        "version": "1.2",
+        "sha256": "1his43838dg9dyh8g048i42izcg4yajqnamkvjwynm8gy6jc5a0l",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.2/VoodooRMI.1.2-RELEASE.zip"
+    },
+    "voodoormi-debug_1_2": {
+        "version": "1.2",
+        "sha256": "0mz146291wnqsdxcnfgk9d07wwb4xmsahb8v1h5g433pjb20qshb",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.2/VoodooRMI.1.2-DEBUG.zip"
+    },
+    "voodoormi_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "127kd72zbsqxp4gk4n4pawcja1c7b1c1ylbxs3bv9p7zgmnc06q8",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.1.0/VoodooRMI-1.1.0-RELEASE.zip"
+    },
+    "voodoormi-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "0dm8apcaghisi2mfwmxb5byzrvwdylwhk3gnaqls0pwmf7v0fvwk",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.1.0/VoodooRMI-1.1.0-DEBUG.zip"
+    },
+    "voodoormi_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "18khfgmm8w6fyswyrrrqqnrn2gp6pvbizd2pacqvqydsxfbcy75b",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.0.1/VoodooRMI-1.0.1-RELEASE.zip"
+    },
+    "voodoormi-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "12dgmkr84arc70xh4q2a3nmpcvi7izvbf5wrqbdj3bcg3a8zr2lk",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.0.1/VoodooRMI-1.0.1-DEBUG.zip"
+    },
+    "voodoormi_1_0": {
+        "version": "1.0",
+        "sha256": "19wa73r4v4lzac7gia5ql9cf6rygph1xl2pfkfgg9r61wv16l0n5",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.0/VoodooRMI-1.0-RELEASE.zip"
+    },
+    "voodoormi-debug_1_0": {
+        "version": "1.0",
+        "sha256": "01bm9fvgccn6gg5aagsnsj7aqvshxlb6fjfspn8lvxbjx06s3jdh",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/1.0/VoodooRMI-1.0-DEBUG.zip"
+    },
+    "voodoormi_0_5": {
+        "version": "0.5",
+        "sha256": "12df9g0kayh1vpfm6x4nz181f6g86j1frgd06px0q0d8xyp2v9yp",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.5/VoodooRMI-0.5-RELEASE.zip"
+    },
+    "voodoormi-debug_0_5": {
+        "version": "0.5",
+        "sha256": "17vnvrb4d3imdzdyphpzr6gqivvd32ifri8kjnd3saq6sgpx1z9l",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.5/VoodooRMI-0.5-DEBUG.zip"
+    },
+    "voodoormi_0_4": {
+        "version": "0.4",
+        "sha256": "0qw3410bqwpr2k9h98416q31shbvc22rzixznmd4c5g3g3nlr56q",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.4/VoodooRMI-0.4-RELEASE.zip"
+    },
+    "voodoormi-debug_0_4": {
+        "version": "0.4",
+        "sha256": "1rhcypxq2qanhpdng3555wpvla4akmlj5lpw551klmaqg2zknd8m",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.4/VoodooRMI-0.4-DEBUG.zip"
+    },
+    "voodoormi_0_3": {
+        "version": "0.3",
+        "sha256": "1xykqa7w8bgdn9354kggi2zg5p3xcfnr9pa95q639ca058f5lsvv",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.3/VoodooRMI-0.3-RELEASE.zip"
+    },
+    "voodoormi-debug_0_3": {
+        "version": "0.3",
+        "sha256": "1gl642xb1xs3kgxzgzbdnh3z4w985akq3iarqcq8yj4djx3dqj0c",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.3/VoodooRMI-0.3-DEBUG.zip"
+    },
+    "voodoormi_0_2": {
+        "version": "0.2",
+        "sha256": "1h9qrjnqy353zad7jxa7gdygs8s5ky5ggdrfs5mr80jdscvk9h7r",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.2/VoodooRMI-0.2-RELEASE.zip"
+    },
+    "voodoormi-debug_0_2": {
+        "version": "0.2",
+        "sha256": "03s3v2g6x7kpxxyhmqq6az6zpn5b6s1ncf62kh4m60svxnzwqqv3",
+        "url": "https://github.com/VoodooSMBus/VoodooRMI/releases/download/0.2/VoodooRMI-0.2-DEBUG.zip"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "usbtoolbox_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "19fslgrgm1x05kskfkzw2ap6rma56jgmhrjzsn7c233mn33012zg",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.2.0/USBToolBox-1.2.0-RELEASE.zip"
+    },
+    "usbtoolbox": {
+        "version": "1.2.0",
+        "sha256": "19fslgrgm1x05kskfkzw2ap6rma56jgmhrjzsn7c233mn33012zg",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.2.0/USBToolBox-1.2.0-RELEASE.zip"
+    },
+    "usbtoolbox-debug_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "1ja67jclr1qjjg2mn242qjxa30d33g8kdyfvy16w4izr2gj1i5am",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.2.0/USBToolBox-1.2.0-DEBUG.zip"
+    },
+    "usbtoolbox-debug": {
+        "version": "1.2.0",
+        "sha256": "1ja67jclr1qjjg2mn242qjxa30d33g8kdyfvy16w4izr2gj1i5am",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.2.0/USBToolBox-1.2.0-DEBUG.zip"
+    },
+    "usbtoolbox_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "0k9bh27zr4cy6zz66sj5y2lj1k0gqsrpw0v26bgz96prqdkbbxj2",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.1.1/USBToolBox-1.1.1-RELEASE.zip"
+    },
+    "usbtoolbox-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "02jn0j461m48f854b64vlr8lixci1bf9inmdhpxfgi8jm950zlws",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.1.1/USBToolBox-1.1.1-DEBUG.zip"
+    },
+    "usbtoolbox_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "04rkvhal9r5nb7g2chlbn99dvxf4cyjmnamhaf464m97288rcad3",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.1.0/USBToolBox-1.0.1-RELEASE.zip"
+    },
+    "usbtoolbox-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "144pb9v1lpbp39lg65lm80z5kpz8d6skkndc445fgkv8q25nqb91",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.1.0/USBToolBox-1.0.1-DEBUG.zip"
+    },
+    "usbtoolbox_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0blbi2v49scdfp5p0zbfvgnrxmkwm8ygdq722v8f1i54kr3mw2a5",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.0.0/USBToolBox-1.0.0-RELEASE.zip"
+    },
+    "usbtoolbox-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1w9m3czdc5gvmdg14yh802j0xni3l1sfq8kmjlmp23n4jk0qipvj",
+        "url": "https://github.com/USBToolBox/kext/releases/download/1.0.0/USBToolBox-1.0.0-DEBUG.zip"
+    }
+}

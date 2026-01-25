@@ -1,0 +1,12 @@
+{
+    "voltageshift_1_27": {
+        "version": "1.27",
+        "sha256": "0qhcw5dhh8w9p3k8m45hxmyk58qiybw5zavv4gk4653fg8d1q76p",
+        "url": "https://github.com/xCuri0/VoltageShiftSecure/releases/download/1.27/VoltageShift1.27.zip"
+    },
+    "voltageshift": {
+        "version": "1.27",
+        "sha256": "0qhcw5dhh8w9p3k8m45hxmyk58qiybw5zavv4gk4653fg8d1q76p",
+        "url": "https://github.com/xCuri0/VoltageShiftSecure/releases/download/1.27/VoltageShift1.27.zip"
+    }
+}

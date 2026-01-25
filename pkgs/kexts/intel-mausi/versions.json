@@ -1,0 +1,102 @@
+{
+    "intel-mausi_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "0xmp2g5bvl3q8xg72iq95hwjs6xzardfi4g0k1rhfwh60i19b0b1",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.8/IntelMausi-1.0.8-RELEASE.zip"
+    },
+    "intel-mausi": {
+        "version": "1.0.8",
+        "sha256": "0xmp2g5bvl3q8xg72iq95hwjs6xzardfi4g0k1rhfwh60i19b0b1",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.8/IntelMausi-1.0.8-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "044yypaphxqsraxplaq892b3yjvfabsdvrkr9z30flc3lymjac3s",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.8/IntelMausi-1.0.8-DEBUG.zip"
+    },
+    "intel-mausi-debug": {
+        "version": "1.0.8",
+        "sha256": "044yypaphxqsraxplaq892b3yjvfabsdvrkr9z30flc3lymjac3s",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.8/IntelMausi-1.0.8-DEBUG.zip"
+    },
+    "intel-mausi_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "0avb7gml3bxg735daj1c2aay35dh9gl2r0svgmd1i9542y7g17j0",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.7/IntelMausi-1.0.7-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "0j3p52fs0vny1i5z4naz9gxgkhlxm0n5w2iql7pdy1wgl9gh1aa1",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.7/IntelMausi-1.0.7-DEBUG.zip"
+    },
+    "intel-mausi_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "10c41p7dca09f131yzpii36l62zna8wk6liq4azjpb8wx4prpid7",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.6/IntelMausi-1.0.6-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "1s7vfarnqbz549fh67xn9ga95q6550b6r44rcknamhsq8v0f7d2k",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.6/IntelMausi-1.0.6-DEBUG.zip"
+    },
+    "intel-mausi_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "17d880yfp4vpzk7dz49kcrsj74cy3adq73v2vpkxg1vzj3k007sb",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.5/IntelMausi-1.0.5-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "119ib1x24c5fkliby5g8adn6clmrhk4ig0g63d6qs91bgfbqz9y1",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.5/IntelMausi-1.0.5-DEBUG.zip"
+    },
+    "intel-mausi_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "0nqsxbxhhh0f0b5arr4x07s14fa9g2jwv95yvxm640dyf6vxnw1g",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.4/IntelMausi-1.0.4-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "0ljnlx5ap99v6yp787z7dm2ifrnsh3bdq3kbx9zwb0r7bn31qhcm",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.4/IntelMausi-1.0.4-DEBUG.zip"
+    },
+    "intel-mausi_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "08p28w3h84yh6hfwxbgx97phn0im7id3jbmd4j9jn09fk81yn7hh",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.3/IntelMausi-1.0.3-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "08n0b884d3y7y1ls1b0v7l77vanqcxb5y0226k4dixpx4741y4cl",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.3/IntelMausi-1.0.3-DEBUG.zip"
+    },
+    "intel-mausi_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0xn3azsccm1fqqf5jpf37ghvmmx1rnr8cnj7z2sfwz4pl15gzan6",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.2/IntelMausi-1.0.2-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0c0d6xsi6mn1f975gija5cx87mssjn995fg2710wfgs6pj90zn6z",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.2/IntelMausi-1.0.2-DEBUG.zip"
+    },
+    "intel-mausi_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "1n12g1rcw8msaks9q9yvivwkrg9kkfdi2j85pwcz512bmbaq33lz",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.1/IntelMausi-1.0.1-RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "18k7kza8jzb0xfn068mlnzfnlrljc8zp4mvmis6clpgacgbgmybp",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.1/IntelMausi-1.0.1-DEBUG.zip"
+    },
+    "intel-mausi_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "16v35aqx9wkg7s2c4i747815ccj8vw635ga4bvy027i6lk10wfwg",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.0/1.0.0.RELEASE.zip"
+    },
+    "intel-mausi-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1xxdkhnhwm0wsyiqxmcd3dlb5azbisgfwn7g9gl995s5ql38v18r",
+        "url": "https://github.com/acidanthera/IntelMausi/releases/download/1.0.0/1.0.0.DEBUG.zip"
+    }
+}

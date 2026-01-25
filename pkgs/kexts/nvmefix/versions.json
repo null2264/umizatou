@@ -1,0 +1,152 @@
+{
+    "nvmefix_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "13b9icvwbfwk8knjicas08pl4m6a5vnw6fa9933250s1ngvfb3g8",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.3/NVMeFix-1.1.3-RELEASE.zip"
+    },
+    "nvmefix": {
+        "version": "1.1.3",
+        "sha256": "13b9icvwbfwk8knjicas08pl4m6a5vnw6fa9933250s1ngvfb3g8",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.3/NVMeFix-1.1.3-RELEASE.zip"
+    },
+    "nvmefix-debug_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "1ziycr5qljryi7nf6z9hnfl675k9q1789mcpg7w9qsy0pvv2gl9c",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.3/NVMeFix-1.1.3-DEBUG.zip"
+    },
+    "nvmefix-debug": {
+        "version": "1.1.3",
+        "sha256": "1ziycr5qljryi7nf6z9hnfl675k9q1789mcpg7w9qsy0pvv2gl9c",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.3/NVMeFix-1.1.3-DEBUG.zip"
+    },
+    "nvmefix_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "19dmyf4r7x1iv95r4blm3g8q360ggdqi01dm4vmzirza8160kkkl",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.2/NVMeFix-1.1.2-RELEASE.zip"
+    },
+    "nvmefix-debug_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "1928k080sjz8c6r48qyh37hmfqm05k011k50bns3aghib8jyg4rl",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.2/NVMeFix-1.1.2-DEBUG.zip"
+    },
+    "nvmefix_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "16kyqm5pvqx9hzl6izhyx0wg0miqamc163mxayhmkfbxx4zsw00y",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.1/NVMeFix-1.1.1-RELEASE.zip"
+    },
+    "nvmefix-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "0jx52kmbi0pbh510aivp12iqz6mhzjqhlwwvgr8mnd4a44sn261x",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.1/NVMeFix-1.1.1-DEBUG.zip"
+    },
+    "nvmefix_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "1hs6k7cj02d0v8p63himkg1pni8x07kdzdc2mi84caqszla1qjy9",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.0/NVMeFix-1.1.0-RELEASE.zip"
+    },
+    "nvmefix-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "1kvjw8vqvdw6njzdmrfnh0cc8ijc7s16rjpzx4n21zc2rc0pgn5h",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.1.0/NVMeFix-1.1.0-DEBUG.zip"
+    },
+    "nvmefix_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "17kb31vwvlx26qdv2cr8lf2pylxgb4cbmb3dqygg44v6a3mlii5w",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.9/NVMeFix-1.0.9-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "1xnkzm94760zv8gzg4r575dbfxzd8mx7lz7igcmiqyyvahx9d948",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.9/NVMeFix-1.0.9-DEBUG.zip"
+    },
+    "nvmefix_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "0bigilmspk4iqc3r558vlk3has8f7jzfvw0fx9a808j6ilypm416",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.8/NVMeFix-1.0.8-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "1ywlsc7ks1297dpa7irfazcx98wjjl7ihwqsx9kg6kymdr8pj3hs",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.8/NVMeFix-1.0.8-DEBUG.zip"
+    },
+    "nvmefix_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "1x7hh0chkpfzgm7kf6n4lbijk932ixzld6z5x1l24i8spcp0wz5d",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.7/NVMeFix-1.0.7-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "10w5hllnc0ch08ll2n6csw3w9fbqdl83j362473wb4v4k0513pi3",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.7/NVMeFix-1.0.7-DEBUG.zip"
+    },
+    "nvmefix_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "09idh18vyphlp25v2s5l955idijw0m16wqrqfnarcr6wq580j2q3",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.6/NVMeFix-1.0.6-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "0wpckbibqgh68lxhdlwisqkj3mqwy05h5xbki40wvb7b3w9k4739",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.6/NVMeFix-1.0.6-DEBUG.zip"
+    },
+    "nvmefix_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "1isn06azvq6kn37k9k84flhykk2ccl1xas4fqiq260x88z46f3j6",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.5/NVMeFix-1.0.5-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "16q36kv8xbwhmhhymhvhlc14d93p5pz5yw4iz5znpvr3jkd5chnb",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.5/NVMeFix-1.0.5-DEBUG.zip"
+    },
+    "nvmefix_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "05agwvwvjhdv3hzndxpbalsp2y689f3r3wm9k0rwa101snv9arh2",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.4/NVMeFix-1.0.4-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "1110pg2r8slklrz68khiybjv7fyyg3sjhhmdmxpf9lwrx1raq606",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.4/NVMeFix-1.0.4-DEBUG.zip"
+    },
+    "nvmefix_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0xl4i4jhpl989x5rql4wc27i9rbwg6zdrxas7cf5hxib9sv13liv",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.3/NVMeFix-1.0.3-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0fxjvm292jm1vhkzb0s87wyabl8hrbi30wkjka3fynzdl5ffjq5h",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.3/NVMeFix-1.0.3-DEBUG.zip"
+    },
+    "nvmefix_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1vd03d0y3nfbx0z2xa6lzk4g0c534m6xinn6ym9ad7lm7h42253z",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.2/NVMeFix-1.0.2-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0p2x5py3hg90mqmasw86glgxwicbk6cnp6dh1xm5j158qd07rbaq",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.2/NVMeFix-1.0.2-DEBUG.zip"
+    },
+    "nvmefix_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "0gvlww7r0jfyw8jpbfi6g2jkfrkm5k56af02pjanjnvr3r3kmrvh",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.1/NVMeFix-1.0.1-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "077j3ib75zmks4aflha4730495pvkzvm1jmgdyl3i8zndmgfdc2a",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.1/NVMeFix-1.0.1-DEBUG.zip"
+    },
+    "nvmefix_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "16kx3b3pqmzzhbi75m18mlrx4shp2v8ny3hm3r4f0ngwvf8r8kli",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.0/NVMeFix-1.0.0-RELEASE.zip"
+    },
+    "nvmefix-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "07rj8a5g5s7m65z7h5bw9lnch6plmmjqiz0j2jssdffwasnm4vq9",
+        "url": "https://github.com/acidanthera/NVMeFix/releases/download/1.0.0/NVMeFix-1.0.0-DEBUG.zip"
+    }
+}

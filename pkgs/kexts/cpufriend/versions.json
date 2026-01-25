@@ -1,0 +1,232 @@
+{
+    "cpufriend_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "1q8jhv3pkrfapbkm9nw54ldj5dhr9ny63k05z6i2s5k0pjqrs5ly",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.3.0/CPUFriend-1.3.0-RELEASE.zip"
+    },
+    "cpufriend": {
+        "version": "1.3.0",
+        "sha256": "1q8jhv3pkrfapbkm9nw54ldj5dhr9ny63k05z6i2s5k0pjqrs5ly",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.3.0/CPUFriend-1.3.0-RELEASE.zip"
+    },
+    "cpufriend-debug_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "02pw8wxbdsf93m63qdj3whgw8ysc15z2mxrk3i4d563jyiqrviyn",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.3.0/CPUFriend-1.3.0-DEBUG.zip"
+    },
+    "cpufriend-debug": {
+        "version": "1.3.0",
+        "sha256": "02pw8wxbdsf93m63qdj3whgw8ysc15z2mxrk3i4d563jyiqrviyn",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.3.0/CPUFriend-1.3.0-DEBUG.zip"
+    },
+    "cpufriend_1_2_9": {
+        "version": "1.2.9",
+        "sha256": "1130vz39gys3cbh5zsvy30rd5cgkqb908x936rms9jp8nns58mbf",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.9/CPUFriend-1.2.9-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_9": {
+        "version": "1.2.9",
+        "sha256": "1xvljk3rpxnb5ackbsjjk4vx3kh3i2zigc6wzldhs231fjr9vglf",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.9/CPUFriend-1.2.9-DEBUG.zip"
+    },
+    "cpufriend_1_2_8": {
+        "version": "1.2.8",
+        "sha256": "0sdyqp1hx65zn37bbqsp0jp811ra3llnmnhkgq9mzfq8v36mh70l",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.8/CPUFriend-1.2.8-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_8": {
+        "version": "1.2.8",
+        "sha256": "0831dwv284x0v1099g79m5w4ld6qkn35ljfi7fpggyjfh9afgrx3",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.8/CPUFriend-1.2.8-DEBUG.zip"
+    },
+    "cpufriend_1_2_7": {
+        "version": "1.2.7",
+        "sha256": "0r38n725245zgg3js36jwy1ghj7adaj6qay2cmflp63mivv26by6",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.7/CPUFriend-1.2.7-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_7": {
+        "version": "1.2.7",
+        "sha256": "04vkj7rnsr84dbyk4sjijz74x00g3bk4b52gi7z0pajz51f5b7mq",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.7/CPUFriend-1.2.7-DEBUG.zip"
+    },
+    "cpufriend_1_2_6": {
+        "version": "1.2.6",
+        "sha256": "0bhi0yf7935h82kfszaldk7r8yaf3rqai5bncs5cfkwzbvaajg44",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.6/CPUFriend-1.2.6-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_6": {
+        "version": "1.2.6",
+        "sha256": "15mazswnr98wr4a1j209nfc1419s4c1g3x2vp8gy9v2pwbxqvpmc",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.6/CPUFriend-1.2.6-DEBUG.zip"
+    },
+    "cpufriend_1_2_5": {
+        "version": "1.2.5",
+        "sha256": "1qydklqxz00m86s3qh2wkm1fcpspfv3zywkpi14fam1hvsxp50wy",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.5/CPUFriend-1.2.5-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_5": {
+        "version": "1.2.5",
+        "sha256": "14l7vijm2afkg8iiypmj13nprkxdh1wf1h7dc32p4i580i9f2qjd",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.5/CPUFriend-1.2.5-DEBUG.zip"
+    },
+    "cpufriend_1_2_4": {
+        "version": "1.2.4",
+        "sha256": "0bn2mgddrr38d6v5rnxmh05078rwfflzs3yn2nxrd0csaylswaa9",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.4/CPUFriend-1.2.4-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_4": {
+        "version": "1.2.4",
+        "sha256": "0ld3zicx5r1yfvj5wvr85ypc7rrq6chwm14dj819i5mr75mgffp7",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.4/CPUFriend-1.2.4-DEBUG.zip"
+    },
+    "cpufriend_1_2_3": {
+        "version": "1.2.3",
+        "sha256": "0iqw4mx1bvgw92w7f1n6s5imp0ysd1ag7ik9gyc54vsafvb1qjh8",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.3/CPUFriend-1.2.3-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_3": {
+        "version": "1.2.3",
+        "sha256": "0mj4h5p11izy4zf87g38p9slp3v22dwx0kn0ps7idl1fbzyfxa9h",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.3/CPUFriend-1.2.3-DEBUG.zip"
+    },
+    "cpufriend_1_2_2": {
+        "version": "1.2.2",
+        "sha256": "0wz1i35ypqkq8mgjsbwzrf7j1l7xjz3m1grp53v06arjm10g3shx",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.2/CPUFriend-1.2.2-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_2": {
+        "version": "1.2.2",
+        "sha256": "0y44cl735wyzdlikx2pfs46vx7wa7bigk2a85nc11v5a3hrhlyz4",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.2/CPUFriend-1.2.2-DEBUG.zip"
+    },
+    "cpufriend_1_2_1": {
+        "version": "1.2.1",
+        "sha256": "08c5y7cpmwnjdz6hal3k8hz2qryc5mg4ihkgd9p9b1z9shcndcpr",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.1/CPUFriend-1.2.1-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_1": {
+        "version": "1.2.1",
+        "sha256": "1al4fqrrwbydz8xkrmbvilnvpk3z3sfw30w6plx98ggrlxxj7q15",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.1/CPUFriend-1.2.1-DEBUG.zip"
+    },
+    "cpufriend_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "0dqgf9ns6x89lq6afh68pdirkrmzw40kmsy7pnvb0jchr4iqgk50",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.0/CPUFriend-1.2.0-RELEASE.zip"
+    },
+    "cpufriend-debug_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "0snlp12mmbxny2inbd1j60jp1ai3x0j5vbssx1awc40cq3k52bgp",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.2.0/CPUFriend-1.2.0-DEBUG.zip"
+    },
+    "cpufriend_1_1_9": {
+        "version": "1.1.9",
+        "sha256": "1agzmri07vl4c633gcjf361dx6pnh2d8na1z635vlkmz1sb1pxdb",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.9/CPUFriend-1.1.9-RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_9": {
+        "version": "1.1.9",
+        "sha256": "1c19h56h4j259pdi3l1y0kfydaci8w2ki6d9imn4mqgncqvpldir",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.9/CPUFriend-1.1.9-DEBUG.zip"
+    },
+    "cpufriend_1_1_8": {
+        "version": "1.1.8",
+        "sha256": "1hmbfqxfwa9f55w0zbn1p0d8spyafxdv8wpmn65800q1i6lqqdb8",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.8/1.1.8.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_8": {
+        "version": "1.1.8",
+        "sha256": "1wry389bc66p97d0hxc81i187jd5h6pmynbmzs0w0nqdwb11305f",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.8/1.1.8.DEBUG.zip"
+    },
+    "cpufriend_1_1_7": {
+        "version": "1.1.7",
+        "sha256": "1m3bglz4l3q879bq732hkfw18z16jj8yq82irlh2ciahf4yssn0c",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.7/1.1.7.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_7": {
+        "version": "1.1.7",
+        "sha256": "1ni9b4krwki898p6mac30is84vxlzk41bil09ahlmyznynss5k9p",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.7/1.1.7.DEBUG.zip"
+    },
+    "cpufriend_1_1_6": {
+        "version": "1.1.6",
+        "sha256": "1h7nr07ly19bz0v2grjrw2vlqbcb65v7221qnvxyrfgxkyrfyii0",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.6/1.1.6.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_6": {
+        "version": "1.1.6",
+        "sha256": "0x27lqadj0vll9x41fs9xzz8l96673x77w790db7a9i2gclhp6ig",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.6/1.1.6.DEBUG.zip"
+    },
+    "cpufriend_1_1_4": {
+        "version": "1.1.4",
+        "sha256": "0lrd5pmjrnswd9vq1p6jmmrv6hsg1sil2n3chc147hnq1hkc5vxs",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.4/1.1.4.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_4": {
+        "version": "1.1.4",
+        "sha256": "1ss9qbcb3wr79j5gv2g3zz14bbilx151rz8lk8k5dp129vxm5mfb",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.4/1.1.4.DEBUG.zip"
+    },
+    "cpufriend_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "1jf798gzj2hgp7m9prnzg54rmjrc5272k6bghh65f5vgcs0yvaha",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.3/1.1.3.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "1c6wdhndfkr3j36naws7pjs6w0cf91lzk3civ7sawcz6fb9ppn4p",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.3/1.1.3.DEBUG.zip"
+    },
+    "cpufriend_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "0b13vxkzlfjmijc7xs8k892xl5prfvqzsjgq6zrglx7r8nirhp5l",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.2/1.1.2.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "1xjxsvz34vrxdig0y0pl2vb719vpxcwnb9vjplv1y8agvldkqycj",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.2/1.1.2.DEBUG.zip"
+    },
+    "cpufriend_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "1fqqid2ggn8l1fh407a2pmqz5rrq11wd4yl35dn9r7w7jx125igd",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.1/1.1.1.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "1arl5n4ahvg7zcrf8j3650878sxja33x7agrqmpyvajgwdh9y2ip",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.1/1.1.1.DEBUG.zip"
+    },
+    "cpufriend_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "16qvp58p3i0lxdkzvrdxlzqs09apqxfij2wx4srsmc6ig0lbkpbh",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.0/1.1.0.RELEASE.zip"
+    },
+    "cpufriend-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "1aymcmxdla4j6bzr7i0hq7qrkp5d031hw9455ijsifqhs1nl3irk",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.1.0/1.1.0.DEBUG.zip"
+    },
+    "cpufriend_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "1pw0cf01h3bkw1fm7m107kcdnkpwbyzbxp173g94sjg6z36p8dnk",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.0.1/1.0.1.RELEASE.zip"
+    },
+    "cpufriend-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "137wcnij9gaiarqaidymw8j3v9jdhi10swjlq9djl6zfhj35anhy",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.0.1/1.0.1.DEBUG.zip"
+    },
+    "cpufriend_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0w45wji9rhqmizaddddgpkl1qpshdsfhmx2x2smam5xrch9jndhs",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.0.0/1.0.0.RELEASE.zip"
+    },
+    "cpufriend-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0vr57hzvniv7r1n5ji81naygl3mr8vq5sv1rm77g4hscihqjxlnm",
+        "url": "https://github.com/acidanthera/CPUFriend/releases/download/1.0.0/1.0.0.DEBUG.zip"
+    }
+}

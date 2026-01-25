@@ -1,10 +1,3 @@
 { lib, pkgs }:
-{
-  voltageshift = (import ../../pkger.nix {
-    inherit lib pkgs;
-    path = ./.;
-    fn = ver: {
-      "${ver}" = pkgs.callPackage ./voltageshift.nix { inherit ver; };
-    };
-  });
-}
+
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

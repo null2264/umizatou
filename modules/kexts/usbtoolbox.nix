@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.usbtoolbox.latest;
-        defaultText = literalExpression "pkgs.oc.usbtoolbox.latest";
+        default = pkgs.oc.usbtoolbox;
+        defaultText = literalExpression "pkgs.oc.usbtoolbox";
         description = ''
           Package containing the USBToolBox Kext.
         '';

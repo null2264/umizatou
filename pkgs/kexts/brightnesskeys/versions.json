@@ -1,0 +1,52 @@
+{
+    "brightnesskeys_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0wnh55ag6ia5npa0r419m03d59daapvwi3k8gaj8d699677hy3nv",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.3/BrightnessKeys-1.0.3-RELEASE.zip"
+    },
+    "brightnesskeys": {
+        "version": "1.0.3",
+        "sha256": "0wnh55ag6ia5npa0r419m03d59daapvwi3k8gaj8d699677hy3nv",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.3/BrightnessKeys-1.0.3-RELEASE.zip"
+    },
+    "brightnesskeys-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0bdq74bm9fgzc90wyrgv8av8rh2x01728gjza30na6jjks863q85",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.3/BrightnessKeys-1.0.3-DEBUG.zip"
+    },
+    "brightnesskeys-debug": {
+        "version": "1.0.3",
+        "sha256": "0bdq74bm9fgzc90wyrgv8av8rh2x01728gjza30na6jjks863q85",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.3/BrightnessKeys-1.0.3-DEBUG.zip"
+    },
+    "brightnesskeys_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0dcb5n9xbwvflbxi392z1fgcmfnxp12nxwy9aixwpsvn7z320f4i",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.2/BrightnessKeys-1.0.2-RELEASE.zip"
+    },
+    "brightnesskeys-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1fr3czsnyfafjg92x998n2j6wz4nfbcrql1qjv72jaxzvvizpf9i",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.2/BrightnessKeys-1.0.2-DEBUG.zip"
+    },
+    "brightnesskeys_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "18ypgkrwj0ciz8yiq1lanzn6a95mjpsvxxlqx724jwz8j94m03hh",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.1/BrightnessKeys-1.0.1-RELEASE.zip"
+    },
+    "brightnesskeys-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "1j0xn2r1dl78pcfzb66466cabza5y3cwrfhhw574q1y24a6b8wjd",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.1/BrightnessKeys-1.0.1-DEBUG.zip"
+    },
+    "brightnesskeys_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0x7wp6ibsvmkg0ssii1vrk0l8dam6jr0z282hlv49dhbnlpig9p6",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.0/BrightnessKeys-1.0.0-RELEASE.zip"
+    },
+    "brightnesskeys-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1ppwwh78gzzlpyzin6ih8xcqm6qwf25jid0yby7nf2x8izpiwmw6",
+        "url": "https://github.com/acidanthera/BrightnessKeys/releases/download/1.0.0/BrightnessKeys-1.0.0-DEBUG.zip"
+    }
+}

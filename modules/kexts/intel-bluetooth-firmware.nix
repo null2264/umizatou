@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.intel-bluetooth-firmware.latest;
-        defaultText = literalExpression "pkgs.oc.intel-bluetooth-firmware.latest";
+        default = pkgs.oc.intel-bluetooth-firmware;
+        defaultText = literalExpression "pkgs.oc.intel-bluetooth-firmware";
         description = ''
           Package containing the IntelBluetoothFirmware Kext.
         '';

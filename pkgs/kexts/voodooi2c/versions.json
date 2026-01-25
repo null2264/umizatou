@@ -1,0 +1,162 @@
+{
+    "voodooi2c_2_9_1": {
+        "version": "2.9.1",
+        "sha256": "1fl28r2pjnbvrlfva0yqbzylf9hsg174ww46qlfr4wrk1fiyvsfr",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.9.1/VoodooI2C-2.9.1-RELEASE.zip"
+    },
+    "voodooi2c": {
+        "version": "2.9.1",
+        "sha256": "1fl28r2pjnbvrlfva0yqbzylf9hsg174ww46qlfr4wrk1fiyvsfr",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.9.1/VoodooI2C-2.9.1-RELEASE.zip"
+    },
+    "voodooi2c-debug_2_9_1": {
+        "version": "2.9.1",
+        "sha256": "1l1n2wv5fx2ld69qlqifj4x2bn3lljizwfnp3sl0fpb8wscidja8",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.9.1/VoodooI2C-2.9.1-DEBUG.zip"
+    },
+    "voodooi2c-debug": {
+        "version": "2.9.1",
+        "sha256": "1l1n2wv5fx2ld69qlqifj4x2bn3lljizwfnp3sl0fpb8wscidja8",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.9.1/VoodooI2C-2.9.1-DEBUG.zip"
+    },
+    "voodooi2c_2_8": {
+        "version": "2.8",
+        "sha256": "1507a0aaly1f85kgqaf9k9dpfc8s5kb42dy8lvz51ji4ckcnwrym",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.8/VoodooI2C-2.8.zip"
+    },
+    "voodooi2c_2_7_1": {
+        "version": "2.7.1",
+        "sha256": "0880yq5r01921a8816gvv9bv17h74hbr9rmdn8zpazpw4ig9dg9l",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.7.1/VoodooI2C-2.7.1.zip"
+    },
+    "voodooi2c_2_7": {
+        "version": "2.7",
+        "sha256": "0mjjm1jxy60dzpnr0c4qczjjc07avf4cmdz57jx6p1i76prrycpq",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.7/VoodooI2C-2.7.zip"
+    },
+    "voodooi2c_2_6_5": {
+        "version": "2.6.5",
+        "sha256": "03jzfhzkzngh2xsf8ng4y50scphm6y13d55nw7mqminr2lgby6vq",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.6.5/VoodooI2C-2.6.5.zip"
+    },
+    "voodooi2c_2_6_4": {
+        "version": "2.6.4",
+        "sha256": "1q10p7sla6dzqvly5n7n78mcmqjpwcjzp6yky4m32i1shvj5myac",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.6.4/VoodooI2C-2.6.4.zip"
+    },
+    "voodooi2c_2_6_3": {
+        "version": "2.6.3",
+        "sha256": "18qvdvvhx1aa1w3gxxdk7l7q3qj3f073ifqdn8nkddpmq1hgh2v1",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.6.3/VoodooI2C-2.6.3.zip"
+    },
+    "voodooi2c_2_6_2": {
+        "version": "2.6.2",
+        "sha256": "1f9g4k70hyyhswhmgvqjbc9mlkwyyl66h6x0ly7gn0d0xsh7j415",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.6.2/VoodooI2C-2.6.2.zip"
+    },
+    "voodooi2c_2_6_1": {
+        "version": "2.6.1",
+        "sha256": "1la7qicq8p6x8jfrw5pq8ny9mxprw40ijr8ak89kp1rk6w6w24vv",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.6.1/VoodooI2C-2.6.1.zip"
+    },
+    "voodooi2c_2_6": {
+        "version": "2.6",
+        "sha256": "0vnlcsc1si1w917c0jrh7y7bx0gbzf0jm6pxszz9jxdgfg2nfdar",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.6/VoodooI2C-2.6.zip"
+    },
+    "voodooi2c_2_5_2": {
+        "version": "2.5.2",
+        "sha256": "0h73rq92azf8wa80mqhnk23lcp05c0n49zgakwdz1m64571qj1mx",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.5.2/VoodooI2C-2.5.2.zip"
+    },
+    "voodooi2c_2_4_4": {
+        "version": "2.4.4",
+        "sha256": "0xifigr45icklrcfjlwpcjvjfra6s5mcdsj5yb8rmf63va8cnm21",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.4.4/VoodooI2C-2.4.4.zip"
+    },
+    "voodooi2c_2_4_3": {
+        "version": "2.4.3",
+        "sha256": "1q0g13abbbma7dxbgf3byinwg8gl3hm7gw39vfranbjjn1xnc6p9",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.4.3/VoodooI2C-2.4.3.zip"
+    },
+    "voodooi2c_2_4_2": {
+        "version": "2.4.2",
+        "sha256": "0bc9nv0zw65cvcj16ady13qrzhrxcws90m2jzlg182kz7af5phv2",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.4.2/VoodooI2C-2.4.2.zip"
+    },
+    "voodooi2c_2_4_1": {
+        "version": "2.4.1",
+        "sha256": "1wp8gjg6lzn2v90fqpf0fkz0krlh1ay3xhxwz5zy3nmzcjj93wvq",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.4.1/VoodooI2C-2.4.1.zip"
+    },
+    "voodooi2c_2_4": {
+        "version": "2.4",
+        "sha256": "15z44x75kw3m55z4dqfhhrq90h15akn52zfvsnf74jakih8h15pk",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.4/VoodooI2C-2.4.zip"
+    },
+    "voodooi2c_2_3": {
+        "version": "2.3",
+        "sha256": "1v660zxrhvaazymvx1jncjsp0qffzf5w6gvpgd93yx24jsqc5r4r",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.3/VoodooI2C-2.3.zip"
+    },
+    "voodooi2c_2_2": {
+        "version": "2.2",
+        "sha256": "1sksskbm6q0506yz3wbfh9nb2cdgwmr8pb2696vq4x9v4i1fbgf1",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.2/VoodooI2C-2.2.zip"
+    },
+    "voodooi2c_2_1_6": {
+        "version": "2.1.6",
+        "sha256": "0s78ycjjk6bzmc7jsmjz4rwwb365zpladilkq3m79hqxqww703h8",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.1.6/VoodooI2C-2.1.6.zip"
+    },
+    "voodooi2c_2_1_5": {
+        "version": "2.1.5",
+        "sha256": "0c4qdc3w4z9hqyz2n2pwvrxvf7zkixd2yl848378cvlb7algqw29",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/2.1.5/VoodooI2C-2.1.5.zip"
+    },
+    "voodooi2c_2_1_4": {
+        "version": "2.1.4",
+        "sha256": "0qjvl84yzg0h89p35jnfs8x1vrk93k2yzbspb5w1wmmpqy79kzsg",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.1.4/VoodooI2C-v2.1.4.zip"
+    },
+    "voodooi2c_2_1_3": {
+        "version": "2.1.3",
+        "sha256": "0fwp9v7pb7dhzfirh35vajwbry10bh6mfsm4wd8cxdy3gp01aqx8",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.1.3/VoodooI2C-v2.1.3.zip"
+    },
+    "voodooi2c_2_1_2": {
+        "version": "2.1.2",
+        "sha256": "000fqzw7xh99rwfi3iz5klr4mjlxf1c725vs1j0xg4mnj1idn0rk",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.1.2/VoodooI2C-v2.1.2.zip"
+    },
+    "voodooi2c_2_1_1": {
+        "version": "2.1.1",
+        "sha256": "1rkp8rhib03dfvpavx5lcxy8f6qfpghhzz7rkkvbh98044fw1np2",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.1.1/VoodooI2C.v2.1.1.zip"
+    },
+    "voodooi2c_2_1": {
+        "version": "2.1",
+        "sha256": "0m8689ax7v5lljzpw9i7873an34h2hlfklssc0dcqgir2bcp8jch",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.1/VoodooI2C-v2.1.zip"
+    },
+    "voodooi2c_2_0_3": {
+        "version": "2.0.3",
+        "sha256": "1kwihymdq2fkr2k4ffiyam92026p5w34rab1a1pxv4fmmmpf13dv",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.0.3/VoodooI2C-v2.0.3.zip"
+    },
+    "voodooi2c_2_0_2": {
+        "version": "2.0.2",
+        "sha256": "0nasc7xgpcn5k422wh0176012qvh31mc7wq3axjcvbjc394rrzkr",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.0.2/VoodooI2C-v2.0.2.zip"
+    },
+    "voodooi2c_2_0_1": {
+        "version": "2.0.1",
+        "sha256": "18h05glsfxb0if2cs5z5p1zpgiiz13xbkzqcwpxnzsrj6wfg2736",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.0.1/VoodooI2C-v2.0.1.zip"
+    },
+    "voodooi2c_2_0_0": {
+        "version": "2.0.0",
+        "sha256": "1b5qrd3wgr4ngrra0w3c789c047h7b3db2xpwndf2a9vlcgzdd81",
+        "url": "https://github.com/VoodooI2C/VoodooI2C/releases/download/v2.0.0/VoodooI2C-v2.0.0.zip"
+    }
+}

@@ -1,8 +1,3 @@
 { lib, pkgs }:
-{
-  voodoormi = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "voodoormi";
-    path = ./.;
-  });
-}
+
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

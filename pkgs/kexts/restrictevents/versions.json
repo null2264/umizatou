@@ -1,0 +1,182 @@
+{
+    "restrictevents_1_1_6": {
+        "version": "1.1.6",
+        "sha256": "1hl9gnm1y3hyn0pv0624h6mnvfm7dzl1s22k78igkv7l94f7kvml",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.6/RestrictEvents-1.1.6-RELEASE.zip"
+    },
+    "restrictevents": {
+        "version": "1.1.6",
+        "sha256": "1hl9gnm1y3hyn0pv0624h6mnvfm7dzl1s22k78igkv7l94f7kvml",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.6/RestrictEvents-1.1.6-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_6": {
+        "version": "1.1.6",
+        "sha256": "1y3kw890vazgh0m4vdc3y8d8szk4cgjl5bqw9vp6ccj7k87pi7nb",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.6/RestrictEvents-1.1.6-DEBUG.zip"
+    },
+    "restrictevents-debug": {
+        "version": "1.1.6",
+        "sha256": "1y3kw890vazgh0m4vdc3y8d8szk4cgjl5bqw9vp6ccj7k87pi7nb",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.6/RestrictEvents-1.1.6-DEBUG.zip"
+    },
+    "restrictevents_1_1_5": {
+        "version": "1.1.5",
+        "sha256": "1q601zrlgp06kpljiy2zl3r2n5977n1yffpjzmpq2qpb8z2hcsdl",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.5/RestrictEvents-1.1.5-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_5": {
+        "version": "1.1.5",
+        "sha256": "0wqddyzwgdm96505sqyvgnpcz37ksxqvfsgrcbwwra60lc6a73nw",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.5/RestrictEvents-1.1.5-DEBUG.zip"
+    },
+    "restrictevents_1_1_4": {
+        "version": "1.1.4",
+        "sha256": "0hgqlfwi51rdm1992bln2dp3g6px59kkrw14p4kjhd2djnx7954r",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.4/RestrictEvents-1.1.4-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_4": {
+        "version": "1.1.4",
+        "sha256": "04v4xvcij1vhqv3rsk84l3ny1364wjxf6ld3225sppazlwacgsnl",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.4/RestrictEvents-1.1.4-DEBUG.zip"
+    },
+    "restrictevents_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "0vn03341x7srsqz1ksa6xg3qjhp99zn8fmw3a07ppx1di6kji4qk",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.3/RestrictEvents-1.1.3-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "1bh64dv9khyr1mvn7ylvbvj7dxchyk6qqv67gbw1my1dv3qq3d34",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.3/RestrictEvents-1.1.3-DEBUG.zip"
+    },
+    "restrictevents_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "1wjqps02p0qwc6466mrnvvmy1qgvcym1nfzzb1dvzkmnwi81idgp",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.2/RestrictEvents-1.1.2-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "0maxk7lhlv6ah357xqc15bcrvm3kvjc3v4zshanjb9pzajpxp26y",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.2/RestrictEvents-1.1.2-DEBUG.zip"
+    },
+    "restrictevents_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "0zly41fvmfjmvj6zaf5pj92qigfcnfahn98dyk552zhpbckhwpkz",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.1/RestrictEvents-1.1.1-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "13has5vaffqj6r5f2m83s5954smv56bp273l79s3p4xfdwg8k650",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.1/RestrictEvents-1.1.1-DEBUG.zip"
+    },
+    "restrictevents_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "0a3faq7h47fjj67lm612jadk01pfq70snsplriwsgqq0505c73m7",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.0/RestrictEvents-1.1.0-RELEASE.zip"
+    },
+    "restrictevents-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "1rskcf5mcvvgvfzg828lnhx5f16k2pj6x97lqk0nkih9nmab8cfp",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.1.0/RestrictEvents-1.1.0-DEBUG.zip"
+    },
+    "restrictevents_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "0m298c0q75gqand9wrc7qg46w7d9kz3q19hnlp93sr9saldpl5r5",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.9/RestrictEvents-1.0.9-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "1k7bcl50kmv1140vddqmnc4ijk7b4j001qy9x8kqmrnwxmpc08y4",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.9/RestrictEvents-1.0.9-DEBUG.zip"
+    },
+    "restrictevents_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "1670d91j4f1zx67splzzl67lfhj89d9giv18nscyx51685kbqalr",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.8/RestrictEvents-1.0.8-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "0gpk76c73i9cc6r7r15x0d2sj5s4430662jb5napqla0nhk4hrfr",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.8/RestrictEvents-1.0.8-DEBUG.zip"
+    },
+    "restrictevents_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "0nxv578vj9dj4k71h5fh3cmkvps5c37xg0ia2vfz070pyxkn6p48",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.7/RestrictEvents-1.0.7-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "16d05cwxy6sg7p0z81cv81lyrg2iw80y5cxmgrd3lj26j0xhxfgi",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.7/RestrictEvents-1.0.7-DEBUG.zip"
+    },
+    "restrictevents_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "0pw5d25a225aayvhzvf98dhsd1qkbrn88v4ay8a3skyilagg5zdb",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.6/RestrictEvents-1.0.6-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "13b5x4cdm7zhpvvggn2fw9r2dgr5lvlayjd3wi88hjwlwq2m9296",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.6/RestrictEvents-1.0.6-DEBUG.zip"
+    },
+    "restrictevents_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "0cs33f0mgy7823z6lxndijqzsl5g726w9dg95fi5dqsvpzy03hvq",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.5/RestrictEvents-1.0.5-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "0pay5kbnx48kjs96261p7f0vixypg3mwjy7v896fmn401afxpsmh",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.5/RestrictEvents-1.0.5-DEBUG.zip"
+    },
+    "restrictevents_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "0br1pfhw67kbixbjcph722n94kb09rxxsjzarm7xg45mb6ksng3l",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.4/RestrictEvents-1.0.4-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "09ykn8vpigh5fnsjbyr252fkga3k9s23hawc975azk4m5z40xxm2",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.4/RestrictEvents-1.0.4-DEBUG.zip"
+    },
+    "restrictevents_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0fb97ca2bgp5qxi0pr08br0kwdjvklj7clmi2vq11bkrz5a912qq",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.3/RestrictEvents-1.0.3-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0pn9pyd1kl46yxsqcm7val2b3v6avbylgnfykkbh83pchvsfglq8",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.3/RestrictEvents-1.0.3-DEBUG.zip"
+    },
+    "restrictevents_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "14lmbn71wsibx2jycipvq48yr6bs81yy3vhqppdis0vmj1sz30f9",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.2/RestrictEvents-1.0.2-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1mk12a8kfbrxqfqlvv9xjxcx7ivafwqnxl1mb9ka0044wr378jxa",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.2/RestrictEvents-1.0.2-DEBUG.zip"
+    },
+    "restrictevents_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "05sasndzq2q76jqyjamr3gqii384rvlrcg96kai8yx1r5k1y10ai",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.1/RestrictEvents-1.0.1-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "16b75idx1dmfb9pn2sh9z6d59sf8g9cf850zzak0wqajjl1gfxg5",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.1/RestrictEvents-1.0.1-DEBUG.zip"
+    },
+    "restrictevents_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0ajcbsh3lnvwhqczrk4vvd8j239kj37sk4qwxhidlz1w04ddx1x6",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.0/RestrictEvents-1.0.0-RELEASE.zip"
+    },
+    "restrictevents-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "07mqj3hxyr6yj8s5wan0zy3mndmp0cikziziycnlycipv6g01wvv",
+        "url": "https://github.com/acidanthera/RestrictEvents/releases/download/1.0.0/RestrictEvents-1.0.0-DEBUG.zip"
+    }
+}

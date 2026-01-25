@@ -1,10 +1,3 @@
 { lib, pkgs }:
-{
-  voodooi2c = (import ../../pkger.nix {
-    inherit lib pkgs;
-    path = ./.;
-    fn = ver: {
-      "${ver}" = pkgs.callPackage ./voodooi2c.nix { inherit ver; };
-    };
-  });
-}
+
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

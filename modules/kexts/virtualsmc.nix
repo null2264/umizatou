@@ -13,8 +13,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.virtualsmc.latest;
-        defaultText = literalExpression "pkgs.oc.virtualsmc.latest";
+        default = pkgs.oc.virtualsmc;
+        defaultText = literalExpression "pkgs.oc.virtualsmc";
         description = ''
           Package containing the VirtualSMC Kexts.
         '';

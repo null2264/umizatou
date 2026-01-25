@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.yogasmc.latest;
-        defaultText = literalExpression "pkgs.oc.yogasmc.latest";
+        default = pkgs.oc.yogasmc;
+        defaultText = literalExpression "pkgs.oc.yogasmc";
         description = ''
           Package containing the YogaSMC Kext.
         '';

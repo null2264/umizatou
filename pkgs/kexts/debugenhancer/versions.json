@@ -1,0 +1,132 @@
+{
+    "debugenhancer_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "0bxf75nnjj78ka6h5aaqjlm2g3g1vagnkq6286i0rnk48nqydv95",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.1.1/DebugEnhancer-1.1.1-RELEASE.zip"
+    },
+    "debugenhancer": {
+        "version": "1.1.1",
+        "sha256": "0bxf75nnjj78ka6h5aaqjlm2g3g1vagnkq6286i0rnk48nqydv95",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.1.1/DebugEnhancer-1.1.1-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "1vwwxw764j1bx98xkw7xx7dzc7x91m09jjiyskp62ngp5f1avkm5",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.1.1/DebugEnhancer-1.1.1-DEBUG.zip"
+    },
+    "debugenhancer-debug": {
+        "version": "1.1.1",
+        "sha256": "1vwwxw764j1bx98xkw7xx7dzc7x91m09jjiyskp62ngp5f1avkm5",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.1.1/DebugEnhancer-1.1.1-DEBUG.zip"
+    },
+    "debugenhancer_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "15nizd47ls8ixrj0d5kg0kvzl6kpd1bwjd3fcv1khs7sjgbd4mfx",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.1.0/DebugEnhancer-1.1.0-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "14qxg06k32ayznsf8z705k3jp7qwn23130chhlpf9y47nc5ykzdh",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.1.0/DebugEnhancer-1.1.0-DEBUG.zip"
+    },
+    "debugenhancer_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "1nx9fflr3i8wx3f8m85sz3fclqdfx7y8nmmm9szbpzj52vyx5n81",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.9/DebugEnhancer-1.0.9-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "1v5hvg9jn040lmbcvhmayby1bs7q6xblnrhjj4kq1pggbk4i7jj2",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.9/DebugEnhancer-1.0.9-DEBUG.zip"
+    },
+    "debugenhancer_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "1qmdnkihp1dc17q81pna4z79z01b7kv7grlqakjhpfnffzmnb3lk",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.8/DebugEnhancer-1.0.8-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "0v5xpw55d01mdr8ij197qs93y6fddmnzpdcd3cafjk62csjnmqlc",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.8/DebugEnhancer-1.0.8-DEBUG.zip"
+    },
+    "debugenhancer_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "03mym1czpapzaf9p5jzdiiy6w68aj92vl70lx1b4k5xrfaasagck",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.7/DebugEnhancer-1.0.7-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "1bxkvsqnqjimam93x9hm73cq8i7gy0bfh0vf0m5yn03ib6cg50hh",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.7/DebugEnhancer-1.0.7-DEBUG.zip"
+    },
+    "debugenhancer_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "1bfqpx521cbhv0zyhnwk8rghd3h3anxgwn6466wb42712l6yg07v",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.6/DebugEnhancer-1.0.6-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "1pgmi59as14q01amc61k3zgcd3ypwkw0q8gqjlcg20fbsanzxl20",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.6/DebugEnhancer-1.0.6-DEBUG.zip"
+    },
+    "debugenhancer_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "1xxm4wir9l87f5hmyh6wv8qzcpn9bj0n3xy1dmsp34h457c6wys3",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.5/DebugEnhancer-1.0.5-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "19wpyshdjgnf6kyp51x0k2d90mg4kyzwigdw5adv7gzlp2kav9pg",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.5/DebugEnhancer-1.0.5-DEBUG.zip"
+    },
+    "debugenhancer_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "1ildicdg4pf6qajzkfdrv80kk6p01y8d56yq3n0bdwb1nfh5nwbs",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.4/DebugEnhancer-1.0.4-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "1i55wdllzrhwwp6v8ivk7difvpz41daxvs4d82dprbwx36dpvlzn",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.4/DebugEnhancer-1.0.4-DEBUG.zip"
+    },
+    "debugenhancer_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0hdwzhinnr69a3lxcyicwmlhxx17jf4jbkckv9haq6rkxhhvxifl",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.3/DebugEnhancer-1.0.3-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "0y3vphkbdifjkyd6glz55gpc4imgq7cnc8d8cqfjrp8msi6sgndd",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.3/DebugEnhancer-1.0.3-DEBUG.zip"
+    },
+    "debugenhancer_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1bn6gq6wjsdxdvvicqxv1gdqj80rshrldacadqxw63iqr78d0h1g",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.2/DebugEnhancer-1.0.2-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1gq4i12c8mfh4vfq6jl1wsnd6gmjfk51sw0s6pziy41wzz2r0zdp",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.2/DebugEnhancer-1.0.2-DEBUG.zip"
+    },
+    "debugenhancer_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "0sdrw3vhl5chfpwz54akbs4sp8kz4zk4qk651pnsjmfzpf7bqk7i",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.1/DebugEnhancer-1.0.1-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "1xwbx04y16lrx09fijhc77g2gzkk2cmzv0x8ccb7l8rz550yc8xb",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.1/DebugEnhancer-1.0.1-DEBUG.zip"
+    },
+    "debugenhancer_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0k63hvw90xikn4aabpdw8nf1k9ixl5fqa2mlni3mmv4dlbfm1awi",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.0/DebugEnhancer-1.0.0-RELEASE.zip"
+    },
+    "debugenhancer-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1nynp8xv395cs0vzyfbzdz3xqis1bhxkj26x63z8k74jjhsnfjdc",
+        "url": "https://github.com/acidanthera/DebugEnhancer/releases/download/1.0.0/DebugEnhancer-1.0.0-DEBUG.zip"
+    }
+}

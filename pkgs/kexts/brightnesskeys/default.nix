@@ -1,9 +1,3 @@
 { lib, pkgs }:
 
-{
-  brightnesskeys = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "brightnesskeys";
-    path = ./.;
-  });
-}
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

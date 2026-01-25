@@ -1,0 +1,312 @@
+{
+    "lilu_1_7_1": {
+        "version": "1.7.1",
+        "sha256": "1fkjdy37v9vsklv6g9h5r6jz9rpixs62fiwn5par57q79wxyrkiq",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.1/Lilu-1.7.1-RELEASE.zip"
+    },
+    "lilu": {
+        "version": "1.7.1",
+        "sha256": "1fkjdy37v9vsklv6g9h5r6jz9rpixs62fiwn5par57q79wxyrkiq",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.1/Lilu-1.7.1-RELEASE.zip"
+    },
+    "lilu-debug_1_7_1": {
+        "version": "1.7.1",
+        "sha256": "1snmk22660phbnfjpfpx42dy71svg3adiwfr8xp3a9s9w9awk2iy",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.1/Lilu-1.7.1-DEBUG.zip"
+    },
+    "lilu-debug": {
+        "version": "1.7.1",
+        "sha256": "1snmk22660phbnfjpfpx42dy71svg3adiwfr8xp3a9s9w9awk2iy",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.1/Lilu-1.7.1-DEBUG.zip"
+    },
+    "lilu_1_7_0": {
+        "version": "1.7.0",
+        "sha256": "1m8sbs4hc2cblvk8bmsxqh0zk9chxpg9kqqwxjkbjfgqfpwi4xf6",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.0/Lilu-1.7.0-RELEASE.zip"
+    },
+    "lilu-debug_1_7_0": {
+        "version": "1.7.0",
+        "sha256": "0yyfs0n2vszdb6qxlhc7ngpvyvcgbh60aa8hlay7sfnj2z6lg6fn",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.7.0/Lilu-1.7.0-DEBUG.zip"
+    },
+    "lilu_1_6_9": {
+        "version": "1.6.9",
+        "sha256": "15c1a10bnjgnr8psb7z3c5ka4hpybrilwafj39s7qyp3ir42jglz",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.9/Lilu-1.6.9-RELEASE.zip"
+    },
+    "lilu-debug_1_6_9": {
+        "version": "1.6.9",
+        "sha256": "11a6whpr5rrqy8wl2wsmcb2im7a8k0yyxlp4zbkbpxg6887x7yxx",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.9/Lilu-1.6.9-DEBUG.zip"
+    },
+    "lilu_1_6_8": {
+        "version": "1.6.8",
+        "sha256": "1yg3xawvkb18334xb7r8sncw5f2jv51ix10q0jgpkwqzzqcxc8nv",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.8/Lilu-1.6.8-RELEASE.zip"
+    },
+    "lilu-debug_1_6_8": {
+        "version": "1.6.8",
+        "sha256": "13hxmfmrlwvs58w0b1x2zn9big2k1p6ikjkbdv8wilxac8lrxyvb",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.8/Lilu-1.6.8-DEBUG.zip"
+    },
+    "lilu_1_6_7": {
+        "version": "1.6.7",
+        "sha256": "1mqbdnbvjx865fy0i2lyax2q7l78m7gf605c1zdy7q9x8h9v8n7v",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.7/Lilu-1.6.7-RELEASE.zip"
+    },
+    "lilu-debug_1_6_7": {
+        "version": "1.6.7",
+        "sha256": "08kj42zwpvg9pl27schd86dd6667dsbhqhiqsln4gggi8n5klxrq",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.7/Lilu-1.6.7-DEBUG.zip"
+    },
+    "lilu_1_6_6": {
+        "version": "1.6.6",
+        "sha256": "0firvqrs2ki7l4rhng26zdvix93sy6bj4rjda7dxwscyiphfs920",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.6/Lilu-1.6.6-RELEASE.zip"
+    },
+    "lilu-debug_1_6_6": {
+        "version": "1.6.6",
+        "sha256": "0avrik9wlad8kfk7mbpwghxib6a2hbcfg8dxxd2j4xhy6dn4cb4m",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.6/Lilu-1.6.6-DEBUG.zip"
+    },
+    "lilu_1_6_5": {
+        "version": "1.6.5",
+        "sha256": "0wzhf497gxzlyarn6n49lrvz8vnbkirsml87rsnq05z3108wkn1r",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.5/Lilu-1.6.5-RELEASE.zip"
+    },
+    "lilu-debug_1_6_5": {
+        "version": "1.6.5",
+        "sha256": "1jn48fk8w5xf5irwjhb6qvh53ynm325rbw5gcccdpvcv1vkbcsx5",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.5/Lilu-1.6.5-DEBUG.zip"
+    },
+    "lilu_1_6_4": {
+        "version": "1.6.4",
+        "sha256": "1wc0pxbriifkb7f016lx6dwbida70gn9b93221qpy22xrqgqbz85",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.4/Lilu-1.6.4-RELEASE.zip"
+    },
+    "lilu-debug_1_6_4": {
+        "version": "1.6.4",
+        "sha256": "1fi38my7mmdw2ziam7bznlvcnzlslr8l72sgggvr9lmqvmw170bc",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.4/Lilu-1.6.4-DEBUG.zip"
+    },
+    "lilu_1_6_3": {
+        "version": "1.6.3",
+        "sha256": "1lmfqv2r8dpx9jf68gd21d23s7h6gaikn8midd6q8c3f2kzmsnn7",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.3/Lilu-1.6.3-RELEASE.zip"
+    },
+    "lilu-debug_1_6_3": {
+        "version": "1.6.3",
+        "sha256": "120vzwi77z60xs5cjqk5mrvnlai3z4rvayfdm7y4qbj9cxqq43jc",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.3/Lilu-1.6.3-DEBUG.zip"
+    },
+    "lilu_1_6_2": {
+        "version": "1.6.2",
+        "sha256": "1mmij9xqy51cgpbpq6hpcdbgbb3b6p4bgkdknk3y43jg0yak09kv",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.2/Lilu-1.6.2-RELEASE.zip"
+    },
+    "lilu-debug_1_6_2": {
+        "version": "1.6.2",
+        "sha256": "1cd8rgkbl55wnby2dyzlqawyqfqcl07bz6rzmsz6rwq3fmsin9n5",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.2/Lilu-1.6.2-DEBUG.zip"
+    },
+    "lilu_1_6_1": {
+        "version": "1.6.1",
+        "sha256": "0ircc6vszfqh3bsm0b19pjq4a4pn1qvgklj6v41gw9v5k2mialps",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.1/Lilu-1.6.1-RELEASE.zip"
+    },
+    "lilu-debug_1_6_1": {
+        "version": "1.6.1",
+        "sha256": "0ilvh12wlm1qjkxjfbmkc2xsj0djz4d53vavkmd63wl5sdwhfxaq",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.1/Lilu-1.6.1-DEBUG.zip"
+    },
+    "lilu_1_6_0": {
+        "version": "1.6.0",
+        "sha256": "0zz1h8f9xng8c7ndbi2fm20n4g96h93zd540ps4q34wpirsf4x4a",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.0/Lilu-1.6.0-RELEASE.zip"
+    },
+    "lilu-debug_1_6_0": {
+        "version": "1.6.0",
+        "sha256": "1nk91bvyqphdspjgkqdmwapicjwpdvy90by3j98glysja2s9ka42",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.6.0/Lilu-1.6.0-DEBUG.zip"
+    },
+    "lilu_1_5_9": {
+        "version": "1.5.9",
+        "sha256": "1qdvc3ws77ffdq4vpv4nmlac7glw9wmdz7336jlq6l7zakqq5pqq",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.9/Lilu-1.5.9-RELEASE.zip"
+    },
+    "lilu-debug_1_5_9": {
+        "version": "1.5.9",
+        "sha256": "16k6d8bq38w7ksgia48srdhappiv6qzx82azdd0rkyld47znhl9c",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.9/Lilu-1.5.9-DEBUG.zip"
+    },
+    "lilu_1_5_8": {
+        "version": "1.5.8",
+        "sha256": "16gs70cf8579n1xv3fbrrgwcbqa0b068nrd95d7nzz55iv5lsbnf",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.8/Lilu-1.5.8-RELEASE.zip"
+    },
+    "lilu-debug_1_5_8": {
+        "version": "1.5.8",
+        "sha256": "1aprwxi0799cx4ankbgwammsklh5sb1jhdrydgklya7gzd28b36d",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.8/Lilu-1.5.8-DEBUG.zip"
+    },
+    "lilu_1_5_7": {
+        "version": "1.5.7",
+        "sha256": "0pf3lc64iakfgali247zy28j1wkz3k1p88g48f1vpgywlw04pb4z",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.7/Lilu-1.5.7-RELEASE.zip"
+    },
+    "lilu-debug_1_5_7": {
+        "version": "1.5.7",
+        "sha256": "1yd441kbfjdgiw4hk7cfi9bw7kzzglbs5gsfrznc9lw112cjv4f6",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.7/Lilu-1.5.7-DEBUG.zip"
+    },
+    "lilu_1_5_6": {
+        "version": "1.5.6",
+        "sha256": "01lgyyq6hmcdgmjxg0s3v80wzh40197iizbvf0y11ccfzx4hl8cw",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.6/Lilu-1.5.6-RELEASE.zip"
+    },
+    "lilu-debug_1_5_6": {
+        "version": "1.5.6",
+        "sha256": "0lkjqdq56p588z2r64pqd3ay86av4aaapjksyxq6r36rihbfp63c",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.6/Lilu-1.5.6-DEBUG.zip"
+    },
+    "lilu_1_5_5": {
+        "version": "1.5.5",
+        "sha256": "0cbfzpn5ik56954r8wnizfswzdzpvzp8ym8sl12n2bzvcln2jrll",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.5/Lilu-1.5.5-RELEASE.zip"
+    },
+    "lilu-debug_1_5_5": {
+        "version": "1.5.5",
+        "sha256": "1987f3qlnvbwn8h0w211l6vcm5rjr26iyrkcfdm9mpykpbhpq0pd",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.5/Lilu-1.5.5-DEBUG.zip"
+    },
+    "lilu_1_5_4": {
+        "version": "1.5.4",
+        "sha256": "07qrh9nvzrdj93bvwnhdnwd4xln54031bkbj5ninmf7gwm94r273",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.4/Lilu-1.5.4-RELEASE.zip"
+    },
+    "lilu-debug_1_5_4": {
+        "version": "1.5.4",
+        "sha256": "083q8q8m0iwjqx3bi156fr0acc0f8z6g357mxs8scwnjfvh9jvv7",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.4/Lilu-1.5.4-DEBUG.zip"
+    },
+    "lilu_1_5_3": {
+        "version": "1.5.3",
+        "sha256": "1hzch7l364f1gcjf2nsxhyiq6plccxh8mf26mibiria09x76yh6y",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.3/Lilu-1.5.3-RELEASE.zip"
+    },
+    "lilu-debug_1_5_3": {
+        "version": "1.5.3",
+        "sha256": "1lpik29i7lk6bfpzpfch29b5fww4zgnm0ymi78y6icxa0llz36nm",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.3/Lilu-1.5.3-DEBUG.zip"
+    },
+    "lilu_1_5_2": {
+        "version": "1.5.2",
+        "sha256": "1d7zvihs2qk3izg226f5h65syjs91blx4z5niwbmspg10ldff7bm",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.2/Lilu-1.5.2-RELEASE.zip"
+    },
+    "lilu-debug_1_5_2": {
+        "version": "1.5.2",
+        "sha256": "1dkmkddilhich3xqg7b6jl19r2b7jybr000siq0xwaam02qn3xl0",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.2/Lilu-1.5.2-DEBUG.zip"
+    },
+    "lilu_1_5_1": {
+        "version": "1.5.1",
+        "sha256": "0qqi7rhg2p4n2zw4j816wi0ghy42d27zdg5vxhbkplb64b0x4hip",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.1/Lilu-1.5.1-RELEASE.zip"
+    },
+    "lilu-debug_1_5_1": {
+        "version": "1.5.1",
+        "sha256": "1dl2mh6w69m137wz7zp7bclb08gmb4pfp7xb3pv35j4cg36nghk2",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.1/Lilu-1.5.1-DEBUG.zip"
+    },
+    "lilu_1_5_0": {
+        "version": "1.5.0",
+        "sha256": "11fyar4an68kahab1c86x6jg4jh7ky69ciaz89gs2wahq8sdv93n",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.0/Lilu-1.5.0-RELEASE.zip"
+    },
+    "lilu-debug_1_5_0": {
+        "version": "1.5.0",
+        "sha256": "157wj1bjcr07dbsfb3rqa2chzwn11k7mphfjcbdzvd9715kyqhwm",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.5.0/Lilu-1.5.0-DEBUG.zip"
+    },
+    "lilu_1_4_9": {
+        "version": "1.4.9",
+        "sha256": "0gq2x7hb45pcg84z6qgbgwsmv7idp27frbqhczw5ls9wrhmqnwm9",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.9/Lilu-1.4.9-RELEASE.zip"
+    },
+    "lilu-debug_1_4_9": {
+        "version": "1.4.9",
+        "sha256": "0rllqm8f9q7q0ijbrkv94bd4sjkqfd0gnv3xw26d93cg1nl6gl85",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.9/Lilu-1.4.9-DEBUG.zip"
+    },
+    "lilu_1_4_8": {
+        "version": "1.4.8",
+        "sha256": "0j7h820gi5b3k85vnvgq2nlwlxfglq7m8i2c6jv1ndxjp1c4imvl",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.8/Lilu-1.4.8-RELEASE.zip"
+    },
+    "lilu-debug_1_4_8": {
+        "version": "1.4.8",
+        "sha256": "1993i44wbqhifl6wr11m66hxyjdja3sh07wb8b4idbiasvl90x74",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.8/Lilu-1.4.8-DEBUG.zip"
+    },
+    "lilu_1_4_7": {
+        "version": "1.4.7",
+        "sha256": "0fw80dmnwwmy72gq6bkf0ak162s47llpys27ki0rjmhy0jglmxdg",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.7/Lilu-1.4.7-RELEASE.zip"
+    },
+    "lilu-debug_1_4_7": {
+        "version": "1.4.7",
+        "sha256": "1q28dxa9pdzdja68vrjsyygjv5345rvz3jis9n4dv0gim75v5kra",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.7/Lilu-1.4.7-DEBUG.zip"
+    },
+    "lilu_1_4_6": {
+        "version": "1.4.6",
+        "sha256": "0rp5ql1a8vgh7hvp2b421x5gsld6f01l4ds6f2m7fpig416w3bp0",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.6/Lilu-1.4.6-RELEASE.zip"
+    },
+    "lilu-debug_1_4_6": {
+        "version": "1.4.6",
+        "sha256": "12db9dznmqhdq0q17m6lcna8pl4q5vkhkfcvgwm8g7ymn8arypxh",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.6/Lilu-1.4.6-DEBUG.zip"
+    },
+    "lilu_1_4_5": {
+        "version": "1.4.5",
+        "sha256": "12y6vqyq2hv7q8q30a4chix85yg5sdjwd8kyglwdx4q1xmgyvnms",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.5/Lilu-1.4.5-RELEASE.zip"
+    },
+    "lilu-debug_1_4_5": {
+        "version": "1.4.5",
+        "sha256": "035cn3rsyimxsdlzm3wqfcynl10jx410c08da1wr0mpm6v64jx2b",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.5/Lilu-1.4.5-DEBUG.zip"
+    },
+    "lilu_1_4_4": {
+        "version": "1.4.4",
+        "sha256": "09qjpkwd270nqpkri5ri49vm849fbfgsycdybrd15vib103zzjdz",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.4/Lilu-1.4.4-RELEASE.zip"
+    },
+    "lilu-debug_1_4_4": {
+        "version": "1.4.4",
+        "sha256": "1azlgr8lrfvyyw5i9zljcjhmqs1jkx4x31c6dw14s1r9nzxmz7ag",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.4/Lilu-1.4.4-DEBUG.zip"
+    },
+    "lilu_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "076lzg32bcm6hnmw814flwslda13c5kc8li0cyic3hb22kb3vh1d",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.3/Lilu-1.4.3-RELEASE.zip"
+    },
+    "lilu-debug_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "09klmv4ivskrqwp63k29lq0sfaagg6afng0hn66zjag3hcljx1r6",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.3/Lilu-1.4.3-DEBUG.zip"
+    },
+    "lilu_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "00cy1ca3qy51m4x4d3yxvs9jawnvpiijcjp409s58ri0hq61xcyb",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.2/Lilu-1.4.2-RELEASE.zip"
+    },
+    "lilu-debug_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "1ykh8ks4i4gh5m2fd1vj436ixsf0asnbddbkvfzgajq9ys0whzap",
+        "url": "https://github.com/acidanthera/Lilu/releases/download/1.4.2/Lilu-1.4.2-DEBUG.zip"
+    }
+}

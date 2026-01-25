@@ -1,0 +1,82 @@
+{
+    "ecenabler_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "1gwz9bxdjnfivm5i6wb9g87dn3g9scd95agcb1nh7q7qajp7i7g0",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.6/ECEnabler-1.0.6-RELEASE.zip"
+    },
+    "ecenabler": {
+        "version": "1.0.6",
+        "sha256": "1gwz9bxdjnfivm5i6wb9g87dn3g9scd95agcb1nh7q7qajp7i7g0",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.6/ECEnabler-1.0.6-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "07d8kxbxrrgvpl7amw7ipa07m4gs2i4ihz7s4svbg1ls0ra6qwfb",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.6/ECEnabler-1.0.6-DEBUG.zip"
+    },
+    "ecenabler-debug": {
+        "version": "1.0.6",
+        "sha256": "07d8kxbxrrgvpl7amw7ipa07m4gs2i4ihz7s4svbg1ls0ra6qwfb",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.6/ECEnabler-1.0.6-DEBUG.zip"
+    },
+    "ecenabler_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "1mkskdgishzynynwr5q5cvzvh29wgr3nc9c8scclw6a4rs5v6196",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.5/ECEnabler-1.0.5-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "0a0l4pnkdr46q3xcrk0gw8gfczj25pyswp1h87b452kh8v9k45dd",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.5/ECEnabler-1.0.5-DEBUG.zip"
+    },
+    "ecenabler_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "0q1qhr19f7kmr2q5wrffs6q1r6ba5l60qwyapq1hz8mdhnbfcyfw",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.4/ECEnabler-1.0.4-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "16slkfmym5kbax40dykfr1b6s7d47zq7s0643dnbqhzxjx4vcz9b",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.4/ECEnabler-1.0.4-DEBUG.zip"
+    },
+    "ecenabler_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "1f4nn0fj18p0gwry6ayxll1ai9nsai2cxa4lydq106vwnl3j5gx6",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.3/ECEnabler-1.0.3-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "1zacrsbwrg04qbqla9grp9pyd06vh3g39p3x58sfy5jg8lk90vvr",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.3/ECEnabler-1.0.3-DEBUG.zip"
+    },
+    "ecenabler_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "11mx064fqqvh45jc6a78cc9wvsax0sq8g0lc8rnqjgh6svx3iq2b",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.2/ECEnabler-1.0.2-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0njhsxh1411fwz7jhvikkcqzdpijx3dzn9bmq41ypjba10375gc2",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.2/ECEnabler-1.0.2-DEBUG.zip"
+    },
+    "ecenabler_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "0hw3v25c3gzry7sf2jk79xk68kilh1qqmalz7cqd4iqdsw9c1wb2",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.1/ECEnabler-1.0.1-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "1hdgk51h24c61rb2c7bpg992ixcn0spz1l175ifv9p6amvq1cp5v",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.1/ECEnabler-1.0.1-DEBUG.zip"
+    },
+    "ecenabler_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1jd7rcxj0clvkm5g71c3q0c3j53wf606yd0srcb04nc5c2h2q3sf",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.0/ECEnabler-1.0.0-RELEASE.zip"
+    },
+    "ecenabler-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1xmqxjqiqmff9xkcwmjhkb0msxizwdx5yiv2hajad0d6fmb4bypy",
+        "url": "https://github.com/1Revenger1/ECEnabler/releases/download/1.0.0/ECEnabler-1.0.0-DEBUG.zip"
+    }
+}

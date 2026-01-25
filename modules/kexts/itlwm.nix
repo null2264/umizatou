@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.itlwm.latest;
-        defaultText = literalExpression "pkgs.oc.itlwm.latest";
+        default = pkgs.oc.itlwm;
+        defaultText = literalExpression "pkgs.oc.itlwm";
         description = ''
           Package containing the itlwm Kext.
         '';

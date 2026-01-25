@@ -1,0 +1,87 @@
+{
+    "intel-bluetooth-firmware_2_4_0": {
+        "version": "2.4.0",
+        "sha256": "10z6gd3rbk3pd53fdyy70hlrkb5hxaxflla7qpb4kg61mxlni2nr",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.4.0/IntelBluetooth-v2.4.0.zip"
+    },
+    "intel-bluetooth-firmware": {
+        "version": "2.4.0",
+        "sha256": "10z6gd3rbk3pd53fdyy70hlrkb5hxaxflla7qpb4kg61mxlni2nr",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.4.0/IntelBluetooth-v2.4.0.zip"
+    },
+    "intel-bluetooth-firmware_2_3_0": {
+        "version": "2.3.0",
+        "sha256": "1pc9gkj1pxa9dp59i2qgxkrbdqjf0wx0bir9qmp01psg1anrxxwz",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.3.0/IntelBluetooth-v2.3.0.zip"
+    },
+    "intel-bluetooth-firmware_2_2_0": {
+        "version": "2.2.0",
+        "sha256": "1jhaw2j71glldvpblqcix08ilja92iirpf5s0xdk098mj1y9nacv",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.2.0/IntelBluetooth-v2.2.0.zip"
+    },
+    "intel-bluetooth-firmware_2_1_0": {
+        "version": "2.1.0",
+        "sha256": "0xp6xfkvmnwyvw55vp92f1gs36l2d0gq1w2cha26h082lp0g9jmv",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.1.0/IntelBluetoothFirmware-v2.1.0.zip"
+    },
+    "intel-bluetooth-firmware_2_1_0-rc1": {
+        "version": "2.1.0-RC1",
+        "sha256": "0yplvb6b4m2b0lpnar11xpkh404gy5fjq1lmldg3hx9xyzxpjk8h",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.1.0-RC1/IntelBluetoothFirmware-v2.1.0_RC1.zip"
+    },
+    "intel-bluetooth-firmware_2_0_1": {
+        "version": "2.0.1",
+        "sha256": "1gzlj6hlrjqgxsnrsx5bv7sfxdnhkigdylwn4vj48ai6kkbygrk7",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.0.1/IntelBluetoothFirmware-v2.0.1.zip"
+    },
+    "intel-bluetooth-firmware_2_0_0": {
+        "version": "2.0.0",
+        "sha256": "1fb9iagcna4za1d39m5w0q8y9nvq2m8ybzmxf5b3j6j6cswq54y9",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.0.0/IntelBluetooth-v2.0.0.zip"
+    },
+    "intel-bluetooth-firmware_2_0_0-rc2": {
+        "version": "2.0.0-RC2",
+        "sha256": "0hxp155lzv0wxd8cd47whw30rljqq54i1gdhcckw9zxgfy10j0i8",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.0.0-RC2/IntelBluetoothFirmware-v2.0.0_RC2-DEBUG.zip"
+    },
+    "intel-bluetooth-firmware_2_0_0-rc1": {
+        "version": "2.0.0-RC1",
+        "sha256": "11yc2p9msb86vp4mnbwjpz1mxw1l9gcgclz4c4whhv1ird64kqd6",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/v2.0.0-RC1/IntelBluetoothFirmware-v2.0.0_RC1-DEBUG.zip"
+    },
+    "intel-bluetooth-firmware_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "088cnnnc4fbbx8hk96720d7n660j6wx209mlzf2w0vn04n6gq7mf",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.1.3/IntelBluetooth.zip"
+    },
+    "intel-bluetooth-firmware_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "12pilmggypgrszvrqjv1wk06wdx515v82hxppm3nj494xakblim6",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.1.2/IntelBluetooth.zip"
+    },
+    "intel-bluetooth-firmware_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "1d19w9v3yw57xhivmkz01ciw334flbdh63h7aqybxz8wz8w922p4",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.1.1/IntelBluetooth.zip"
+    },
+    "intel-bluetooth-firmware_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "05k1pvx0h692vlb86gzhr8p7ph7c3awwp22iggqirksy34j8l928",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.0.3/IntelBluetooth.zip"
+    },
+    "intel-bluetooth-firmware_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1b5ij8sc38c36ayspgw2f18pycn4yjd7pd4wwc7ddkqhli2vkyvy",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.0.2/IntelBluetooth.zip"
+    },
+    "intel-bluetooth-firmware_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "0cw5ach50cm84svzrjlars6hi8g6cf9r2jbrzylg40yy1q8smvnd",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.0.1/IntelBluetoothFirmware.kext.zip"
+    },
+    "intel-bluetooth-firmware_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "15k7sifiaj0yma0vxl49dha4m49z7kck09cpzd8zr8v3h23qkrf9",
+        "url": "https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/download/1.0.0/IntelBluetoothFirmware.kext.zip"
+    }
+}

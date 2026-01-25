@@ -1,8 +1,3 @@
 { lib, pkgs }:
-{
-  cputscsync = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "cputscsync";
-    path = ./.;
-  });
-}
+
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

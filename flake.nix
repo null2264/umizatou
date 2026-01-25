@@ -62,18 +62,18 @@
               kexts.intel-bluetooth-firmware = {
                 enable = true;
                 includeBlueToolFixup = false;
-                package = pkgs.oc.intel-bluetooth-firmware.nightly;
+                package = pkgs.oc.intel-bluetooth-firmware;
               };
 
-              kexts.itlwm = {
-                enable = true;
-                wifiProfiles = [
-                  {
-                    ssid = "ssdt_5G";
-                    password = "zxyssdt112233";
-                  }
-                ];
-              };
+              # kexts.itlwm = {
+              #   enable = true;
+              #   wifiProfiles = [
+              #     {
+              #       ssid = "ssdt_5G";
+              #       password = "zxyssdt112233";
+              #     }
+              #   ];
+              # };
 
               oceanix.opencore = {
                 validate = false;  # Ignore validation for sample
@@ -82,20 +82,20 @@
                   pkgs.oc.airportitlwm.latest-ventura
                   # pkgs.oc.itlwm.latest
                   pkgs.oc.brcmpatchram
-                  pkgs.oc.brightnesskeys.latest
-                  pkgs.oc.cputscsync.latest
+                  pkgs.oc.brightnesskeys
+                  pkgs.oc.cputscsync
                   pkgs.oc.ctlnaahciport
-                  pkgs.oc.debugenhancer.latest
-                  pkgs.oc.ecenabler.latest
-                  pkgs.oc.hibernationfixup.latest
-                  pkgs.oc.intel-bluetooth-firmware.latest
-                  pkgs.oc.intel-mausi.latest
-                  pkgs.oc.lilu.latest
-                  pkgs.oc.nvmefix.latest
-                  pkgs.oc.restrictevents.latest
-                  pkgs.oc.voltageshift.latest
-                  pkgs.oc.voodooi2c.latest
-                  pkgs.oc.voodoormi.latest
+                  pkgs.oc.debugenhancer
+                  pkgs.oc.ecenabler
+                  pkgs.oc.hibernationfixup
+                  pkgs.oc.intel-bluetooth-firmware
+                  pkgs.oc.intel-mausi
+                  pkgs.oc.lilu
+                  pkgs.oc.nvmefix
+                  pkgs.oc.restrictevents
+                  pkgs.oc.voltageshift
+                  pkgs.oc.voodooi2c
+                  pkgs.oc.voodoormi
                   pkgs.oc.voodoops2
                   pkgs.oc.yogasmc
                   pkgs.oc.whatevergreen

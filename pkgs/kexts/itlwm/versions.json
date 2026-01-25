@@ -1,0 +1,47 @@
+{
+    "itlwm_2_3_0": {
+        "version": "2.3.0",
+        "sha256": "1irlghl917pljqc0gghp6va940lqndw14096yc2qxhr65f2kxd5b",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0/itlwm_v2.3.0_stable.kext.zip"
+    },
+    "itlwm": {
+        "version": "2.3.0",
+        "sha256": "1irlghl917pljqc0gghp6va940lqndw14096yc2qxhr65f2kxd5b",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v2.3.0/itlwm_v2.3.0_stable.kext.zip"
+    },
+    "itlwm_2_2_0": {
+        "version": "2.2.0",
+        "sha256": "1px2hc9avlviwmfxjrfvadyib241j5983b3645a3ij8c4m8x35p5",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v2.2.0/itlwm_v2.2.0_stable.kext.zip"
+    },
+    "itlwm_2_1_0": {
+        "version": "2.1.0",
+        "sha256": "0fq9zbmbyynnfdavfnm0z85kl5xywnjkdshw1a64zh3svh06bbz0",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v2.1.0/itlwm_v2.1.0_stable.kext.zip"
+    },
+    "itlwm_2_0_0": {
+        "version": "2.0.0",
+        "sha256": "0vwjqfscj8wy0ldmqvj8185b30n6s33zidawbiw968y7nvm3j25y",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v2.0.0/itlwm_v2.0.0_stable.kext.zip"
+    },
+    "itlwm_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "05b3lsm8x7c93rn7afx4yy3gxfinrdhw0miswq93zb9hlgy60zx0",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v1.3.0/itlwm_v1.3.0_stable.kext.zip"
+    },
+    "itlwm_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "06aa061izinkkqax70hs74gk3m4aw238wvpi8aj5pl0lpx4rqmgv",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v1.2.0/itlwm_v1.2.0_stable.kext.zip"
+    },
+    "itlwm_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "0jxyq6dpkjhg7f0n3jzn5xc5xzbc79a0pv0ynf3w2sa07kc8gxq4",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v1.1.0/itlwm_v1.1.0_stable.kext.zip"
+    },
+    "itlwm_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "07wk35719yigshdbblpsy8m83zqrcmwnydhxdhpgi4ji2a2jadrl",
+        "url": "https://github.com/OpenIntelWireless/itlwm/releases/download/v1.0.0/itlwm_v1.0.0_stable.kext.zip"
+    }
+}

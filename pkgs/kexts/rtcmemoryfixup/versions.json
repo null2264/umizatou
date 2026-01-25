@@ -1,0 +1,92 @@
+{
+    "rtcmemoryfixup_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "0isar3h3k7a2h7qqpcdn0524ikif8z40l04d23qq4d4m8a9rag2i",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.7/RTCMemoryFixup-1.0.7-RELEASE.zip"
+    },
+    "rtcmemoryfixup": {
+        "version": "1.0.7",
+        "sha256": "0isar3h3k7a2h7qqpcdn0524ikif8z40l04d23qq4d4m8a9rag2i",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.7/RTCMemoryFixup-1.0.7-RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "0bb66hcm4fqq14zdp66mhxf8g6c0dcj2d78jwn1085rj3x4cy9yj",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.7/RTCMemoryFixup-1.0.7-DEBUG.zip"
+    },
+    "rtcmemoryfixup-debug": {
+        "version": "1.0.7",
+        "sha256": "0bb66hcm4fqq14zdp66mhxf8g6c0dcj2d78jwn1085rj3x4cy9yj",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.7/RTCMemoryFixup-1.0.7-DEBUG.zip"
+    },
+    "rtcmemoryfixup_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "14aibiwzggrq9czanfmgalc96ajbmj5h5iha4k21qlc5rvmajxgz",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.6/RTCMemoryFixup-1.0.6-RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "1s2fl5l1xi0rcx6wv4p4wfpvgqbzdy0gqjl5g1hnrmq9mb69h5ys",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.6/RTCMemoryFixup-1.0.6-DEBUG.zip"
+    },
+    "rtcmemoryfixup_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "070rswnvjxisxi3j94awcczzdh68fiqx0m159vci6vqbddvxs8z4",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.5/RTCMemoryFixup-1.0.5-RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "0kryhc088wssvsphdzkhl7d21ibj2qyimahxii69pvwad8wmjqyn",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/1.0.5/RTCMemoryFixup-1.0.5-DEBUG.zip"
+    },
+    "rtcmemoryfixup_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "1s8x77kblrjf5mhna818irrijnv17wx3v8fbw9hzdzhvjf77lq8w",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.4/RTCMemoryFixup-1.0.4-RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "0iyvggwd9ipb0m26z6k1vcl8i3n8861yay5d4w0b9r12s8si5wzz",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.4/RTCMemoryFixup-1.0.4-DEBUG.zip"
+    },
+    "rtcmemoryfixup_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "1ry92yvyxr7vzrxrq34k2sfqrb6aig2jgv8399v0fn503x7nbyna",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.3/1.0.3.RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "1dqzfhaa9dr75xs0kw972si0dn3l92w5siy02asg1vibismpf6bq",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.3/1.0.3.DEBUG.zip"
+    },
+    "rtcmemoryfixup_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "08dr71msv94siyr9nql1hnqzsimgck6bdgpgpxdgj0zwfhh8wcwx",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.2/1.0.2.RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0rzacsgb484kmw3gwjwhm8451kmc2i31300f688g3flx7jxm6mm5",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.2/1.0.2.DEBUG.zip"
+    },
+    "rtcmemoryfixup__1_0_1": {
+        "version": ".1.0.1",
+        "sha256": "0vwipx6873xc4f9c66pawgfmb4ff5q2740ddnn4kwlzvq2wviqbj",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v.1.0.1/1.0.1.RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug__1_0_1": {
+        "version": ".1.0.1",
+        "sha256": "02i8ycj2mig1pdj6ig6z31jsgvfn607nwj4q6jgzkri06fxrrml5",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v.1.0.1/1.0.1.DEBUG.zip"
+    },
+    "rtcmemoryfixup_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0x34jldan9cbgpiwzv8kmzbi9nlwmr8bmwz304dxdyaf0v7nynpp",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.0/1.0.0.RELEASE.zip"
+    },
+    "rtcmemoryfixup-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "1w8dhpnmazi63yllq0hczb1b18niflqdjfqahycsgqy8n7lr8qgx",
+        "url": "https://github.com/acidanthera/RTCMemoryFixup/releases/download/v1.0.0/1.0.0.DEBUG.zip"
+    }
+}

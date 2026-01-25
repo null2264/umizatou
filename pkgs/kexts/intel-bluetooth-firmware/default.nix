@@ -1,12 +1,3 @@
 { lib, pkgs }:
 
-{
-  intel-bluetooth-firmware = (import ../../pkger.nix {
-    inherit lib pkgs;
-    path = ./.;
-    fn = ver: {
-      "${ver}" =
-        pkgs.callPackage ./intel-bluetooth-firmware.nix { inherit ver; };
-    };
-  });
-}
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

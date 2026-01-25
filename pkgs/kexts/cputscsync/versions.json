@@ -1,0 +1,132 @@
+{
+    "cputscsync_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "04isz95ll2i3s0nh8hccpfkscbwi43cxv3wygcnbdsbdwlh8g3i8",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.2/CpuTscSync-1.1.2-RELEASE.zip"
+    },
+    "cputscsync": {
+        "version": "1.1.2",
+        "sha256": "04isz95ll2i3s0nh8hccpfkscbwi43cxv3wygcnbdsbdwlh8g3i8",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.2/CpuTscSync-1.1.2-RELEASE.zip"
+    },
+    "cputscsync-debug_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "0l924a7ywsnf0jrlbwvs5dgz57x494d2n3h1cv4yszw68ginz2a2",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.2/CpuTscSync-1.1.2-DEBUG.zip"
+    },
+    "cputscsync-debug": {
+        "version": "1.1.2",
+        "sha256": "0l924a7ywsnf0jrlbwvs5dgz57x494d2n3h1cv4yszw68ginz2a2",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.2/CpuTscSync-1.1.2-DEBUG.zip"
+    },
+    "cputscsync_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "14kcbsw7j10z30lvx0d1znr41kiyzabmdz1s0imc1ws6m53vvbgl",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.1/CpuTscSync-1.1.1-RELEASE.zip"
+    },
+    "cputscsync-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "1i7sh0bhpvyd5iyyhl6cbhx4cbqdpc5mxd0nas77c0a9h5dvzggd",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.1/CpuTscSync-1.1.1-DEBUG.zip"
+    },
+    "cputscsync_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "0d397xnqrsd97a2l55q4lq6i7wx0wssdpzi7a05c49idwm56sl14",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.0/CpuTscSync-1.1.0-RELEASE.zip"
+    },
+    "cputscsync-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "06abbm3pp8l92xfxifrfwxl98xcz0myg1rp2vw44xa44xvl0r8b3",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.1.0/CpuTscSync-1.1.0-DEBUG.zip"
+    },
+    "cputscsync_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "1ljn57jaa4bd8jrx98l46zfp4s5fg3hfn3yiclbfk5d989bmdca5",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.9/CpuTscSync-1.0.9-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "0qy4ym0ihy7mkzif76sg2by51gsykq8nkg08l7z3wif3xbsr0mr2",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.9/CpuTscSync-1.0.9-DEBUG.zip"
+    },
+    "cputscsync_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "037s1khbzing17sx4mpd3bhd429710qkqb3n1j38isq90ryskn46",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.8/CpuTscSync-1.0.8-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "0697naaf94s871g6ibwxjfb16zcmwbh0lfaxkvz2wazqw6pvsbal",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.8/CpuTscSync-1.0.8-DEBUG.zip"
+    },
+    "cputscsync_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "1jzdlyc39lgj84q8p8wpdx6wxia7f5gvh4p6xadkhkfjinrpx3s0",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.7/CpuTscSync-1.0.7-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "1h2jxfvpbp1camphmcbcm76fg4g166qfw65bpirmalqhr4jbyx6z",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.7/CpuTscSync-1.0.7-DEBUG.zip"
+    },
+    "cputscsync_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "0a7x433mrcdp9nwniv33il7cpiizpdl5czz3k1ys691h05ccyanq",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.6/CpuTscSync-1.0.6-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_6": {
+        "version": "1.0.6",
+        "sha256": "0wppnb6dvgp7lhw10bh6135py7s0nns81f4wn51jjcdd5qzj86cf",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.6/CpuTscSync-1.0.6-DEBUG.zip"
+    },
+    "cputscsync_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "1wl2lv9bw4hzvr3v4q4hi6nyzkszksdzv27jywr4m4v9s3r97dw2",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.5/CpuTscSync-1.0.5-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_5": {
+        "version": "1.0.5",
+        "sha256": "1rcrdbapjh91rsawjsdpqpakq7l2sh6rk9sbiyidxs0k30lmijh2",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.5/CpuTscSync-1.0.5-DEBUG.zip"
+    },
+    "cputscsync_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "0ci4bdh21bpy0m2m24nmkdn7rx7vl75w2mczmgw4vm3773myyfay",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.4/CpuTscSync-1.0.4-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_4": {
+        "version": "1.0.4",
+        "sha256": "1hh1gs6dl5cc7p3mdamn1pcdp2yy89a8ysqq1dgsj1vyphw5wj2v",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.4/CpuTscSync-1.0.4-DEBUG.zip"
+    },
+    "cputscsync_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "15r25jmx6qjrb978qrkzmmr2jq5f9da7q1s6ysz1gd2p9p3mk8bg",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.3/CpuTscSync-1.0.3-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_3": {
+        "version": "1.0.3",
+        "sha256": "1zdf2d5pl1xwp40q64x6kqdzn12xkvzpx4mnzd2848573mawqbwq",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.3/CpuTscSync-1.0.3-DEBUG.zip"
+    },
+    "cputscsync_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "0z7zj5mpn3c1apb62sdkd4kk40hws641yd0s6jlyxm7zknvs863g",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.2/CpuTscSync-1.0.2-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_2": {
+        "version": "1.0.2",
+        "sha256": "1379a7phavi3cqdly2drfs924z190wqa5k6w1afkfcifjdi2mg4c",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.2/CpuTscSync-1.0.2-DEBUG.zip"
+    },
+    "cputscsync_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "19kyd6017nply64y0zxz3kgqwxip50gap1c9h10b1mvpc0hawz1h",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.0/CpuTscSync-1.0.0-RELEASE.zip"
+    },
+    "cputscsync-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "13pid5wjj0i042c1ifih018ji23r8nfsbxv7ph44qqac9qdh03df",
+        "url": "https://github.com/acidanthera/CpuTscSync/releases/download/1.0.0/CpuTscSync-1.0.0-DEBUG.zip"
+    }
+}

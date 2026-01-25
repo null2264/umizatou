@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.cpufriend.latest;
-        defaultText = literalExpression "pkgs.oc.cpufriend.latest";
+        default = pkgs.oc.cpufriend;
+        defaultText = literalExpression "pkgs.oc.cpufriend";
         description = ''
           Package containing the CPUFriend Kext.
         '';

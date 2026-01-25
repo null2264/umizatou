@@ -1,0 +1,312 @@
+{
+    "hibernationfixup_1_5_4": {
+        "version": "1.5.4",
+        "sha256": "1anvgvgnmr4hrwbhmi6rwxcnzhq8ddmdafsyp48rsmqmkv7x2gcl",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.4/HibernationFixup-1.5.4-RELEASE.zip"
+    },
+    "hibernationfixup": {
+        "version": "1.5.4",
+        "sha256": "1anvgvgnmr4hrwbhmi6rwxcnzhq8ddmdafsyp48rsmqmkv7x2gcl",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.4/HibernationFixup-1.5.4-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_5_4": {
+        "version": "1.5.4",
+        "sha256": "1fxn417i9b3181zdcznddyvg46g33z8p2d127dkgf64wmzcwly03",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.4/HibernationFixup-1.5.4-DEBUG.zip"
+    },
+    "hibernationfixup-debug": {
+        "version": "1.5.4",
+        "sha256": "1fxn417i9b3181zdcznddyvg46g33z8p2d127dkgf64wmzcwly03",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.4/HibernationFixup-1.5.4-DEBUG.zip"
+    },
+    "hibernationfixup_1_5_3": {
+        "version": "1.5.3",
+        "sha256": "0k41yhdlak5y2sxigr9w18cay1n3y1n4yid9fz87nzpxr0lg9p7w",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.3/HibernationFixup-1.5.3-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_5_3": {
+        "version": "1.5.3",
+        "sha256": "1q9969mf3wsbibw1x8ncp2mx2w363yaimh4vkj9m7cib9rv9sb7c",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.3/HibernationFixup-1.5.3-DEBUG.zip"
+    },
+    "hibernationfixup_1_5_2": {
+        "version": "1.5.2",
+        "sha256": "1jbh1fksd8dhj9yh43xjvy7dx1dhwd3v0lgsl8jlsik52j3767i7",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.2/HibernationFixup-1.5.2-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_5_2": {
+        "version": "1.5.2",
+        "sha256": "1h2z41lih52rip5pvzn041pcg8z4bbw1hdcj1fn5jkzjw49dwggn",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.2/HibernationFixup-1.5.2-DEBUG.zip"
+    },
+    "hibernationfixup_1_5_1": {
+        "version": "1.5.1",
+        "sha256": "0nf9j9ywa2w891n94l90cw2c5rg9z000pc2x5lvpp6knbzw3y9sl",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.1/HibernationFixup-1.5.1-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_5_1": {
+        "version": "1.5.1",
+        "sha256": "0nv00n7mblg5mc5396f1rlaky7cwh68lqma7xz22gsmd7pqvsfsh",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.1/HibernationFixup-1.5.1-DEBUG.zip"
+    },
+    "hibernationfixup_1_5_0": {
+        "version": "1.5.0",
+        "sha256": "0wffwpxx590q8g4f3m9cz69jrbcng3h7q3hqvn8lczriq4xv06lq",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.0/HibernationFixup-1.5.0-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_5_0": {
+        "version": "1.5.0",
+        "sha256": "0dd4njrfnzmhcm8ab2jgaljqc1f5d50cqy53k0a32i3h8nfljm6d",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.5.0/HibernationFixup-1.5.0-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_9": {
+        "version": "1.4.9",
+        "sha256": "1flizk9rxrdbli6ca2lyyb0crwl722qvjbq2mqcads58qbaxb47r",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.9/HibernationFixup-1.4.9-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_9": {
+        "version": "1.4.9",
+        "sha256": "0lh9qwfv880q95l9j4hrv558lv05s38pzi5sysqfkb779am7bc7m",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.9/HibernationFixup-1.4.9-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_8": {
+        "version": "1.4.8",
+        "sha256": "017bnbypdz5i6qms5gnsyim2r0r7187w2c256ijnnlhn0rf3iawy",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.8/HibernationFixup-1.4.8-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_8": {
+        "version": "1.4.8",
+        "sha256": "042vpj5ygprlhipcldisikzj2fra10bz0s7ad34q09qz5m5kbqbc",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.8/HibernationFixup-1.4.8-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_7": {
+        "version": "1.4.7",
+        "sha256": "06clqrf2ayr2jgbazk0g5nqrj75hywmhiba0dq2782nk2qxjy2h7",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.7/HibernationFixup-1.4.7-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_7": {
+        "version": "1.4.7",
+        "sha256": "089q28kg8958gvdzfm0xk32wg6ja49cn2jjl171nf6j64iqr1n74",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.7/HibernationFixup-1.4.7-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_6": {
+        "version": "1.4.6",
+        "sha256": "106p1w65a560sjsbifciv2h2w6q4f6v2sp7j0fa9b56dlsm7xmr4",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.6/HibernationFixup-1.4.6-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_6": {
+        "version": "1.4.6",
+        "sha256": "0nsm7f5la7za4qij1mb8ri55jvwicbnfv40pvfxdrf15p4n0yj1l",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.6/HibernationFixup-1.4.6-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_5": {
+        "version": "1.4.5",
+        "sha256": "12f5p093pfbwwr40lgx4601q9jqailbzgnh6dpq0sw972cdd5acp",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.5/HibernationFixup-1.4.5-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_5": {
+        "version": "1.4.5",
+        "sha256": "0g2r85aq16h3fc3flvl97hhmjgahdkgl5mfajwbyw0yzx1x4n764",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.5/HibernationFixup-1.4.5-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_4": {
+        "version": "1.4.4",
+        "sha256": "171n0gw9i3q6mkdlld0b59s0kwfd6p0b25x40d9p1is8qqqnd9ic",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.4/HibernationFixup-1.4.4-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_4": {
+        "version": "1.4.4",
+        "sha256": "03rj3ii7jzzq43fpn88q7ycqzayml3pckdr8vvh51bvmmznqfgpg",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.4/HibernationFixup-1.4.4-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "0fi79qi3vzfa4ij4px1i0miqvpyks9fz5v8l7jxz515amipvz1r4",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.3/HibernationFixup-1.4.3-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_3": {
+        "version": "1.4.3",
+        "sha256": "18kf37xdn9qb47ba5w54qw5smyjj0r4fykbr34j0a2f59508vkzd",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.3/HibernationFixup-1.4.3-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "0947vkrbzkwpmwwabykgmxzv9j9cxc5rydkwwi3j83j4i63qv047",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.2/HibernationFixup-1.4.2-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_2": {
+        "version": "1.4.2",
+        "sha256": "1i1s4iipabq7rhp535b9bmymg7v91kpnpgv6w364a3hgiixh6q3q",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.2/HibernationFixup-1.4.2-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_1": {
+        "version": "1.4.1",
+        "sha256": "0k3gyv331lyvryfkfpyygx9b9v7yx8rxavszmsxzd7411vky0i0k",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.1/HibernationFixup-1.4.1-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_1": {
+        "version": "1.4.1",
+        "sha256": "0c4i1g8m4adz962ds3p24yjw21838cbhy91f2bky97bfsjg3xyia",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.1/HibernationFixup-1.4.1-DEBUG.zip"
+    },
+    "hibernationfixup_1_4_0": {
+        "version": "1.4.0",
+        "sha256": "06sa1ib6bg1by535s36drrhgga5czsq2hbbm1c2gi7sjp2nfs8cs",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.0/HibernationFixup-1.4.0-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_4_0": {
+        "version": "1.4.0",
+        "sha256": "0yn0q6xnivh0d0xbcn5wm952n6nh6vplbdmsy4j6k2m9r5mhpgqi",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.4.0/HibernationFixup-1.4.0-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_9": {
+        "version": "1.3.9",
+        "sha256": "0v2i8ijbap5ipas0gmg2k9f0wag2jqws0j6q1qrbrkfzv0s8brgb",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.9/HibernationFixup-1.3.9-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_9": {
+        "version": "1.3.9",
+        "sha256": "1r5hczl0cdkv96bz349rzkvx8wv4icbj8qpdpviv3gwk8r5036kj",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.9/HibernationFixup-1.3.9-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_8": {
+        "version": "1.3.8",
+        "sha256": "0qjscmjzb6ni7cmgz2ghdmkv6gc6mg9pk4xxz8smibf65bpq0xg9",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.8/HibernationFixup-1.3.8-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_8": {
+        "version": "1.3.8",
+        "sha256": "14dlkj4r1n6dprcxdvk78vg8xmgx4ns9fj2mmh4xvxlbd28x2xfk",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.8/HibernationFixup-1.3.8-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_7": {
+        "version": "1.3.7",
+        "sha256": "1g1wj8lrphhv6l09v4wjcc306nxm2nw38qc5b5izd95278l4mjaf",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.7/HibernationFixup-1.3.7-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_7": {
+        "version": "1.3.7",
+        "sha256": "0zpnavrq5v5x4vnsin207cy90k46gj3k9dzbpdw46ax59yhjgqg3",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.7/HibernationFixup-1.3.7-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_6": {
+        "version": "1.3.6",
+        "sha256": "0jqb7myjjbvp51gryx6d5039a63qhmz972rcbnlk9lw1xnc3d86g",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.6/HibernationFixup-1.3.6-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_6": {
+        "version": "1.3.6",
+        "sha256": "0rwhkdizn3l3zq3jkqyvmjp2dpl4yvx7w9gh7x9hapkcgmzr64x2",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.6/HibernationFixup-1.3.6-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_5": {
+        "version": "1.3.5",
+        "sha256": "1zaf3fwhxwjg3k54w25zav9lkb4715a05gbx7l0nnb97jgr8sl5w",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.5/HibernationFixup-1.3.5-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_5": {
+        "version": "1.3.5",
+        "sha256": "1inj81ss0sr4flh9jph8725yp29rj3wc4iza88aivc6f1m5kb1yn",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.5/HibernationFixup-1.3.5-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_4": {
+        "version": "1.3.4",
+        "sha256": "1qpizxbxrjnp23rd4ciw9gxd1ngnj9s5g5v054gb02gcfz2z4r1r",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.4/HibernationFixup-1.3.4-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_4": {
+        "version": "1.3.4",
+        "sha256": "1ypxl890qdll851lscylf60myk24l0931xbplzgrxni1birvp8ak",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.4/HibernationFixup-1.3.4-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_3": {
+        "version": "1.3.3",
+        "sha256": "1sf23v833qjz2nxki2all3bcxksy0ll591x9f3c0h9i2qgqgrb74",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.3/HibernationFixup-1.3.3-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_3": {
+        "version": "1.3.3",
+        "sha256": "0dqdjw4dpdjkfb9vc7d5ii49lw7g35sdph7yrx1vm7vg6621sn5s",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.3/HibernationFixup-1.3.3-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_2": {
+        "version": "1.3.2",
+        "sha256": "08qq9grhhiijf6wwzdnfa9jlay9im7p6q36qqrn7bffkd0jnx7bf",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.2/HibernationFixup-1.3.2-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_2": {
+        "version": "1.3.2",
+        "sha256": "01ggm738y67hlzw108s0hfp0ka0jiqz75n3j6y8xdc2d10xlm4w1",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.2/HibernationFixup-1.3.2-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_1": {
+        "version": "1.3.1",
+        "sha256": "09kg8bmagha6f2gcj2n67lqv7sdi19x8zr8n5c4ldwz9d7nf9vx0",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.1/HibernationFixup-1.3.1-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_1": {
+        "version": "1.3.1",
+        "sha256": "14nm9zzyn678c28hwjskpjjnmgwkj5zk92jfjx1qmnynkspi5g98",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.1/HibernationFixup-1.3.1-DEBUG.zip"
+    },
+    "hibernationfixup_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "0zdrmin2pskxh7flzi9isd33jkl4jgsp394hbd8ybmx45y68w588",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.0/HibernationFixup-1.3.0-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "1kimdg358fgfb4f5c0gvn6sk3k037ahlk8c8xx2n6khrpk8l0nll",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.3.0/HibernationFixup-1.3.0-DEBUG.zip"
+    },
+    "hibernationfixup_1_2_9": {
+        "version": "1.2.9",
+        "sha256": "0h6zgiff3vqvl5niwv4f786aq9cz364jnah42d5rmdhg87r17khx",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.9/HibernationFixup-1.2.9-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_2_9": {
+        "version": "1.2.9",
+        "sha256": "1s16d18i9da9n5mmyi9q1qrpqva8p5vvjb9m9ndhjmh5223iflv9",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.9/HibernationFixup-1.2.9-DEBUG.zip"
+    },
+    "hibernationfixup_1_2_8": {
+        "version": "1.2.8",
+        "sha256": "1d1qlns52h5d4dfisdwkv46ilvbq4n6cs4jw1l6q7hmyvlczy9p1",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.8/HibernationFixup-1.2.8-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_2_8": {
+        "version": "1.2.8",
+        "sha256": "0z19l0af9l5d0pyly5w8qaxy177s5qdm8saxfkvifx43xc15mqlm",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.8/HibernationFixup-1.2.8-DEBUG.zip"
+    },
+    "hibernationfixup_1_2_7": {
+        "version": "1.2.7",
+        "sha256": "0a0ld5zcsfcrb07h6vpnxjqdh76bmrv7iijy8lmiqp8wshh6vbpy",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.7/HibernationFixup-1.2.7-RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_2_7": {
+        "version": "1.2.7",
+        "sha256": "18iy8mgnbm0hpphx01fjh8095xxdny8ld255w4q06zsj8086cmxs",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.7/HibernationFixup-1.2.7-DEBUG.zip"
+    },
+    "hibernationfixup_1_2_6": {
+        "version": "1.2.6",
+        "sha256": "087l9y15jf1ncwgr8cm95rmpmjnhnk2ws34b0phr9pq5wad3w86p",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.6/1.2.6.RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_2_6": {
+        "version": "1.2.6",
+        "sha256": "045vwxq9j8q056a0xiav7790qy88gm849479pgf37a1wh38028vl",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.6/1.2.6.DEBUG.zip"
+    },
+    "hibernationfixup_1_2_5": {
+        "version": "1.2.5",
+        "sha256": "15h6ghkzfihvbvfnmwyk1zxgl3b0hxdp28ih1k1wp6ynnsgydqnk",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.5/1.2.5.RELEASE.zip"
+    },
+    "hibernationfixup-debug_1_2_5": {
+        "version": "1.2.5",
+        "sha256": "16n5hhg9482090laqzz9r51pr5r6yrvjjakba5sci2m1ccz4wji0",
+        "url": "https://github.com/acidanthera/HibernationFixup/releases/download/1.2.5/1.2.5.DEBUG.zip"
+    }
+}

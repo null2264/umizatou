@@ -1,9 +1,3 @@
 { lib, pkgs }:
 
-{
-  rtcmemoryfixup = (import ../../stdPkger.nix {
-    inherit lib pkgs;
-    pname = "rtcmemoryfixup";
-    path = ./.;
-  });
-}
+lib.mapAttrs (name: value: pkgs.callPackage ./generic.nix value) (lib.importJSON ./versions.json)

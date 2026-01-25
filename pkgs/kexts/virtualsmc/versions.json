@@ -1,0 +1,312 @@
+{
+    "virtualsmc_1_3_7": {
+        "version": "1.3.7",
+        "sha256": "1v5xpgc9bn8dpcf00hmn2sgp4nc31qygz43s7xwkr33519xynnj0",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.7/VirtualSMC-1.3.7-RELEASE.zip"
+    },
+    "virtualsmc": {
+        "version": "1.3.7",
+        "sha256": "1v5xpgc9bn8dpcf00hmn2sgp4nc31qygz43s7xwkr33519xynnj0",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.7/VirtualSMC-1.3.7-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_7": {
+        "version": "1.3.7",
+        "sha256": "04db0xh69ghzmjvwcaac87j71xfgpxnd133w07j76gdlga0zc28g",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.7/VirtualSMC-1.3.7-DEBUG.zip"
+    },
+    "virtualsmc-debug": {
+        "version": "1.3.7",
+        "sha256": "04db0xh69ghzmjvwcaac87j71xfgpxnd133w07j76gdlga0zc28g",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.7/VirtualSMC-1.3.7-DEBUG.zip"
+    },
+    "virtualsmc_1_3_6": {
+        "version": "1.3.6",
+        "sha256": "014fgdlxmcdyfnjwmh858nkfw68mf1a8105lqqbzqnhqrxplpg5q",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.6/VirtualSMC-1.3.6-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_6": {
+        "version": "1.3.6",
+        "sha256": "1vdrgbzdcv930hih6kci6fm6i4v8bsc78l2nspjakzjds048y16n",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.6/VirtualSMC-1.3.6-DEBUG.zip"
+    },
+    "virtualsmc_1_3_5": {
+        "version": "1.3.5",
+        "sha256": "143ln5clqriizf0h11mn0hgnjfc0538nl8pbp420iniqdvpz34hh",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/v1.3.5/VirtualSMC-1.3.5-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_5": {
+        "version": "1.3.5",
+        "sha256": "03b8flalk9rx767bjrpfs2sp8gkk24jwgpnsnj4cd4fkamww896n",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/v1.3.5/VirtualSMC-1.3.5-DEBUG.zip"
+    },
+    "virtualsmc_1_3_4": {
+        "version": "1.3.4",
+        "sha256": "0083zdnpzv5hp1sdf3ky8z4l9g7f89l4s8snsqvvinwiyy8z61s3",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.4/VirtualSMC-1.3.4-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_4": {
+        "version": "1.3.4",
+        "sha256": "1348c9n5n57yv3ywwkny8hsw8hbj2m7zx3xqs5xhwp3s7q1i2j1h",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.4/VirtualSMC-1.3.4-DEBUG.zip"
+    },
+    "virtualsmc_1_3_3": {
+        "version": "1.3.3",
+        "sha256": "1avgy56rjap9j36qw8xhpgmvfmpcirf4sfh5pqp9bz8cs56jj60x",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.3/VirtualSMC-1.3.3-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_3": {
+        "version": "1.3.3",
+        "sha256": "02dxczlhhva412j6z6x8hf8a5gxr916f2jdc9lx2fz03n77vnh91",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.3/VirtualSMC-1.3.3-DEBUG.zip"
+    },
+    "virtualsmc_1_3_2": {
+        "version": "1.3.2",
+        "sha256": "16v6mhjricqjlp7cjp3c9q7zpvyws3i9flyk6km37h1dncrij2ib",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.2/VirtualSMC-1.3.2-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_2": {
+        "version": "1.3.2",
+        "sha256": "156q9d3ggw7phwfmxz8ky5l4q4dcd6wsbjnl4d9i9g2fzkhid5zf",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.2/VirtualSMC-1.3.2-DEBUG.zip"
+    },
+    "virtualsmc_1_3_1": {
+        "version": "1.3.1",
+        "sha256": "0lkszp7241q77i9n6kk6dbj8z5bfa42wz3dzcvxpkixpn08rf35i",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.1/VirtualSMC-1.3.1-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_1": {
+        "version": "1.3.1",
+        "sha256": "0d39ln3rjp0avcy0af0x1ha5b4ahgl2j0qljd5p8jsnf3bgcz8bx",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.1/VirtualSMC-1.3.1-DEBUG.zip"
+    },
+    "virtualsmc_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "08c4qlbgqgyqqdzm5v03228iflygb6l69gvgawrkaq0yq0ry1xj8",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.0/VirtualSMC-1.3.0-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_3_0": {
+        "version": "1.3.0",
+        "sha256": "0mgc6mqk830bafbigafahr6601c5szr1lw9i3p9d9z45sh9774ng",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.3.0/VirtualSMC-1.3.0-DEBUG.zip"
+    },
+    "virtualsmc_1_2_9": {
+        "version": "1.2.9",
+        "sha256": "1cajn1pmbkzgy3dmhq0gf3r98xc28s2izr36zwnyzhdyi48sxn73",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.9/VirtualSMC-1.2.9-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_9": {
+        "version": "1.2.9",
+        "sha256": "11i9m3pb2yydw9gr90167dgbzpxlxbgnzqww4gxfamfmnyzxjvwk",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.9/VirtualSMC-1.2.9-DEBUG.zip"
+    },
+    "virtualsmc_1_2_8": {
+        "version": "1.2.8",
+        "sha256": "1srvq5j7kjnzafzjxgw34637jgjgfi6pg40i3gh5b15hm7sv0zaj",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.8/VirtualSMC-1.2.8-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_8": {
+        "version": "1.2.8",
+        "sha256": "07rzkj640i0g8ixbp6fyd863pgdvn9qr2695y4dqxlsn7via68jn",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.8/VirtualSMC-1.2.8-DEBUG.zip"
+    },
+    "virtualsmc_1_2_7": {
+        "version": "1.2.7",
+        "sha256": "0m96f1z8fcsgk5ip1li7ca74cnwcjvy9zbi80c7y2zhacq0zvl0q",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.7/VirtualSMC-1.2.7-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_7": {
+        "version": "1.2.7",
+        "sha256": "1aypaw6nc76vwh8f6wjv6dyg75by5j7fv78cmc422zdl1fq1xc76",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.7/VirtualSMC-1.2.7-DEBUG.zip"
+    },
+    "virtualsmc_1_2_6": {
+        "version": "1.2.6",
+        "sha256": "1lg00m4n0y094x4hdcszpdjg7i6yz18mdpwrsq0jy223j1x6f57y",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.6/VirtualSMC-1.2.6-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_6": {
+        "version": "1.2.6",
+        "sha256": "0n7dwzy1xc22f4z66v8ala7pvnydp3rrs62mc50ykicfgzpx1mbb",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.6/VirtualSMC-1.2.6-DEBUG.zip"
+    },
+    "virtualsmc_1_2_5": {
+        "version": "1.2.5",
+        "sha256": "0lsdrmdgxydxqh4p5r3hylcgr5ydv9zkmvcz2ahq39syha3xxcr8",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.5/VirtualSMC-1.2.5-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_5": {
+        "version": "1.2.5",
+        "sha256": "14kp4yzdjk3sjy8gj3dlwx93yr22zm92h12px657szkj3wy0i8mf",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.5/VirtualSMC-1.2.5-DEBUG.zip"
+    },
+    "virtualsmc_1_2_4": {
+        "version": "1.2.4",
+        "sha256": "1dskh01padcma24f2n662dj25y2w0rj8gdhmppnjfywkq804qmav",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.4/VirtualSMC-1.2.4-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_4": {
+        "version": "1.2.4",
+        "sha256": "0a24c9lbnji9ks88qvznwl862ckphzk6ihyh3ynva0sdlw2jd104",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.4/VirtualSMC-1.2.4-DEBUG.zip"
+    },
+    "virtualsmc_1_2_3": {
+        "version": "1.2.3",
+        "sha256": "0qs4h03bvllb7krg1r8n4919168cr0hglb0jbpxgbfha85jby8qv",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.3/VirtualSMC-1.2.3-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_3": {
+        "version": "1.2.3",
+        "sha256": "1hzwf427jb5f2lb4q94v1qy8p6pjh506zk61h946dd3iij1z24xs",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.3/VirtualSMC-1.2.3-DEBUG.zip"
+    },
+    "virtualsmc_1_2_2": {
+        "version": "1.2.2",
+        "sha256": "0bn3914jg9xzg32bi3vsd1kxvlz16hzszjywpxk52lb5h4i5icxj",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.2/VirtualSMC-1.2.2-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_2": {
+        "version": "1.2.2",
+        "sha256": "0nji9wyvkfgr217s6ar1axd8a4gzfr10ry5z0xqck5z7cdrdii8i",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.2/VirtualSMC-1.2.2-DEBUG.zip"
+    },
+    "virtualsmc_1_2_1": {
+        "version": "1.2.1",
+        "sha256": "13yjn136fsydrfmyzd16mdxdl9pqcbp9kvknkji8gli052k47r9y",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.1/VirtualSMC-1.2.1-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_1": {
+        "version": "1.2.1",
+        "sha256": "1c3pmf7ldgrjglw59v5inznx7xy3hyad0bgvlagkc5814ps303rl",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.1/VirtualSMC-1.2.1-DEBUG.zip"
+    },
+    "virtualsmc_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "0w2cvxwsnlr3a8zygii271q055rj5ag7546n6ml07bx32djx3xyn",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.0/VirtualSMC-1.2.0-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_2_0": {
+        "version": "1.2.0",
+        "sha256": "13g6xcwrbfrmb5akb3y51h4czdg2irv9iigg7x6hz0ysbbclyrsp",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.2.0/VirtualSMC-1.2.0-DEBUG.zip"
+    },
+    "virtualsmc_1_1_9": {
+        "version": "1.1.9",
+        "sha256": "1f8yx8iisznnf7g5498hr0i8lnw9fdk341bh891v9pxw7hw5zfi2",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.9/VirtualSMC-1.1.9-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_9": {
+        "version": "1.1.9",
+        "sha256": "1kh8q5czj6asirpva1qygpcbg5cg8fm3la1zm14rwgsb1rkmqz6h",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.9/VirtualSMC-1.1.9-DEBUG.zip"
+    },
+    "virtualsmc_1_1_8": {
+        "version": "1.1.8",
+        "sha256": "0snnrs8mak1fgfrgdzi2sjsdwswhv1hzg8my4bggh5ak4xj5cbpg",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.8/VirtualSMC-1.1.8-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_8": {
+        "version": "1.1.8",
+        "sha256": "0bmvhqbm682jcx5igbdsb4byrzs1mkayly0ys40qgsn955qkymh3",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.8/VirtualSMC-1.1.8-DEBUG.zip"
+    },
+    "virtualsmc_1_1_7": {
+        "version": "1.1.7",
+        "sha256": "0wkydr5jf5rl6jh6nqz9zsqhsmbbx2r9prkm0c6hrc7zyw2qmkw7",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.7/VirtualSMC-1.1.7-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_7": {
+        "version": "1.1.7",
+        "sha256": "0f05np5h6fc0ma8i31qzqsrxs86ah85q6aq7pkz9fzizrl1lqdc9",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.7/VirtualSMC-1.1.7-DEBUG.zip"
+    },
+    "virtualsmc_1_1_6": {
+        "version": "1.1.6",
+        "sha256": "0lp4xzsia4pj9m5n6sjhj5x6qblyiissjpi22mk1929lgiyynjl8",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.6/VirtualSMC-1.1.6-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_6": {
+        "version": "1.1.6",
+        "sha256": "19v2a2gxzalnv28p65xpp41y7dwyry6aa2fzfvji6fdvi56hdmjp",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.6/VirtualSMC-1.1.6-DEBUG.zip"
+    },
+    "virtualsmc_1_1_5": {
+        "version": "1.1.5",
+        "sha256": "1pn9aw1q52fjpwckq792pqgxvcrmkjgdqrjxd93q9maf4fdblllv",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.5/VirtualSMC-1.1.5-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_5": {
+        "version": "1.1.5",
+        "sha256": "0hm9cw570qrw5zg08rymnvls02jv8q6p9bf7zvfgxb7pc0yblqn4",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.5/VirtualSMC-1.1.5-DEBUG.zip"
+    },
+    "virtualsmc_1_1_4": {
+        "version": "1.1.4",
+        "sha256": "0svwxybgkq7qng9nwv600h5x2m6wqdiwz845rbb4d0az5fxgk5h0",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.4/VirtualSMC-1.1.4-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_4": {
+        "version": "1.1.4",
+        "sha256": "1dbr74pcfzlk48fqnhqhnav45pmrdpv72s8c8agb3kjv1fh0ms16",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.4/VirtualSMC-1.1.4-DEBUG.zip"
+    },
+    "virtualsmc_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "05gg3fdiyvg3vfh2l8943m64al09jlmq4m0w3ngvixdd057zxcyc",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.3/VirtualSMC-1.1.3-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_3": {
+        "version": "1.1.3",
+        "sha256": "19g03gxrac4qfvdz80ik2w8zmyk7y2najbbkqf5ixpvf8i8v9lli",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.3/VirtualSMC-1.1.3-DEBUG.zip"
+    },
+    "virtualsmc_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "135080ry0kka3a0bb49i454bhj4s1s5p4amwccp6a8ddw6wcz6zr",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.2/VirtualSMC-1.1.2-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_2": {
+        "version": "1.1.2",
+        "sha256": "1xwhz95hxf1sa7fdfzh0p2bfpk770n9xggs3viwd5pyxqii7j9gl",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.2/VirtualSMC-1.1.2-DEBUG.zip"
+    },
+    "virtualsmc_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "0bli53h7xpypbdp7ajhqrkskmgs45mq7q2q3jwqaf8zih5kg36i9",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.1/VirtualSMC-1.1.1-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_1": {
+        "version": "1.1.1",
+        "sha256": "0qmx75q4hkkkcxm5qzicqpcvkppz457bsvip8l5278iw9gncbrz8",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.1/VirtualSMC-1.1.1-DEBUG.zip"
+    },
+    "virtualsmc_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "060cn3m7d16xaig33shqfdcb44nm4f00crqhazzafy1lwn99lrnn",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.0/VirtualSMC-1.1.0-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_1_0": {
+        "version": "1.1.0",
+        "sha256": "0hzmzz9xf5h3p335rwvbx8lyy8sx7yh7vcb5j790l5baq1ryp7y5",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.1.0/VirtualSMC-1.1.0-DEBUG.zip"
+    },
+    "virtualsmc_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "0q444x251pcn5h8qgbq8wag6zibwjqas11dhmfsymiyfqxp6rd1x",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.0.9/VirtualSMC-1.0.9-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_0_9": {
+        "version": "1.0.9",
+        "sha256": "0812fr6gbw94pqkzqvh6i4i6mkwamwgrk12a0dnrmci4fqyklkgm",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.0.9/VirtualSMC-1.0.9-DEBUG.zip"
+    },
+    "virtualsmc_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "1wxw3c1y8fzm4dy976h7ldvb4cpxpsrgb8c49cjb84lds5n71vyc",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.0.8/VirtualSMC-1.0.8-RELEASE.zip"
+    },
+    "virtualsmc-debug_1_0_8": {
+        "version": "1.0.8",
+        "sha256": "0l9hxyq4afk3p4rl1ygwmmw3jw76i9hpvs0fi0k86mnvxyvrzvh7",
+        "url": "https://github.com/acidanthera/VirtualSMC/releases/download/1.0.8/VirtualSMC-1.0.8-DEBUG.zip"
+    }
+}

@@ -12,8 +12,8 @@ in
 
       package = mkOption {
         type = types.package;
-        default = pkgs.oc.intel-mausi.latest;
-        defaultText = literalExpression "pkgs.oc.intel-mausi.latest";
+        default = pkgs.oc.intel-mausi;
+        defaultText = literalExpression "pkgs.oc.intel-mausi";
         description = ''
           Package containing the IntelMausi Kext.
         '';
