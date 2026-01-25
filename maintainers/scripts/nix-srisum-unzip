@@ -1,0 +1,15 @@
+#!/bin/sh
+FILES_TO_DOWNLOAD=($@)
+mkdir -p /tmp/nix-srisum-unzip-files
+for i in "${FILES_TO_DOWNLOAD[@]}"; do
+	filename="$(uuidgen):archive.zip"
+	wget -q -O /tmp/nix-srisum-unzip-files/$filename $i
+
+	dirname="$(uuidgen):extract"
+	mkdir -p /tmp/nix-srisum-unzip-files/$dirname
+	unzip -qq -d /tmp/nix-srisum-unzip-files/$dirname /tmp/nix-srisum-unzip-files/$filename
+
+	hash=$(nix hash path --type sha256 --format nix32 /tmp/nix-srisum-unzip-files/$dirname)
+	echo "$hash"
+done
+rm -rf /tmp/nix-srisum-unzip-files  # clean up

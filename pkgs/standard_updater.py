@@ -21,10 +21,12 @@ parser.add_argument("--force-reindex", action="store_true", help="force existing
 parser.add_argument("--verbose", "-v", action="store_true", help="print log")
 args = parser.parse_args()
 
+d = os.path.dirname(os.path.abspath(__file__))
+
 def nix_prefetch_sha256(url):
     if args.verbose:
         print(f"Fetching {url}...")
-    return subprocess.run(["nix-prefetch-url", "--type", "sha256", "--unpack", url], capture_output=True, text=True).stdout.strip()
+    return subprocess.run([f"{d}/../maintainers/scripts/nix-srisum-unzip", url], capture_output=True, text=True).stdout.strip()
 
 session = requests.session()
 org = args.org
@@ -170,7 +172,6 @@ def construct_url(version, release_type, *, omit_version = False, omit_filename 
             file_format = f"{filename}-{_version}-{file_format}"
     return f"https://github.com/{org}/{repo}/releases/download/{version}/{file_format}"
 
-d = os.path.dirname(os.path.abspath(__file__))
 target = f"kexts/{pname}"
 if org == "acidanthera" and repo.lower() == "opencorepkg":
     target = "opencore"

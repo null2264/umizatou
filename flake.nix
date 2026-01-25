@@ -65,15 +65,15 @@
                 package = pkgs.oc.intel-bluetooth-firmware;
               };
 
-              # kexts.itlwm = {
-              #   enable = true;
-              #   wifiProfiles = [
-              #     {
-              #       ssid = "ssdt_5G";
-              #       password = "zxyssdt112233";
-              #     }
-              #   ];
-              # };
+              kexts.itlwm = {
+                enable = true;
+                wifiProfiles = [
+                  {
+                    ssid = "ssdt_5G";
+                    password = "zxyssdt112233";
+                  }
+                ];
+              };
 
               oceanix.opencore = {
                 validate = false;  # Ignore validation for sample
