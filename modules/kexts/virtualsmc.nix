@@ -42,7 +42,7 @@ in
             ];
         in mkOption {
           # Unfortunately I can't seems to adjust typecheck error message...
-          type = types.listOf types.str // { check = (x: builtins.elem false (builtins.map (v: builtins.elem v validValues) x) != true); };
+          type = types.listOf (types.addCheck types.str (x: builtins.elem x validValues));
           default = [];
           description = ''
             Which VirtualSMC (bundled) plugin(s) should be included on the EFI installation.
