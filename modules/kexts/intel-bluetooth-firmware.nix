@@ -21,8 +21,8 @@ in
 
       brcmPatchPackage = mkOption {
         type = types.package;
-        default = pkgs.oc.brcmpatchram.latest;
-        defaultText = literalExpression "pkgs.oc.brcmpatchram.latest";
+        default = pkgs.oc.brcmpatchram;
+        defaultText = literalExpression "pkgs.oc.brcmpatchram";
         description = ''
           Package containing the BrcmPatchRAM Kext. Mainly to retrieve BlueToolFixup.kext.
         '';
