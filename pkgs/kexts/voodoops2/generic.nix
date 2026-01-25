@@ -22,7 +22,7 @@ in mkKext rec {
     ../../standard_updater.py
     "acidanthera"
     "VoodooPS2"
-    "--filename VoodooPS2Controller"
+    "--filename=VoodooPS2Controller"
   ];
 
   inherit stdenv;

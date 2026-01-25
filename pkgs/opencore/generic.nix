@@ -17,10 +17,10 @@ stdenv.mkDerivation rec {
   };
 
   passthru.updateScript = [
-    ../../standard_updater.py
+    ../standard_updater.py
     "acidanthera"
     "OpenCorePkg"
-    "--filename OpenCore"
+    "--filename=OpenCore"
   ];
 
   installPhase = ''

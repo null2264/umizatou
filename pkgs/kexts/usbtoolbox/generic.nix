@@ -22,8 +22,8 @@ in mkKext rec {
     ../../standard_updater.py
     "USBToolBox"
     "kext"
-    "--filename USBToolBox"
-    "--pname usbtoolbox"
+    "--filename=USBToolBox"
+    "--pname=usbtoolbox"
   ];
 
   inherit stdenv;

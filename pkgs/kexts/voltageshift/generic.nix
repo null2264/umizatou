@@ -22,8 +22,8 @@ in mkKext rec {
     ../../standard_updater.py
     "xCuri0"
     "VoltageShiftSecure"
-    "--filename VoltageShift"
-    "--pname voltageshift"
+    "--filename=VoltageShift"
+    "--pname=voltageshift"
   ];
 
   inherit stdenv;

@@ -23,8 +23,8 @@ in mkKext rec {
     ../../standard_updater.py
     "OpenIntelWireless"
     "IntelBluetoothFirmware"
-    "--filename IntelBluetooth"
-    "--pname intel-bluetooth-firmware"
+    "--filename=IntelBluetooth"
+    "--pname=intel-bluetooth-firmware"
   ];
 
   inherit stdenv;

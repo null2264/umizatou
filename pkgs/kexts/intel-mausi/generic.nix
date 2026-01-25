@@ -22,7 +22,7 @@ in mkKext rec {
     ../../standard_updater.py
     "acidanthera"
     "IntelMausi"
-    "--pname intel-mausi"
+    "--pname=intel-mausi"
   ];
 
   inherit stdenv;
