@@ -88,6 +88,7 @@
                   pkgs.oc.debugenhancer
                   pkgs.oc.ecenabler
                   pkgs.oc.hibernationfixup
+                  pkgs.oc.ibridged
                   pkgs.oc.intel-bluetooth-firmware
                   pkgs.oc.intel-mausi
                   pkgs.oc.lilu

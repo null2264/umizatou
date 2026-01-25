@@ -1,0 +1,32 @@
+{
+    "ibridged_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "0nrhm7acm5gjyk657swj10652dz3g2q19sysi6kdd4ybsyipf0c0",
+        "url": "https://github.com/Carnations-Botanica/iBridged/releases/download/1.0.1/iBridged-1.0.1-RELEASE.zip"
+    },
+    "ibridged": {
+        "version": "1.0.1",
+        "sha256": "0nrhm7acm5gjyk657swj10652dz3g2q19sysi6kdd4ybsyipf0c0",
+        "url": "https://github.com/Carnations-Botanica/iBridged/releases/download/1.0.1/iBridged-1.0.1-RELEASE.zip"
+    },
+    "ibridged-debug_1_0_1": {
+        "version": "1.0.1",
+        "sha256": "1cr7rnzy6pb3l6s2f0qgnrlh5h33c8cwagy7xcf1h7mcpny3p3nz",
+        "url": "https://github.com/Carnations-Botanica/iBridged/releases/download/1.0.1/iBridged-1.0.1-DEBUG.zip"
+    },
+    "ibridged-debug": {
+        "version": "1.0.1",
+        "sha256": "1cr7rnzy6pb3l6s2f0qgnrlh5h33c8cwagy7xcf1h7mcpny3p3nz",
+        "url": "https://github.com/Carnations-Botanica/iBridged/releases/download/1.0.1/iBridged-1.0.1-DEBUG.zip"
+    },
+    "ibridged_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0div9rcac8nsljc21cwjb1phxg1phmhs06daqnl9dsn79lgl24af",
+        "url": "https://github.com/Carnations-Botanica/iBridged/releases/download/1.0.0/iBridged-1.0.0-RELEASE.zip"
+    },
+    "ibridged-debug_1_0_0": {
+        "version": "1.0.0",
+        "sha256": "0hvapb3ff0bx6axfp3c45r8q3b01lz3ykya22xgjfxa34li5119f",
+        "url": "https://github.com/Carnations-Botanica/iBridged/releases/download/1.0.0/iBridged-1.0.0-DEBUG.zip"
+    }
+}
