@@ -1,7 +1,7 @@
 {
   description = "OpenCore bootloader manager with Nix";
 
-  inputs.nixpkgs.url = "github:NixOS/nixpkgs/release-25.11";
+  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
   inputs.utils.url = "github:numtide/flake-utils";
 
   outputs = { self, nixpkgs, utils, ... }: with utils.lib;
