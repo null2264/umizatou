@@ -1,9 +1,7 @@
 { lib, pkgs }:
 
-let
-  mkKext = import ../../lib/mkKext.nix;
-in {
-  applemcereporterdisabler = (mkKext rec {
+{
+  applemcereporterdisabler = (lib.oc.mkKext rec {
     pname = "applemcereporterdisabler";
     version = "1.0.0";
 

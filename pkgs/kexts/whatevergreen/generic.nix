@@ -7,9 +7,7 @@
   fetchzip,
   ...
 }:
-let
-  mkKext = import ../../lib/mkKext.nix;
-in mkKext rec {
+lib.oc.mkKext rec {
   inherit version;
   pname = "whatevergreen";
 

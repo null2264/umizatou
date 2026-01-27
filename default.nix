@@ -4,8 +4,10 @@ import <nixpkgs> {
   system = builtins.currentSystem;
   overlays = [
     (final: prev: {
+      lib = (import ./lib/stdlib-extended.nix prev.lib);
+
       oc = (import ./pkgs {
-        inherit (prev) lib;
+        lib = final.lib;
         pkgs = prev;
       });
     })

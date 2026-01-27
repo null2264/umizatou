@@ -7,9 +7,7 @@
   ...
 }:
 
-let
-  mkKext = import ../../lib/mkKext.nix;
-in mkKext rec {
+lib.oc.mkKext rec {
   pname = "airportitlwm";
   version = canonicalVersion;
 

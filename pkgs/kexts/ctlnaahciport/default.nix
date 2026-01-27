@@ -1,9 +1,7 @@
 { lib, pkgs }:
 
-let
-  mkKext = import ../../lib/mkKext.nix;
-in {
-  ctlnaahciport = (mkKext rec {
+{
+  ctlnaahciport = (lib.oc.mkKext rec {
     pname = "ctlnaahciport";
     version = "1.0.0";
 

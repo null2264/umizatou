@@ -7,9 +7,8 @@
   fetchzip,
   ...
 }:
-let
-  mkKext = import ../../lib/mkKext.nix;
-in mkKext rec {
+
+lib.oc.mkKext rec {
   # TODO: Add stripped down version
   inherit version;
   pname = "intel-bluetooth-firmware";

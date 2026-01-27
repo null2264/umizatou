@@ -11,7 +11,7 @@
         OpenCoreConfig =
           { modules ? [ ]
           , pkgs
-          , lib ? pkgs.lib
+          , lib ? (import ./lib/stdlib-extended.nix pkgs.lib)
           , extraSpecialArgs ? { }
           , check ? true
           }@args:
@@ -22,8 +22,10 @@
       };
 
       overlays.default = final: prev: {
+        lib = (import ./lib/stdlib-extended.nix prev.lib);
+
         oc = (import ./pkgs {
-          inherit (prev) lib;
+          lib = final.lib;
           pkgs = prev;
         });
       };
