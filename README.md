@@ -1,6 +1,6 @@
-# `oceanix`
+#  Umi Zatō
 
-This project provides a basic to manage [OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg) configuration using the [Nix](https://nixos.org/explore.html) package manager.
+Umi Zatō is a fork of [oceanix](https://github.com/LEXUGE/oceanix). This project provides a basic to manage [OpenCore bootloader](https://github.com/acidanthera/OpenCorePkg) configuration using the [Nix](https://nixos.org/explore.html) package manager.
 
 ## Features
 
