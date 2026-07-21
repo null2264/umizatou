@@ -1,20 +1,30 @@
 {
+    "brcmpatchram_2_7_2": {
+        "version": "2.7.2",
+        "sha256": "0ihs8rzbr5hjjpw03fgy7a8km2qvnwdh41p14wyma85yqbyn4j7w",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.2/BrcmPatchRAM-2.7.2-RELEASE.zip"
+    },
+    "brcmpatchram": {
+        "version": "2.7.2",
+        "sha256": "0ihs8rzbr5hjjpw03fgy7a8km2qvnwdh41p14wyma85yqbyn4j7w",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.2/BrcmPatchRAM-2.7.2-RELEASE.zip"
+    },
+    "brcmpatchram-debug_2_7_2": {
+        "version": "2.7.2",
+        "sha256": "04zd1v5yv9sk9578rzsd6rvzd56gg874kkhkd2g89ai0pa7nqh1a",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.2/BrcmPatchRAM-2.7.2-DEBUG.zip"
+    },
+    "brcmpatchram-debug": {
+        "version": "2.7.2",
+        "sha256": "04zd1v5yv9sk9578rzsd6rvzd56gg874kkhkd2g89ai0pa7nqh1a",
+        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.2/BrcmPatchRAM-2.7.2-DEBUG.zip"
+    },
     "brcmpatchram_2_7_1": {
         "version": "2.7.1",
         "sha256": "1r4g71gb9y9v2wcjsfkggjrlxssakk5cg38xmsgvqf26zak6ginw",
         "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-RELEASE.zip"
     },
-    "brcmpatchram": {
-        "version": "2.7.1",
-        "sha256": "1r4g71gb9y9v2wcjsfkggjrlxssakk5cg38xmsgvqf26zak6ginw",
-        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-RELEASE.zip"
-    },
     "brcmpatchram-debug_2_7_1": {
-        "version": "2.7.1",
-        "sha256": "15mcc9bml1gxnzsbnk1k1p4l5sn38ha6yi449wdsbyf0lck8fh6c",
-        "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-DEBUG.zip"
-    },
-    "brcmpatchram-debug": {
         "version": "2.7.1",
         "sha256": "15mcc9bml1gxnzsbnk1k1p4l5sn38ha6yi449wdsbyf0lck8fh6c",
         "url": "https://github.com/acidanthera/BrcmPatchRAM/releases/download/2.7.1/BrcmPatchRAM-2.7.1-DEBUG.zip"
