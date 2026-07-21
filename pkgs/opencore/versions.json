@@ -1,20 +1,30 @@
 {
+    "opencore_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5",
+        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.7/OpenCore-1.0.7-RELEASE.zip"
+    },
+    "opencore": {
+        "version": "1.0.7",
+        "sha256": "0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5",
+        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.7/OpenCore-1.0.7-RELEASE.zip"
+    },
+    "opencore-debug_1_0_7": {
+        "version": "1.0.7",
+        "sha256": "118y4fqy4gijcw5v92xkx1z0j199z2dp1zbq1b5prn0im0jm4bai",
+        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.7/OpenCore-1.0.7-DEBUG.zip"
+    },
+    "opencore-debug": {
+        "version": "1.0.7",
+        "sha256": "118y4fqy4gijcw5v92xkx1z0j199z2dp1zbq1b5prn0im0jm4bai",
+        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.7/OpenCore-1.0.7-DEBUG.zip"
+    },
     "opencore_1_0_6": {
         "version": "1.0.6",
         "sha256": "1kzi57kx7a70kxsf6l2aifalpw9cydb97nwbw2hvqv96kr2k11zr",
         "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.6/OpenCore-1.0.6-RELEASE.zip"
     },
-    "opencore": {
-        "version": "1.0.6",
-        "sha256": "1kzi57kx7a70kxsf6l2aifalpw9cydb97nwbw2hvqv96kr2k11zr",
-        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.6/OpenCore-1.0.6-RELEASE.zip"
-    },
     "opencore-debug_1_0_6": {
-        "version": "1.0.6",
-        "sha256": "0cpqx3pxk77ph0swkm422w29p7glhsssc8q95yr4sp3rslga158x",
-        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.6/OpenCore-1.0.6-DEBUG.zip"
-    },
-    "opencore-debug": {
         "version": "1.0.6",
         "sha256": "0cpqx3pxk77ph0swkm422w29p7glhsssc8q95yr4sp3rslga158x",
         "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/1.0.6/OpenCore-1.0.6-DEBUG.zip"
@@ -298,15 +308,5 @@
         "version": "0.7.8",
         "sha256": "0favp62vmgws01hnkp0c1rcz7m1qqa3mfbljn7zil514kml61x7b",
         "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/0.7.8/OpenCore-0.7.8-DEBUG.zip"
-    },
-    "opencore_0_7_7": {
-        "version": "0.7.7",
-        "sha256": "1s602981yhv1bvdzkpmpkn7pz1v3k89fi5f3dhz9rx3ydlsy3ldh",
-        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/0.7.7/OpenCore-0.7.7-RELEASE.zip"
-    },
-    "opencore-debug_0_7_7": {
-        "version": "0.7.7",
-        "sha256": "187gmsg9lyk9sglm13wikkya03d11s35wyhzsvm5xd6zzkmk7b6w",
-        "url": "https://github.com/acidanthera/OpenCorePkg/releases/download/0.7.7/OpenCore-0.7.7-DEBUG.zip"
     }
 }
