@@ -1,20 +1,30 @@
 {
+    "applealc_1_9_7": {
+        "version": "1.9.7",
+        "sha256": "0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.7/AppleALC-1.9.7-RELEASE.zip"
+    },
+    "applealc": {
+        "version": "1.9.7",
+        "sha256": "0sjjj9z1dhilhpc8pq4154czrb79z9cm044jvn75kxcjv6v5l2m5",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.7/AppleALC-1.9.7-RELEASE.zip"
+    },
+    "applealc-debug_1_9_7": {
+        "version": "1.9.7",
+        "sha256": "0ih1pz0zhn96kswgj90q1c4dy3az3z6m30xy3hr77vz3w72wxr80",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.7/AppleALC-1.9.7-DEBUG.zip"
+    },
+    "applealc-debug": {
+        "version": "1.9.7",
+        "sha256": "0ih1pz0zhn96kswgj90q1c4dy3az3z6m30xy3hr77vz3w72wxr80",
+        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.7/AppleALC-1.9.7-DEBUG.zip"
+    },
     "applealc_1_9_6": {
         "version": "1.9.6",
         "sha256": "1x8gx2wmzc9ss4blchh8kfx7ycg455m4j2fkq4s65wixcrpd329l",
         "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-RELEASE.zip"
     },
-    "applealc": {
-        "version": "1.9.6",
-        "sha256": "1x8gx2wmzc9ss4blchh8kfx7ycg455m4j2fkq4s65wixcrpd329l",
-        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-RELEASE.zip"
-    },
     "applealc-debug_1_9_6": {
-        "version": "1.9.6",
-        "sha256": "0cmhxy0g6jk6smwbinf7av3dg6w29nxxvxyrgnmqcygal6ddc1zq",
-        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-DEBUG.zip"
-    },
-    "applealc-debug": {
         "version": "1.9.6",
         "sha256": "0cmhxy0g6jk6smwbinf7av3dg6w29nxxvxyrgnmqcygal6ddc1zq",
         "url": "https://github.com/acidanthera/AppleALC/releases/download/1.9.6/AppleALC-1.9.6-DEBUG.zip"
@@ -298,15 +308,5 @@
         "version": "1.6.8",
         "sha256": "074dq02mkx60ayci8ygk7qp8xh85wija94nlrgfgpljy4597mzhy",
         "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.8/AppleALC-1.6.8-DEBUG.zip"
-    },
-    "applealc_1_6_7": {
-        "version": "1.6.7",
-        "sha256": "1cawz55r1mnyg44794yschj0677ilpy0b68wsbr8mycam3khd5cn",
-        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.7/AppleALC-1.6.7-RELEASE.zip"
-    },
-    "applealc-debug_1_6_7": {
-        "version": "1.6.7",
-        "sha256": "0d5panqc36s2cv13vzvshc4b3ahcvr0gydp7lss8iwmzk20hbcwb",
-        "url": "https://github.com/acidanthera/AppleALC/releases/download/1.6.7/AppleALC-1.6.7-DEBUG.zip"
     }
 }
